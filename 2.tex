@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage[table]{xcolor}
+\usepackage{tabu}
+\usepackage{makecell,interfaces-makecell}
+
+
+
+
+\begin{document}
+\taburowcolors 10{green!25 .. yellow!80}
+\begin{tabu}{X[-1]X}
+%\everyrow{\midrule}
+\repeatcell 2{
+rows=10,
+text/col1=Teste,
+text/col2={Row number
+       \row$=$\thetaburow},
+}
+\end{tabu}
+
+\end{document}

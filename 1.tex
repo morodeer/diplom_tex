@@ -1,0 +1,37 @@
+\documentclass{article}      
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[russian]{babel}
+\usepackage{multirow}
+\usepackage{tabu}
+\usepackage{geometry}
+\usepackage{makecell,interfaces-makecell}
+\usepackage[table]{xcolor}
+\geometry{
+top= 20mm,
+left= 20mm,
+right= 20mm,
+bottom= 20mm
+}
+\usepackage{xcolor}
+\begin{document}
+
+%\taburowcolors [2] 2{gray!25 .. white!50}
+\tabulinesep = 1.0mm
+\begin{tabu}{|X[m c]|X[c]|X[c]|X[c]|X[c]||X[c]|X[c]|X[c]|X[c]|}
+\hline
+\multirow{2}{*}[-2ex]{N} & \multicolumn{4}{c||}{Вес [кг]} & \multicolumn{4}{c|}{Площадь поверхности[м]} \\ \cline{2-9}
+& Верхние \linebreak панели & Нижние панели & Боковые стенки & \multirow{1}{*}[0ex]{$\sum$} & Верхние панели & Нижние панели & Боковые стенки & \multirow{1}{*}[0ex]{$\sum$} \\
+\hline
+
+\rowcolors{3}{gray}{white}
+\input{data}
+
+42 & 175.591 & 210.828 & 70.877 & 457.295 & 3.230 & 2.970 & 7.660 & 13.840\\ \hline
+\end{tabu}
+
+
+
+
+
+\end{document}
