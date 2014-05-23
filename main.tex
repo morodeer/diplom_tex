@@ -1,5 +1,12 @@
 \documentclass[12pt,a4paper,russian,emptystyle]{report}     
 
+\usepackage{graphicx}
+\graphicspath{ {./figures/} }
+\DeclareGraphicsExtensions{.png,.jpg}
+
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{amsmath}
 \usepackage[utf8]{inputenc}
 \usepackage[T2A]{fontenc}
 \usepackage[russian]{babel}
@@ -16,11 +23,17 @@
 }
 \begin{document}
 \input{TitleList}
-\input{Introduction}
-\input{Preparation}
-\input{Solving}
+\tableofcontents
+\input{chapters/Introduction}
+\input{chapters/Preparation}
+\input{chapters/Solution}
+\tableofcontents
 
 
 \newpage
 \listoftables
+\listoffigures
+
+\bibliographystyle{plain}
+\bibliography{bib}
 \end{document}
