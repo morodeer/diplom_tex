@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.21)  26 MAY 2014 23:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.5.21)  27 MAY 2014 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 11 languages loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,54 +24,54 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
 )))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count89
 \float@exts=\toks15
@@ -79,28 +79,28 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks16
 \@floatcapt=\box27
 )
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen105
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen106
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count90
@@ -141,19 +141,19 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -303,7 +303,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -334,7 +334,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -358,15 +358,15 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/base/t2aenc.dfu
 File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -558,37 +558,37 @@ File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2013/12/03 3.9h The Babel package
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/05/16 v3.9f The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/babel-russian/russianb.ld
+f
 Language: russian 2013/04/13 1.3a Russian support from the babel system
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2013/12/03 3.9h Babel common definitions
+ (d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/05/16 v3.9f Babel common definitions
 \babel@savecnt=\count102
 \U@D=\dimen114
 )
 Package babel Info: Making " an active character on input line 147.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen115
 )
-(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen116
 \extrarowheight=\dimen117
@@ -610,10 +610,10 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box30
 \sift@deathcycles=\count104
@@ -643,10 +643,10 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@vleads=\box34
 \tabu@cellskip=\skip49
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
@@ -663,10 +663,10 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layoutvoffset=\dimen136
 \Gm@dimlist=\toks28
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen137
@@ -684,14 +684,7 @@ Package caption Info: float package is loaded.
 LaTeX Warning: Unused global option(s):
     [emptystyle].
 
-(./main.aux
-
-LaTeX Warning: Label `tab:KessOptimBigTable' multiply defined.
-
-
-LaTeX Warning: Label `fig:Optimization3dplot' multiply defined.
-
-)
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -708,7 +701,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
- (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count115
 \scratchdimen=\dimen144
@@ -721,11 +715,10 @@ LaTeX Font Info:    ... okay on input line 26.
 \MPnumerator=\count119
 \makeMPintoPDFobject=\count120
 \everyMPtoPDFconversion=\toks30
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+) (d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -734,22 +727,21 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+)) (d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -760,7 +752,8 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.jpg,.pdf,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cf
+g
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -802,15 +795,15 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 (./TitleList.tex [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+{d:/InstalledSoft/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) 
 (./main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
  (./chapters/Introduction.tex [1
 
-]) (./chapters/PracticalValue.tex
-[2
+])
+(./chapters/PracticalValue.tex [2
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
@@ -833,50 +826,61 @@ Package pdftex.def Info: ./figures/rq180concept.png used on input line 16.
  <./figures/OriginalSectionWithEngine.pdf>]) (./chapters/Solution.tex [4 <./fig
 ures/rq180concept.png (PNG copy)>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-(./sections/creationOfModel.tex (./data.tex) (./data.tex)
-Overfull \hbox (0.85065pt too wide) in paragraph at lines 22--22
- []\T2A/cmr/m/n/12 Боковые 
- []
+(./sections/creationOfModel.tex
+<./figures/CurvedKessonPatran.png, id=40, 1355.0625pt x 208.78pt>
+File: ./figures/CurvedKessonPatran.png Graphic file (type png)
 
+<use ./figures/CurvedKessonPatran.png>
+Package pdftex.def Info: ./figures/CurvedKessonPatran.png used on input line 7.
 
-Overfull \hbox (0.85065pt too wide) in paragraph at lines 22--22
- []\T2A/cmr/m/n/12 Боковые 
- []
+(pdftex.def)             Requested size: 435.32422pt x 67.07217pt.
 
-(./data.tex) [5
+<./figures/KessSectionExample.pdf, id=41, 1084.05pt x 578.16pt>
+File: ./figures/KessSectionExample.pdf Graphic file (type pdf)
 
-] [6]
-<./figures/Optimization3dplot.png, id=51, 767.9892pt x 512.1534pt>
-File: ./figures/Optimization3dplot.png Graphic file (type png)
-
-<use ./figures/Optimization3dplot.png>
-Package pdftex.def Info: ./figures/Optimization3dplot.png used on input line 31
+<use ./figures/KessSectionExample.pdf>
+Package pdftex.def Info: ./figures/KessSectionExample.pdf used on input line 16
 .
-(pdftex.def)             Requested size: 652.80562pt x 435.32422pt.
- [7 <./figures/Optimization3dplot.png>])
-(./sections/optimizationOfCentroplan.tex (./data.tex) (./data.tex)
-Overfull \hbox (0.85065pt too wide) in paragraph at lines 21--21
+(pdftex.def)             Requested size: 241.84843pt x 128.97763pt.
+ [5
+
+ <./figures/CurvedKessonPatran.png> <./figures/KessSectionExample.pdf>] (./data
+.tex) (./data.tex)
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 36--36
  []\T2A/cmr/m/n/12 Боковые 
  []
 
 
-Overfull \hbox (0.85065pt too wide) in paragraph at lines 21--21
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 36--36
  []\T2A/cmr/m/n/12 Боковые 
  []
 
-(./data.tex) [8
+(./data.tex) [6] (./data/massSquareTableNormed.tex)
+(./data/massSquareTableNormed.tex)
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 55--55
+ []\T2A/cmr/m/n/12 Боковые 
+ []
 
 
-] [9]
-File: ./figures/Optimization3dplot.png Graphic file (type png)
- <use ./figures/Optimization3dplot.png>
-Package pdftex.def Info: ./figures/Optimization3dplot.png used on input line 30
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 55--55
+ []\T2A/cmr/m/n/12 Боковые 
+ []
+
+(./data/massSquareTableNormed.tex) [7] [8]
+<./figures/Optimization3dplot.pdf, id=69, 772.6055pt x 519.83939pt>
+File: ./figures/Optimization3dplot.pdf Graphic file (type pdf)
+
+<use ./figures/Optimization3dplot.pdf>
+Package pdftex.def Info: ./figures/Optimization3dplot.pdf used on input line 64
 .
-(pdftex.def)             Requested size: 652.80562pt x 435.32422pt.
- [10]))
-(./chapters/Validation.tex
+(pdftex.def)             Requested size: 718.91652pt x 483.69687pt.
+
+
+LaTeX Warning: Float too large for page by 24.49998pt on input line 66.
+
+[9 <./figures/Optimization3dplot.pdf>])) (./chapters/Validation.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-) [11
+) [10
 
 
 
@@ -884,49 +888,48 @@ Package pdftex.def Info: ./figures/Optimization3dplot.png used on input line 30
 \tf@lot=\write4
 \openout4 = `main.lot'.
 
- [12
+ [11
 
 ] (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- (./main.bbl [13
+ (./main.bbl [12
 
 ]
 LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 7.
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+(d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)) [14
+))
+[13
 
-] (./main.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 6540 strings out of 494474
- 89383 string characters out of 6172703
- 228459 words of memory out of 5000000
- 9596 multiletter control sequences out of 15000+600000
- 17910 words of font info for 40 fonts, out of 8000000 for 9000
- 452 hyphenation exceptions out of 8191
- 41i,18n,46p,1564b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/morodeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </home/
-morodeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/latt1200.600pk> </home/morodeer/.
-texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/morodeer/.texmf-var/
-fonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </home/morodeer/.texmf-var/fonts/pk/l
-jfour/lh/lh-t2a/labx1200.600pk> </home/morodeer/.texmf-var/fonts/pk/ljfour/lh/l
-h-t2a/labx2488.600pk> </home/morodeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/laxc
-1200.600pk> </home/morodeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk
-> </home/morodeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on main.pdf (15 pages, 542629 bytes).
+ 6537 strings out of 493315
+ 91070 string characters out of 6135239
+ 287682 words of memory out of 5000000
+ 9818 multiletter control sequences out of 15000+600000
+ 16286 words of font info for 38 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 41i,18n,46p,1527b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/InstalledSoft/texlive/2013/texmf-dist/fonts/enc/dvips/cm-su
+per/cm-super-t2a.enc}<d:/InstalledSoft/texlive/2013/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><d:/InstalledSoft/texlive/2013/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><d:/InstalledSoft/texlive/2013/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb><d:/InstalledSoft/texlive/2013/texmf-dist/font
+s/type1/public/cm-super/sfbx1200.pfb><d:/InstalledSoft/texlive/2013/texmf-dist/
+fonts/type1/public/cm-super/sfbx1728.pfb><d:/InstalledSoft/texlive/2013/texmf-d
+ist/fonts/type1/public/cm-super/sfbx2488.pfb><d:/InstalledSoft/texlive/2013/tex
+mf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/InstalledSoft/texlive/2013
+/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><d:/InstalledSoft/texlive/
+2013/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/InstalledSoft/texl
+ive/2013/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><d:/InstalledSoft/
+texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
+Output written on main.pdf (14 pages, 278229 bytes).
 PDF statistics:
- 424 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
+ 140 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

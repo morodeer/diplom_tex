@@ -17,7 +17,26 @@
 & Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ & Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ \\
 \hline
 \taburowcolors {lightgray .. white}
-\input{data}
+\input{data/massSquareTable}
+\end{tabu}
+
+\label{tab:KessOptimBigTable}
+\end{table}
+
+
+\tabulinesep = 1mm
+\definecolor{lightgray}{gray}{0.9}
+\begin{table}[H]
+\captionsetup{justification=centering}
+\caption{Зависимость площади панелей центроплана и веса кессона от параметров центроплана относительно варианта с прямым кессоном}
+%\rowcolors{2}{}{lightgray}
+\begin{tabu}to \linewidth{|c|*4{X[m c]|}*4{X[m c]|}}
+\hline
+\multirow{2}{*}[-1.1ex]{N} & \multicolumn{4}{c|}{Вес кессона} & \multicolumn{4}{c|}{Площадь панелей центроплана} \\ \cline{2-9}
+& Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ & Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ \\
+\hline
+\taburowcolors {lightgray .. white}
+\input{data/massSquareTableNormed}
 \end{tabu}
 
 \label{tab:KessOptimBigTable}
