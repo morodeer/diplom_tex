@@ -18,52 +18,7 @@
 \label{fig:KessSectionExample}
 \end{figure}
 
-Были выбраны 42 пары значений параметров. Для каждой пары была проведена оптимизация толщин панелей кессона с целью удовлетворения требованиям прочности конструкции, а именно: среднее напряжение в каждой панели не должно превышать значения допускаемого напряжения, принятого равным $35\text{кг}/\text{мм}^2$. Оптимизация проводилась путем вычисления запаса прочности для каждой пластины с последующим делением толщины панели на полученное значение (так называемый алгоритм $\sigma/\sigma$). Итоговые результаты вычислений приведены в таблицах \ref{tab:KessOptimBigTable}, \ref{tab:KessOptimBigTableNormed} и на Рис.\ref{fig:Optimization3dplot}
+Использование такой упрощенной модели в МКЭ-расчете позволяет ускорить процесс при тех же вычислительных мощностях. Так, в упрощенной модели используется $\approx10000$ конечных элементов, в то время как в полной модели самолета $\approx270000$ конечных элементов.
 
-\tabulinesep = 1mm
-\definecolor{lightgray}{gray}{0.9}
-\begin{table}[H]
-\captionsetup{justification=centering}
-\caption{Зависимость площади панелей центроплана и веса кессона от параметров центроплана}
-%\rowcolors{2}{}{lightgray}
-\begin{tabu}to \linewidth{|c|*4{X[m c]|}*4{X[m c]|}}
-\hline
-\multirow{2}{*}[-1.1ex]{N} & \multicolumn{4}{c|}{Вес кессона~[кг]} & \multicolumn{4}{c|}{Площадь панелей центроплана~[$\text{м}^2$]} \\ \cline{2-9}
-& Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ & Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ \\
-\hline
-\taburowcolors {lightgray .. white}
-\input{data}
-\end{tabu}
-
-\label{tab:KessOptimBigTable}
-\end{table}
-
-
-\tabulinesep = 1mm
-\definecolor{lightgray}{gray}{0.9}
-\begin{table}[H]
-\captionsetup{justification=centering}
-\caption{Зависимость площади панелей центроплана и веса кессона от параметров центроплана относительно варианта с прямым кессоном}
-%\rowcolors{2}{}{lightgray}
-\begin{tabu}to \linewidth{|c|*4{X[m c]|}*4{X[m c]|}}
-\hline
-\multirow{2}{*}[-1.1ex]{N} & \multicolumn{4}{c|}{Вес кессона} & \multicolumn{4}{c|}{Площадь панелей центроплана} \\ \cline{2-9}
-& Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ & Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ \\
-\hline
-\taburowcolors {lightgray .. white}
-\input{data/massSquareTableNormed}
-\end{tabu}
-
-\label{tab:KessOptimBigTableNormed}
-\end{table}
-
-\begin{landscape}
-\begin{figure}[ht]
-\captionsetup{justification=centering}
-\caption{Зависимость веса кессона от параметров центроплана}
-\includegraphics[height=1\textwidth]{Optimization3dplot}
-\label{fig:Optimization3dplot}
-\end{figure}
-\end{landscape}
-
+Так же, выбор такой параметрической модели позволит в дальнейшем включить в процесс оптимизации сечения так же расчет аэродинамических нагрузок, что позволит полностью автоматизировать процесс оптимизации формы сечения кессона для схемы "летающее крыло". 
 
