@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.5.21)  30 MAY 2014 14:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.5.21)  30 MAY 2014 16:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -810,61 +810,61 @@ Package caption Info: End \AtBeginDocument code.
  (./chapters/Introduction.tex [1
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 9.
 
 (d:/InstalledSoft/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
 
 <./figures/UAV_Reaper.png, id=14, 256.5585pt x 171.039pt>
 File: ./figures/UAV_Reaper.png Graphic file (type png)
 
 <use ./figures/UAV_Reaper.png>
-Package pdftex.def Info: ./figures/UAV_Reaper.png used on input line 40.
+Package pdftex.def Info: ./figures/UAV_Reaper.png used on input line 41.
 (pdftex.def)             Requested size: 227.3381pt x 151.56393pt.
 
 <./figures/UAV_X47.png, id=15, 481.0773pt x 320.6379pt>
 File: ./figures/UAV_X47.png Graphic file (type png)
 
 <use ./figures/UAV_X47.png>
-Package pdftex.def Info: ./figures/UAV_X47.png used on input line 46.
+Package pdftex.def Info: ./figures/UAV_X47.png used on input line 47.
 (pdftex.def)             Requested size: 227.3381pt x 151.52176pt.
 
 <./figures/UAV_X45.png, id=16, 803.0pt x 350.30875pt>
 File: ./figures/UAV_X45.png Graphic file (type png)
 
 <use ./figures/UAV_X45.png>
-Package pdftex.def Info: ./figures/UAV_X45.png used on input line 53.
+Package pdftex.def Info: ./figures/UAV_X45.png used on input line 54.
 (pdftex.def)             Requested size: 227.3381pt x 99.17621pt.
 
 <./figures/UAV_RQ7.png, id=17, 606.265pt x 272.01625pt>
 File: ./figures/UAV_RQ7.png Graphic file (type png)
 
 <use ./figures/UAV_RQ7.png>
-Package pdftex.def Info: ./figures/UAV_RQ7.png used on input line 60.
+Package pdftex.def Info: ./figures/UAV_RQ7.png used on input line 61.
 (pdftex.def)             Requested size: 227.3381pt x 102.00168pt.
  [2
 
  <./figures/UAV_Reaper.png> <./figures/UAV_X47.png> <./figures/UAV_X45.png> <./
 figures/UAV_RQ7.png>]
-<./figures/OriginalSectionWithEngine.pdf, id=24, 1043.9pt x 481.8pt>
+<./figures/BPS_Catia.png, id=24, 986.68625pt x 657.45625pt>
+File: ./figures/BPS_Catia.png Graphic file (type png)
+
+<use ./figures/BPS_Catia.png>
+Package pdftex.def Info: ./figures/BPS_Catia.png used on input line 90.
+(pdftex.def)             Requested size: 386.95897pt x 257.84148pt.
+
+<./figures/OriginalSectionWithEngine.pdf, id=26, 1043.9pt x 481.8pt>
 File: ./figures/OriginalSectionWithEngine.pdf Graphic file (type pdf)
 
 <use ./figures/OriginalSectionWithEngine.pdf>
 Package pdftex.def Info: ./figures/OriginalSectionWithEngine.pdf used on input 
-line 97.
+line 103.
 (pdftex.def)             Requested size: 386.95897pt x 178.59402pt.
-
-<./figures/BPS_Catia.png, id=25, 986.68625pt x 657.45625pt>
-File: ./figures/BPS_Catia.png Graphic file (type png)
-
-<use ./figures/BPS_Catia.png>
-Package pdftex.def Info: ./figures/BPS_Catia.png used on input line 111.
-(pdftex.def)             Requested size: 386.95897pt x 257.84148pt.
- [3 <./figures/OriginalSectionWithEngine.pdf>])
-(./chapters/PracticalValue.tex [4 <./figures/BPS_Catia.png>]
+ [3 <./figures/BPS_Catia.png>])
+(./chapters/PracticalValue.tex [4 <./figures/OriginalSectionWithEngine.pdf>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 <./figures/rq180concept.png, id=50, 429.605pt x 331.2375pt>
 File: ./figures/rq180concept.png Graphic file (type png)
@@ -1063,7 +1063,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  6745 strings out of 493315
  95997 string characters out of 6135239
- 289950 words of memory out of 5000000
+ 290950 words of memory out of 5000000
  9982 multiletter control sequences out of 15000+600000
  17848 words of font info for 40 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1086,7 +1086,7 @@ ve/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/InstalledSoft/t
 exlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><d:/InstalledSo
 ft/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><d:/Install
 edSoft/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on main.pdf (23 pages, 5891574 bytes).
+Output written on main.pdf (23 pages, 5892017 bytes).
 PDF statistics:
  210 PDF objects out of 1000 (max. 8388607)
  131 compressed objects within 2 object streams
