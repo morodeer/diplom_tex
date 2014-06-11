@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.11)  11 JUN 2014 13:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.11)  11 JUN 2014 14:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -695,7 +695,92 @@ Package ifvtex Info: VTeX not detected.
 LaTeX Warning: Unused global option(s):
     [emptystyle].
 
-(./main.aux)
+(./main.aux
+
+LaTeX Warning: Label `sec:calculationOfModel' multiply defined.
+
+
+LaTeX Warning: Label `tab:KessOptimBigTable' multiply defined.
+
+
+LaTeX Warning: Label `tab:KessOptimBigTableNormed' multiply defined.
+
+
+LaTeX Warning: Label `sec:creationOfModel' multiply defined.
+
+
+LaTeX Warning: Label `fig:stressToDiscreteness' multiply defined.
+
+
+LaTeX Warning: Label `tab:KessOptimBigTable' multiply defined.
+
+
+LaTeX Warning: Label `tab:KessOptimBigTable' multiply defined.
+
+
+LaTeX Warning: Label `fig:Optimization3dplot' multiply defined.
+
+
+LaTeX Warning: Label `fig:BPLAfullModel' multiply defined.
+
+
+LaTeX Warning: Label `fig:WingRootPlain' multiply defined.
+
+
+LaTeX Warning: Label `fig:stressToDiscreteness' multiply defined.
+
+
+LaTeX Warning: Label `fig:CurvedKessonPatran' multiply defined.
+
+
+LaTeX Warning: Label `fig:KessSectionExample' multiply defined.
+
+
+LaTeX Warning: Label `fig:WingRootPlain' multiply defined.
+
+
+LaTeX Warning: Label `fig:Optimization3dplot' multiply defined.
+
+
+LaTeX Warning: Label `fig:centroplan' multiply defined.
+
+
+LaTeX Warning: Label `IsoviewOfPants' multiply defined.
+
+
+LaTeX Warning: Label `IsoviewOfPantsModel' multiply defined.
+
+
+LaTeX Warning: Label `IsoviewOfPants' multiply defined.
+
+
+LaTeX Warning: Label `IsoviewOfPantsModel' multiply defined.
+
+
+LaTeX Warning: Label `fig:centroplan' multiply defined.
+
+
+LaTeX Warning: Label `sec:Conver' multiply defined.
+
+
+LaTeX Warning: Label `fig:ConverNewInterfaceOverview' multiply defined.
+
+
+LaTeX Warning: Label `fig:ConverListxzOld' multiply defined.
+
+
+LaTeX Warning: Label `ConverNewChangingThicks' multiply defined.
+
+
+LaTeX Warning: Label `fig:ConverAddLoad' multiply defined.
+
+
+LaTeX Warning: Label `IsoviewOfPants' multiply defined.
+
+
+LaTeX Warning: Label `IsoviewOfPantsModel' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1046,30 +1131,249 @@ Package pdftex.def Info: ./figures/3dplot_with_sections.pdf used on input line
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 ) [18
 
-] (./main.lot)
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+(./sections/calculationOfModel.tex (./data.tex) (./data.tex)
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 23--23
+ []\T2A/cmr/m/n/12 Боковые 
+ []
+
+
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 23--23
+ []\T2A/cmr/m/n/12 Боковые 
+ []
+
+(./data.tex) [19
+
+] (./data/massSquareTableNormed.tex)
+(./data/massSquareTableNormed.tex)
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 43--43
+ []\T2A/cmr/m/n/12 Боковые 
+ []
+
+
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 43--43
+ []\T2A/cmr/m/n/12 Боковые 
+ []
+
+(./data/massSquareTableNormed.tex) [20]
+File: ./figures/3dplot_with_sections.pdf Graphic file (type pdf)
+
+<use ./figures/3dplot_with_sections.pdf>
+Package pdftex.def Info: ./figures/3dplot_with_sections.pdf used on input line 
+52.
+(pdftex.def)             Requested size: 435.32422pt x 615.66702pt.
+ [21])
+(./sections/creationOfFullModel.tex
+File: ./figures/BPLAfullModel.png Graphic file (type png)
+ <use ./figures/BPLAfullModel.png>
+Package pdftex.def Info: ./figures/BPLAfullModel.png used on input line 7.
+(pdftex.def)             Requested size: 386.95897pt x 147.54628pt.
+
+Overfull \hbox (38.39877pt too wide) in paragraph at lines 14--15
+[]\T2A/cmr/m/n/12 В це-лях обес-пе-че-ния точ-но-сти рас-че-та бы-ло про-ве-де-
+но ис-сле-до-ва-ние за-ви-си-мо-сти напряженно-
+ []
+
+File: ./figures/RootOfWingWithSelectedPartsBW.png Graphic file (type png)
+<use ./figures/RootOfWingWithSelectedPartsBW.png>
+Package pdftex.def Info: ./figures/RootOfWingWithSelectedPartsBW.png used on in
+put line 20.
+(pdftex.def)             Requested size: 241.84843pt x 208.52296pt.
+
+(./figures/StressToDiscreteness.tex
+Package epstopdf Info: Source file: <./figures/StressToDiscreteness.eps>
+(epstopdf)                    date: 2014-06-10 23:48:07
+(epstopdf)                    size: 17465 bytes
+(epstopdf)             Output file: <./figures/StressToDiscreteness-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2014-06-10 23:48:07
+(epstopdf)                    size: 3696 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/StressToDiscrete
+ness-eps-converted-to.pdf ./figures/StressToDiscreteness.eps>
+(epstopdf)             \includegraphics on input line 109.
+Package epstopdf Info: Output file is already uptodate.
+File: ./figures/StressToDiscreteness-eps-converted-to.pdf Graphic file (type pd
+f)
+
+<use ./figures/StressToDiscreteness-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/StressToDiscreteness-eps-converted-to.pdf us
+ed on input line 109.
+(pdftex.def)             Requested size: 426.5927pt x 226.84694pt.
+))
+(./sections/creationOfModel.tex
+File: ./figures/simplifiedCentroplan.png Graphic file (type png)
+ <use ./figures/simplifiedCentroplan.png>
+Package pdftex.def Info: ./figures/simplifiedCentroplan.png used on input line 
+10.
+(pdftex.def)             Requested size: 435.32422pt x 165.99309pt.
+File: ./figures/KessSectionExample.pdf Graphic file (type pdf)
+
+<use ./figures/KessSectionExample.pdf>
+Package pdftex.def Info: ./figures/KessSectionExample.pdf used on input line 22
+.
+(pdftex.def)             Requested size: 483.69687pt x 203.66315pt.
+) (./sections/findingOptimalMKESize.tex
+[22]
+File: ./figures/RootOfWingWithSelectedPartsBW.png Graphic file (type png)
+ <use ./figures/RootOfWingWithSelectedPartsBW.png>
+Package pdftex.def Info: ./figures/RootOfWingWithSelectedPartsBW.png used on in
+put line 7.
+(pdftex.def)             Requested size: 290.22107pt x 250.2358pt.
+
+<./figures/StressToDiscretenessPlot.png, id=161, 1304.875pt x 602.25pt>
+File: ./figures/StressToDiscretenessPlot.png Graphic file (type png)
+
+<use ./figures/StressToDiscretenessPlot.png>
+Package pdftex.def Info: ./figures/StressToDiscretenessPlot.png used on input l
+ine 15.
+(pdftex.def)             Requested size: 386.95897pt x 178.59953pt.
+)
+(./sections/optimizationOfCentroplan.tex (./data/massSquareTable.tex)
+(./data/massSquareTable.tex)
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 21--21
+ []\T2A/cmr/m/n/12 Боковые 
+ []
+
+
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 21--21
+ []\T2A/cmr/m/n/12 Боковые 
+ []
+
+(./data/massSquareTable.tex) [23 <./figures/StressToDiscretenessPlot.png>]
+(./data/massSquareTableNormed.tex) (./data/massSquareTableNormed.tex)
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 40--40
+ []\T2A/cmr/m/n/12 Боковые 
+ []
+
+
+Overfull \hbox (0.85065pt too wide) in paragraph at lines 40--40
+ []\T2A/cmr/m/n/12 Боковые 
+ []
+
+(./data/massSquareTableNormed.tex) [24] [25] [26] [27] [28]
+<./figures/Optimization3dplot.png, id=181, 767.9892pt x 512.1534pt>
+File: ./figures/Optimization3dplot.png Graphic file (type png)
+
+<use ./figures/Optimization3dplot.png>
+Package pdftex.def Info: ./figures/Optimization3dplot.png used on input line 49
+.
+(pdftex.def)             Requested size: 652.80562pt x 435.32422pt.
+ [29 <./figures/Optimization3dplot.png>]) (./sections/problemOfCentroplan.tex
+File: ./figures/centroplan.png Graphic file (type png)
+ <use ./figures/centroplan.png>
+Package pdftex.def Info: ./figures/centroplan.png used on input line 7.
+(pdftex.def)             Requested size: 290.22107pt x 110.66205pt.
+)
+(./sections/problemOfPants.tex
+File: ./figures/IsoviewOfPantsBW.png Graphic file (type png)
+ <use ./figures/IsoviewOfPantsBW.png>
+Package pdftex.def Info: ./figures/IsoviewOfPantsBW.png used on input line 5.
+(pdftex.def)             Requested size: 386.95897pt x 164.55081pt.
+File: ./figures/IsoviewOfPantsModel.png Graphic file (type png)
+
+<use ./figures/IsoviewOfPantsModel.png>
+Package pdftex.def Info: ./figures/IsoviewOfPantsModel.png used on input line 1
+4.
+(pdftex.def)             Requested size: 386.95897pt x 187.60986pt.
+ [30
+
+
+])
+(./sections/problemsOfProjecting.tex (./sections/problemOfPants.tex
+File: ./figures/IsoviewOfPantsBW.png Graphic file (type png)
+
+<use ./figures/IsoviewOfPantsBW.png>
+Package pdftex.def Info: ./figures/IsoviewOfPantsBW.png used on input line 5.
+(pdftex.def)             Requested size: 386.95897pt x 164.55081pt.
+ [31]
+File: ./figures/IsoviewOfPantsModel.png Graphic file (type png)
+
+<use ./figures/IsoviewOfPantsModel.png>
+Package pdftex.def Info: ./figures/IsoviewOfPantsModel.png used on input line 1
+4.
+(pdftex.def)             Requested size: 386.95897pt x 187.60986pt.
+ [32])
+(./sections/problemOfCentroplan.tex
+File: ./figures/centroplan.png Graphic file (type png)
+ <use ./figures/centroplan.png>
+Package pdftex.def Info: ./figures/centroplan.png used on input line 7.
+(pdftex.def)             Requested size: 290.22107pt x 110.66205pt.
+))
+(./sections/reworkingConver.tex
+File: ./figures/ConverCircle.png Graphic file (type png)
+ <use ./figures/ConverCircle.png>
+Package pdftex.def Info: ./figures/ConverCircle.png used on input line 13.
+(pdftex.def)             Requested size: 290.22107pt x 195.95929pt.
+ [33]
+File: ./figures/ConverNewInterfaceOverview.png Graphic file (type png)
+
+<use ./figures/ConverNewInterfaceOverview.png>
+Package pdftex.def Info: ./figures/ConverNewInterfaceOverview.png used on input
+ line 41.
+(pdftex.def)             Requested size: 386.95897pt x 217.64977pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[34] [35]
+File: ./figures/ConverListxzOld.png Graphic file (type png)
+ <use ./figures/ConverListxzOld.png>
+Package pdftex.def Info: ./figures/ConverListxzOld.png used on input line 92.
+(pdftex.def)             Requested size: 386.95897pt x 217.64977pt.
+File: ./figures/ConverNewChangingThicks.png Graphic file (type png)
+
+<use ./figures/ConverNewChangingThicks.png>
+Package pdftex.def Info: ./figures/ConverNewChangingThicks.png used on input li
+ne 108.
+(pdftex.def)             Requested size: 386.95897pt x 341.30707pt.
+ [36]
+File: ./figures/ConverNewInterfaceAddLoad.png Graphic file (type png)
+
+<use ./figures/ConverNewInterfaceAddLoad.png>
+Package pdftex.def Info: ./figures/ConverNewInterfaceAddLoad.png used on input 
+line 144.
+(pdftex.def)             Requested size: 241.84843pt x 54.2461pt.
+)
+(./sections/validationOfPants.tex [37]
+File: ./figures/IsoviewOfPantsBW.png Graphic file (type png)
+ <use ./figures/IsoviewOfPantsBW.png>
+Package pdftex.def Info: ./figures/IsoviewOfPantsBW.png used on input line 10.
+(pdftex.def)             Requested size: 386.95897pt x 164.55081pt.
+File: ./figures/IsoviewOfPantsModel.png Graphic file (type png)
+
+<use ./figures/IsoviewOfPantsModel.png>
+Package pdftex.def Info: ./figures/IsoviewOfPantsModel.png used on input line 1
+9.
+(pdftex.def)             Requested size: 386.95897pt x 187.60986pt.
+ [38]) [39] (./main.lot)
 \tf@lot=\write4
 \openout4 = `main.lot'.
 
- [19
+ [40
 
-] (./main.lof)
+]
+(./main.lof [41
+
+])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- (./main.bbl [20
-
-]) [21
+ (./main.bbl [42]) [43
 
 ] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 6806 strings out of 494474
- 95126 string characters out of 6172703
- 290195 words of memory out of 5000000
- 9782 multiletter control sequences out of 15000+600000
+ 6870 strings out of 494474
+ 96979 string characters out of 6172703
+ 297141 words of memory out of 5000000
+ 9790 multiletter control sequences out of 15000+600000
  18408 words of font info for 40 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
  42i,18n,46p,1841b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1088,10 +1392,10 @@ fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb>
-Output written on main.pdf (22 pages, 5748050 bytes).
+Output written on main.pdf (44 pages, 6212588 bytes).
 PDF statistics:
- 590 PDF objects out of 1000 (max. 8388607)
- 139 compressed objects within 2 object streams
+ 688 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
