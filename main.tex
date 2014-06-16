@@ -5,13 +5,13 @@
 \usepackage{pdflscape}
 \usepackage{subcaption}
 \usepackage{indentfirst}
-\usepackage{cmap}
+\usepackage{cmap} %чтобы работал поиск по кириллице
 \usepackage{graphicx}
 \graphicspath{ {./figures/} }
 \DeclareGraphicsExtensions{.eps,.png,.jpg,.pdf}
 
 
-
+\usepackage{hyperref}
 \usepackage{float}
 \usepackage{url}
 \usepackage{amsmath}
@@ -29,29 +29,33 @@
 	right = 20mm,
 	bottom = 20mm
 }
+\selectlanguage{russian}
+\hyphenation{БПЛА}
+
 \begin{document}
 \input{TitleList}
 \tableofcontents
 \input{chapters/Introduction}
-\input{chapters/Projecting}
-\input{chapters/SolvingModel}
-\input{chapters/PreparingForFuture}
+\input{chapters/DevelopmentOfConstruction}
+%\input{chapters/Projecting}
+%\input{chapters/SolvingModel}
+%\input{chapters/PreparingForFuture}
 %\input{chapters/PracticalValue}
 %\input{chapters/Preparation}
 %\input{chapters/Solution}
 %\input{chapters/Validation}
 
-\chapter{Все разделы}
-\input{sections/calculationOfModel}
-\input{sections/creationOfFullModel}
-\input{sections/creationOfModel}
-\input{sections/findingOptimalMKESize}
-\input{sections/optimizationOfCentroplan}
-\input{sections/problemOfCentroplan}
-\input{sections/problemOfPants}
-\input{sections/problemsOfProjecting}
-\input{sections/reworkingConver}
-\input{sections/validationOfPants}
+%\chapter{Все разделы}
+%\input{sections/calculationOfModel}
+%\input{sections/creationOfFullModel}
+%\input{sections/creationOfModel}
+%\input{sections/findingOptimalMKESize}
+%\input{sections/optimizationOfCentroplan}
+%\input{sections/problemOfCentroplan}
+%\input{sections/problemOfPants}
+%\input{sections/problemsOfProjecting}
+%\input{sections/reworkingConver}
+%\input{sections/validationOfPants}
 
 \newpage
 \listoftables
