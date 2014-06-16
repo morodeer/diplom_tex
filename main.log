@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.16)  16 JUN 2014 12:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.16)  16 JUN 2014 15:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -999,10 +999,10 @@ Package pdftex.def Info: ./figures/BPS_Catia.png used on input line 5.
 File: ./figures/OverloadGraph.png Graphic file (type png)
 
 <use ./figures/OverloadGraph.png>
-Package pdftex.def Info: ./figures/OverloadGraph.png used on input line 14.
+Package pdftex.def Info: ./figures/OverloadGraph.png used on input line 18.
 (pdftex.def)             Requested size: 244.272pt x 246.19919pt.
 
-Overfull \hbox (16.9339pt too wide) in paragraph at lines 14--16
+Overfull \hbox (16.9339pt too wide) in paragraph at lines 18--20
 [][]
  []
 
@@ -1010,10 +1010,10 @@ Overfull \hbox (16.9339pt too wide) in paragraph at lines 14--16
 File: ./figures/HeightGraph.png Graphic file (type png)
 
 <use ./figures/HeightGraph.png>
-Package pdftex.def Info: ./figures/HeightGraph.png used on input line 18.
+Package pdftex.def Info: ./figures/HeightGraph.png used on input line 22.
 (pdftex.def)             Requested size: 237.045pt x 362.79451pt.
 
-Overfull \hbox (9.7069pt too wide) in paragraph at lines 18--20
+Overfull \hbox (9.7069pt too wide) in paragraph at lines 22--24
 [][]
  []
 
@@ -1026,7 +1026,7 @@ File: ./figures/BendingMoments.pdf Graphic file (type pdf)
 
 <use ./figures/BendingMoments.pdf>
 Package pdftex.def Info: ./figures/BendingMoments.pdf used on input line 52.
-(pdftex.def)             Requested size: 435.32422pt x 233.20863pt.
+(pdftex.def)             Requested size: 338.58632pt x 181.38397pt.
 ) [6 <./figures/OverloadGraph.png> <./figures/HeightGraph.png>] (./figures/Cutt
 ingForces.pdf_tex
 <./figures/CuttingForces.pdf, id=144, 562.1pt x 301.125pt>
@@ -1034,9 +1034,24 @@ File: ./figures/CuttingForces.pdf Graphic file (type pdf)
 
 <use ./figures/CuttingForces.pdf>
 Package pdftex.def Info: ./figures/CuttingForces.pdf used on input line 52.
-(pdftex.def)             Requested size: 435.32422pt x 233.20863pt.
+(pdftex.def)             Requested size: 338.58632pt x 181.38397pt.
+) (./figures/DistributedLoad.pdf_tex
+<./figures/DistributedLoad.pdf, id=145, 562.1pt x 301.125pt>
+File: ./figures/DistributedLoad.pdf Graphic file (type pdf)
+
+<use ./figures/DistributedLoad.pdf>
+Package pdftex.def Info: ./figures/DistributedLoad.pdf used on input line 52.
+(pdftex.def)             Requested size: 338.58632pt x 181.38397pt.
 )) (./sections/creationOfFullModel.tex
-<./figures/BPLAfullModel.png, id=146, 1611.01875pt x 614.295pt>
+[7 <./figures/BendingMoments.pdf> <./figures/CuttingForces.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/CuttingForces.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./figures/DistributedLoad.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/DistributedLoad.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
+>] <./figures/BPLAfullModel.png, id=157, 1611.01875pt x 614.295pt>
 File: ./figures/BPLAfullModel.png Graphic file (type png)
 
 <use ./figures/BPLAfullModel.png>
@@ -1048,12 +1063,8 @@ Overfull \hbox (38.39877pt too wide) in paragraph at lines 14--15
 но ис-сле-до-ва-ние за-ви-си-мо-сти напряженно-
  []
 
-[7 <./figures/BendingMoments.pdf> <./figures/CuttingForces.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures/CuttingForces.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
->]
-<./figures/RootOfWingWithSelectedPartsBW.png, id=156, 1041.8925pt x 898.35625pt
+<./figures/RootOfWingWithSelectedPartsBW.png, id=159, 1041.8925pt x 898.35625pt
 >
 File: ./figures/RootOfWingWithSelectedPartsBW.png Graphic file (type png)
  <use ./figures/RootOfWingWithSelectedPartsBW.png>
@@ -1074,7 +1085,7 @@ ness-eps-converted-to.pdf ./figures/StressToDiscreteness.eps>
 (epstopdf)             \includegraphics on input line 109.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/StressToDiscreteness-eps-converted-to.pdf, id=158, 426.59375pt x 226
+<./figures/StressToDiscreteness-eps-converted-to.pdf, id=161, 426.59375pt x 226
 .8475pt>
 File: ./figures/StressToDiscreteness-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -1085,7 +1096,7 @@ ed on input line 109.
 ) [8 <./figures/BPLAfullModel.png> <./figures/RootOfWingWithSelectedPartsBW.png
 >])
 (./sections/conver.tex
-<./figures/ConverCircle.png, id=169, 284.1525pt x 191.844pt>
+<./figures/ConverCircle.png, id=173, 284.1525pt x 191.844pt>
 File: ./figures/ConverCircle.png Graphic file (type png)
 
 <use ./figures/ConverCircle.png>
@@ -1093,49 +1104,53 @@ Package pdftex.def Info: ./figures/ConverCircle.png used on input line 13.
 (pdftex.def)             Requested size: 290.22107pt x 195.95929pt.
  [9 <./figures/StressToDiscreteness-eps-converted-to.pdf> <./figures/ConverCirc
 le.png>]) (./sections/problemsOfProjecting.tex
+Overfull \hbox (12.49036pt too wide) in paragraph at lines 3--4
+\T2A/cmr/m/n/12 ства (MSC.Nastran), бы-ло опре-де-ле-но напряженно-деформирован
+ное со-сто-я-ние(НДС) БПЛА
+ []
+
+
+LaTeX Warning: Reference `chap:Centroplan' on page 10 undefined on input line 9
+.
+
 (./figures/WingDeformation.pdf_tex
-<./figures/WingDeformation.pdf, id=178, 562.1pt x 301.125pt>
+<./figures/WingDeformation.pdf, id=181, 562.1pt x 301.125pt>
 File: ./figures/WingDeformation.pdf Graphic file (type pdf)
 
 <use ./figures/WingDeformation.pdf>
 Package pdftex.def Info: ./figures/WingDeformation.pdf used on input line 52.
 (pdftex.def)             Requested size: 435.32422pt x 233.20863pt.
-) (./sections/problemOfPants.tex
-<./figures/IsoviewOfPantsBW.png, id=179, 1255.69125pt x 533.995pt>
+) [10] (./sections/problemOfPants.tex
+<./figures/IsoviewOfPantsBW.png, id=192, 1255.69125pt x 533.995pt>
 File: ./figures/IsoviewOfPantsBW.png Graphic file (type png)
 
 <use ./figures/IsoviewOfPantsBW.png>
 Package pdftex.def Info: ./figures/IsoviewOfPantsBW.png used on input line 5.
 (pdftex.def)             Requested size: 386.95897pt x 164.55081pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10 <./figures/WingDeformation.pdf>]
-<./figures/IsoviewOfPantsModel.png, id=192, 498.006pt x 241.4475pt>
+<./figures/IsoviewOfPantsModel.png, id=195, 498.006pt x 241.4475pt>
 File: ./figures/IsoviewOfPantsModel.png Graphic file (type png)
 
 <use ./figures/IsoviewOfPantsModel.png>
 Package pdftex.def Info: ./figures/IsoviewOfPantsModel.png used on input line 1
 4.
 (pdftex.def)             Requested size: 386.95897pt x 187.60986pt.
- [11 <./figures/IsoviewOfPantsBW.png> <./figures/IsoviewOfPantsModel.png (PNG c
-opy)>]))) [12] (./main.lot)
+ [11 <./figures/WingDeformation.pdf> <./figures/IsoviewOfPantsBW.png>]))) [12 <
+./figures/IsoviewOfPantsModel.png (PNG copy)>] [13] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [13
+ [14
 
-]
-(./main.lof)
+] (./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- (./main.bbl [14
+ (./main.bbl [15
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
- [15
+ [16
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
@@ -1143,7 +1158,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A05D4550900028432E24BFDA3F1E22B9;2315.
+(rerunfilecheck)             Checksum: F25D2BE8113DBFC9B5033AAB26F7039F;2355.
 
 
 LaTeX Warning: There were undefined references.
@@ -1151,13 +1166,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 13221 strings out of 494408
- 186646 string characters out of 6170599
- 273249 words of memory out of 5000000
- 16137 multiletter control sequences out of 15000+600000
+ 13228 strings out of 494408
+ 186851 string characters out of 6170599
+ 274328 words of memory out of 5000000
+ 16136 multiletter control sequences out of 15000+600000
  18408 words of font info for 40 fonts, out of 8000000 for 9000
  498 hyphenation exceptions out of 8191
- 42i,11n,40p,1343b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,12n,40p,1343b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
 {i:/texlive_onemorefresh/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 }<i:/texlive_onemorefresh/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 <i:/texlive_onemorefresh/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
@@ -1176,10 +1191,10 @@ sh/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><i:/texlive_onemorefresh
 exmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><i:/texlive_onemorefresh/tex
 mf-dist/fonts/type1/public/cm-super/sfti1200.pfb><i:/texlive_onemorefresh/texmf
 -dist/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on main.pdf (16 pages, 5343512 bytes).
+Output written on main.pdf (17 pages, 5347675 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 250 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
- 178 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 333 PDF objects out of 1000 (max. 8388607)
+ 260 compressed objects within 3 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
