@@ -1,0 +1,74 @@
+%% Creator: Inkscape 0.48.3.1, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'CuttingForces.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{560bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.53571429)%
+    \put(0,0){\includegraphics[width=\unitlength]{CuttingForces.pdf}}%
+    \put(0.08885714,0.07585714){\makebox(0,0)[rb]{\smash{0}}}%
+    \put(0.08885714,0.13728571){\makebox(0,0)[rb]{\smash{2000}}}%
+    \put(0.08885714,0.19857143){\makebox(0,0)[rb]{\smash{4000}}}%
+    \put(0.08885714,0.26){\makebox(0,0)[rb]{\smash{6000}}}%
+    \put(0.08885714,0.32128571){\makebox(0,0)[rb]{\smash{8000}}}%
+    \put(0.08885714,0.38271429){\makebox(0,0)[rb]{\smash{10000}}}%
+    \put(0.08885714,0.444){\makebox(0,0)[rb]{\smash{12000}}}%
+    \put(0.08885714,0.50542857){\makebox(0,0)[rb]{\smash{14000}}}%
+    \put(0.10071429,0.05014286){\makebox(0,0)[b]{\smash{0}}}%
+    \put(0.19671429,0.05014286){\makebox(0,0)[b]{\smash{2}}}%
+    \put(0.29257143,0.05014286){\makebox(0,0)[b]{\smash{4}}}%
+    \put(0.38857143,0.05014286){\makebox(0,0)[b]{\smash{6}}}%
+    \put(0.48457143,0.05014286){\makebox(0,0)[b]{\smash{8}}}%
+    \put(0.58042857,0.05014286){\makebox(0,0)[b]{\smash{10}}}%
+    \put(0.67642857,0.05014286){\makebox(0,0)[b]{\smash{12}}}%
+    \put(0.77242857,0.05014286){\makebox(0,0)[b]{\smash{14}}}%
+    \put(0.86828571,0.05014286){\makebox(0,0)[b]{\smash{16}}}%
+    \put(0.96428571,0.05014286){\makebox(0,0)[b]{\smash{18}}}%
+    \put(0.53242857,0.01157143){\makebox(0,0)[b]{\smash{z}}}%
+    \put(0.86842857,0.47971429){\makebox(0,0)[rb]{\smash{$Q_\text{аэр}[\text{кгc}]$}}}%
+  \end{picture}%
+\endgroup%
