@@ -54,9 +54,9 @@
      id="namedview4"
      showgrid="false"
      units="cm"
-     inkscape:zoom="0.77527155"
-     inkscape:cx="-84.083316"
-     inkscape:cy="34.641137"
+     inkscape:zoom="1.0963995"
+     inkscape:cx="35.989366"
+     inkscape:cy="345.32506"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -64,7 +64,9 @@
      fit-margin-top="0"
      fit-margin-left="1"
      fit-margin-right="1"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="false"
+     inkscape:snap-center="true" />
   <g
      id="g2987"
      transform="matrix(0.42230327,0,0,0.42230327,35.556964,-5.918489)">
@@ -136,7 +138,7 @@
      y="0"
      xlink:href="#path3769"
      id="use3775"
-     transform="matrix(1.3997247,0,0,1.3997247,31.475317,-281.48794)"
+     transform="matrix(1.3997247,0,0,1.3997247,31.47531,-281.48794)"
      width="833"
      height="861" />
   <use
@@ -162,43 +164,124 @@
        id="flowPara3785"></flowPara></flowRoot>  <text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="301.2085"
-     y="14.357403"
+     x="306.69046"
+     y="14.034935"
      id="text3787"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3789"
-       x="301.2085"
-       y="14.357403">Замок убранного положения</tspan></text>
+       x="306.69046"
+       y="14.034935">Замок убранного положения</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="300.72217"
-     y="47.742886"
+     x="306.20413"
+     y="47.420418"
      id="text3791"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3793"
-       x="300.72217"
-       y="47.742886">Крепление основной стойки шасси</tspan></text>
+       x="306.20413"
+       y="47.420418">Крепление основной стойки шасси</tspan></text>
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
      id="rect3795"
      width="38.307205"
      height="104.88877"
-     x="191.95865"
-     y="205.69801"
+     x="192.11989"
+     y="205.85925"
      ry="6.4000001" />
-  <flowRoot
+  <text
      xml:space="preserve"
-     id="flowRoot5409"
      style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     transform="matrix(0,-1,1,0,-85.254119,599.02435)"><flowRegion
-       id="flowRegion5411"><rect
-         id="rect5413"
-         width="70.297943"
-         height="16.76832"
-         x="311.50375"
-         y="288.75876"
-         style="font-size:12px" /></flowRegion><flowPara
-       id="flowPara5415">Двигатель</flowPara></flowRoot></svg>
+     x="207.66917"
+     y="265.89615"
+     id="text5417"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5419"
+       x="207.66917"
+       y="265.89615">1</tspan></text>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#text5417"
+     id="use5421"
+     transform="translate(75.429768,-190.15612)"
+     width="530.12396"
+     height="351.35007" />
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="307.14749"
+     y="74.720497"
+     id="text5423"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="307.14749"
+       y="74.720497"
+       id="tspan5427">Двигатель</tspan></text>
+  <g
+     id="g5435"
+     transform="matrix(0.77431703,0,0,0.77431703,41.138667,54.123449)">
+    <path
+       transform="matrix(0.42230327,0,0,0.42230327,109.51015,32.988397)"
+       style="fill:#b9b9b9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200.88146,495.26371 c 0,0 -14.86071,-0.4567 -14.9438,0.21268 -1.00585,8.10288 -7.91629,14.37424 -16.29148,14.37424 -9.06707,0 -16.41737,-7.35031 -16.41737,-16.41737 0,-9.06707 7.3503,-16.41738 16.41737,-16.41738 8.18405,0 14.96945,5.98838 16.21344,13.8224 0.0803,0.50552 14.9805,0.0876 14.9805,0.0876 z"
+       id="path5431"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssscc" />
+    <path
+       d="m 184.46742,241.36688 c 0,1.8309 -1.48424,3.31514 -3.31514,3.31514 -1.8309,0 -3.31514,-1.48424 -3.31514,-3.31514 0,-1.8309 1.48424,-3.31514 3.31514,-3.31514 1.8309,0 3.31514,1.48424 3.31514,3.31514 z"
+       sodipodi:ry="3.31514"
+       sodipodi:rx="3.31514"
+       sodipodi:cy="241.36688"
+       sodipodi:cx="181.15228"
+       id="path5433"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       sodipodi:type="arc" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g5435"
+     id="use5439"
+     transform="matrix(-1,0,0,1,422.40022,0.16123383)"
+     width="530.12396"
+     height="351.35007" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g5435"
+     id="use5447"
+     transform="translate(0,34.423423)"
+     width="530.12396"
+     height="351.35007" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g5435"
+     id="use5449"
+     transform="matrix(-1,0,0,1,422.24286,34.423423)"
+     width="530.12396"
+     height="351.35007" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g5435"
+     id="use5451"
+     transform="matrix(1.7354528,0,0,1.7354528,-29.734566,-324.62504)"
+     width="530.12396"
+     height="351.35007" />
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="307.0889"
+     y="97.568024"
+     id="text5453"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5455"
+       x="307.0889"
+       y="97.568024">Узел крепления двигателя</tspan></text>
+</svg>

@@ -33,3 +33,47 @@
 
 На основании полученных данных и исходя из трудоемкости процесса расчета модели была определена оптимальная величина конечного элемента для дальнейшей работы над моделью, принятая равной $0,11\text{м}$. 
 %Ниже приведены картины НДС в месте стыка крыла с фюзеляжем при различных размерах конечного элемента. 
+
+\section{Построение моделей}
+
+В поиске рациональной конструкции было рассмотрено три варианта КСС, отличающиеся между собой строением укрепляющего элемента. На рисунках \ref{fig:variants_plain}, \ref{fig:variants_mke} показаны соответственно вид в плане и вид фрагмента МКЭ-модели для каждой из выбранных КСС. 
+
+Построение моделей проводилось при помощи комплекса ``Conver'' аналогично разделу \ref{sec:converMakingModel}
+
+\begin{figure}[H]
+\centering
+\begin{subfigure}[b]{0.32\textwidth}
+\centering
+	\includegraphics[width=0.4\textwidth]{variants/1_plain}
+\end{subfigure}
+\hspace{\fill}
+\begin{subfigure}[b]{0.32\textwidth}
+\centering
+	\includegraphics[width=0.4\textwidth]{variants/2_plain}
+\end{subfigure}
+\hspace{\fill}
+\begin{subfigure}[b]{0.32\textwidth}
+\centering
+	\includegraphics[width=0.4\textwidth]{variants/3_plain}
+\end{subfigure}
+\hspace{\fill}
+\label{fig:variants_plain}
+\end{figure}	
+
+
+\begin{figure}[H]
+\centering
+\begin{subfigure}[b]{0.32\textwidth}
+	\includegraphics[width=\textwidth]{variants/1_mke}
+\end{subfigure}
+\hspace{\fill}
+\begin{subfigure}[b]{0.32\textwidth}
+	\includegraphics[width=\textwidth]{variants/2_mke}
+\end{subfigure}
+\hspace{\fill}
+\begin{subfigure}[b]{0.32\textwidth}
+	\includegraphics[width=\textwidth]{variants/3_mke}
+\end{subfigure}
+\hspace{\fill}
+\label{fig:variants_mke}
+\end{figure}	
