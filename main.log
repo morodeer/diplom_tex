@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.16)  17 JUN 2014 08:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.16)  17 JUN 2014 10:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1004,74 +1004,100 @@ Package pdftex.def Info: ./figures/BPS_Catia_Full.png used on input line 17.
 File: ./figures/BPS_Catia_Top.png Graphic file (type png)
 
 <use ./figures/BPS_Catia_Top.png>
-Package pdftex.def Info: ./figures/BPS_Catia_Top.png used on input line 21.
+Package pdftex.def Info: ./figures/BPS_Catia_Top.png used on input line 11.
 (pdftex.def)             Requested size: 386.95897pt x 118.04047pt.
 
-<./figures/BPS_Catia_Front.png, id=161, 931.48pt x 412.54124pt>
+<./figures/BPS_Catia_Front.png, id=163, 931.48pt x 412.54124pt>
 File: ./figures/BPS_Catia_Front.png Graphic file (type png)
 
 <use ./figures/BPS_Catia_Front.png>
-Package pdftex.def Info: ./figures/BPS_Catia_Front.png used on input line 28.
+Package pdftex.def Info: ./figures/BPS_Catia_Front.png used on input line 21.
 (pdftex.def)             Requested size: 386.95897pt x 171.37767pt.
 File: ./figures/BPS_Catia.png Graphic file (type png)
  <use ./figures/BPS_Catia.png>
-Package pdftex.def Info: ./figures/BPS_Catia.png used on input line 35.
+Package pdftex.def Info: ./figures/BPS_Catia.png used on input line 31.
 (pdftex.def)             Requested size: 386.95897pt x 179.11125pt.
  [6 <./figures/BPS_Catia_Top.png> <./figures/BPS_Catia_Front.png>]
-<./figures/BPS_Catia_WithoutSkin.png, id=172, 1025.8325pt x 699.61375pt>
+<./figures/BPS_Catia_WithoutSkin.png, id=175, 1025.8325pt x 699.61375pt>
 File: ./figures/BPS_Catia_WithoutSkin.png Graphic file (type png)
 
 <use ./figures/BPS_Catia_WithoutSkin.png>
 Package pdftex.def Info: ./figures/BPS_Catia_WithoutSkin.png used on input line
- 42.
+ 38.
 (pdftex.def)             Requested size: 386.95897pt x 263.90242pt.
-) (./sections/externalLoads.tex
 
-LaTeX Warning: Citation `BPS' on page 7 undefined on input line 1.
+(./figures/BPS_Catia_Top_WithoutSkin.pdf_tex
+<./figures/BPS_Catia_Top_WithoutSkin.pdf, id=179, 425.68956pt x 282.1341pt>
+File: ./figures/BPS_Catia_Top_WithoutSkin.pdf Graphic file (type pdf)
 
-<./figures/HeightGraph.png, id=177, 237.0456pt x 362.7954pt>
+<use ./figures/BPS_Catia_Top_WithoutSkin.pdf>
+Package pdftex.def Info: ./figures/BPS_Catia_Top_WithoutSkin.pdf used on input 
+line 52.
+(pdftex.def)             Requested size: 435.32422pt x 288.51773pt.
+) [7 <./figures/BPS_Catia_WithoutSkin.png>] (./figures/BPS_Catia_Top_PartRoles.
+pdf_tex
+<./figures/BPS_Catia_Top_PartRoles.pdf, id=188, 456.35916pt x 283.61096pt>
+File: ./figures/BPS_Catia_Top_PartRoles.pdf Graphic file (type pdf)
+
+<use ./figures/BPS_Catia_Top_PartRoles.pdf>
+Package pdftex.def Info: ./figures/BPS_Catia_Top_PartRoles.pdf used on input li
+ne 52.
+(pdftex.def)             Requested size: 435.32422pt x 270.54538pt.
+)) [8 <./figures/BPS_Catia_Top_WithoutSkin.pdf> <./figures/BPS_Catia_Top_PartRo
+les.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/BPS_Catia_Top_PartRoles.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
+>] (./sections/externalLoads.tex
+
+LaTeX Warning: Citation `BPS' on page 9 undefined on input line 1.
+
+<./figures/HeightGraph.png, id=236, 237.0456pt x 362.7954pt>
 File: ./figures/HeightGraph.png Graphic file (type png)
 
 <use ./figures/HeightGraph.png>
 Package pdftex.def Info: ./figures/HeightGraph.png used on input line 9.
 (pdftex.def)             Requested size: 237.045pt x 362.79451pt.
- [7 <./figures/BPS_Catia_WithoutSkin.png>]
-(./figures/BendingMoments.pdf_tex
-<./figures/BendingMoments.pdf, id=192, 562.1pt x 301.125pt>
+ (./figures/BendingMoments.pdf_tex
+<./figures/BendingMoments.pdf, id=237, 562.1pt x 301.125pt>
 File: ./figures/BendingMoments.pdf Graphic file (type pdf)
 
 <use ./figures/BendingMoments.pdf>
 Package pdftex.def Info: ./figures/BendingMoments.pdf used on input line 52.
 (pdftex.def)             Requested size: 338.58632pt x 181.38397pt.
-) (./figures/CuttingForces.pdf_tex
-<./figures/CuttingForces.pdf, id=193, 562.1pt x 301.125pt>
+) [9 <./figures/HeightGraph.png>]
+(./figures/CuttingForces.pdf_tex
+<./figures/CuttingForces.pdf, id=249, 562.1pt x 301.125pt>
 File: ./figures/CuttingForces.pdf Graphic file (type pdf)
 
 <use ./figures/CuttingForces.pdf>
 Package pdftex.def Info: ./figures/CuttingForces.pdf used on input line 52.
 (pdftex.def)             Requested size: 338.58632pt x 181.38397pt.
-) [8 <./figures/HeightGraph.png> <./figures/BendingMoments.pdf>] (./figures/Dis
-tributedLoad.pdf_tex
-<./figures/DistributedLoad.pdf, id=202, 562.1pt x 301.125pt>
+) (./figures/DistributedLoad.pdf_tex
+<./figures/DistributedLoad.pdf, id=250, 562.1pt x 301.125pt>
 File: ./figures/DistributedLoad.pdf Graphic file (type pdf)
 
 <use ./figures/DistributedLoad.pdf>
 Package pdftex.def Info: ./figures/DistributedLoad.pdf used on input line 52.
 (pdftex.def)             Requested size: 338.58632pt x 181.38397pt.
 )) (./sections/creationOfFullModel.tex
-[9 <./figures/CuttingForces.pdf> <./figures/DistributedLoad.pdf
+[10 <./figures/BendingMoments.pdf> <./figures/CuttingForces.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/CuttingForces.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./figures/DistributedLoad.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures/DistributedLoad.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
 >] (./sections/conver.tex
-<./figures/ConverCircle.png, id=213, 284.1525pt x 191.844pt>
+<./figures/ConverCircle.png, id=261, 284.1525pt x 191.844pt>
 File: ./figures/ConverCircle.png Graphic file (type png)
 
 <use ./figures/ConverCircle.png>
 Package pdftex.def Info: ./figures/ConverCircle.png used on input line 14.
 (pdftex.def)             Requested size: 290.22107pt x 195.95929pt.
- [10 <./figures/ConverCircle.png>]
-<./figures/InterProgramScheme.pdf, id=224, 494.91228pt x 187.6551pt>
+ [11 <./figures/ConverCircle.png>]
+<./figures/InterProgramScheme.pdf, id=273, 494.91228pt x 187.6551pt>
 File: ./figures/InterProgramScheme.pdf Graphic file (type pdf)
 
 <use ./figures/InterProgramScheme.pdf>
@@ -1084,45 +1110,46 @@ Overfull \hbox (12.49036pt too wide) in paragraph at lines 3--4
 ное со-сто-я-ние(НДС) БПЛА
  []
 
+[12 <./figures/InterProgramScheme.pdf>]
 
-LaTeX Warning: Reference `chap:Centroplan' on page 11 undefined on input line 9
+LaTeX Warning: Reference `chap:Centroplan' on page 13 undefined on input line 9
 .
 
-[11 <./figures/InterProgramScheme.pdf>] (./figures/WingDeformation.pdf_tex
-<./figures/WingDeformation.pdf, id=251, 562.1pt x 301.125pt>
+(./figures/WingDeformation.pdf_tex
+<./figures/WingDeformation.pdf, id=302, 562.1pt x 301.125pt>
 File: ./figures/WingDeformation.pdf Graphic file (type pdf)
 
 <use ./figures/WingDeformation.pdf>
 Package pdftex.def Info: ./figures/WingDeformation.pdf used on input line 52.
 (pdftex.def)             Requested size: 435.32422pt x 233.20863pt.
 ) (./sections/problemOfPants.tex
-<./figures/IsoviewOfPantsBW.png, id=252, 1255.69125pt x 533.995pt>
+<./figures/IsoviewOfPantsBW.png, id=303, 1255.69125pt x 533.995pt>
 File: ./figures/IsoviewOfPantsBW.png Graphic file (type png)
 
 <use ./figures/IsoviewOfPantsBW.png>
 Package pdftex.def Info: ./figures/IsoviewOfPantsBW.png used on input line 5.
 (pdftex.def)             Requested size: 386.95897pt x 164.55081pt.
- [12 <./figures/WingDeformation.pdf> <./figures/IsoviewOfPantsBW.png>]
-<./figures/IsoviewOfPantsModel.png, id=269, 498.006pt x 241.4475pt>
+ [13 <./figures/WingDeformation.pdf>]
+<./figures/IsoviewOfPantsModel.png, id=317, 498.006pt x 241.4475pt>
 File: ./figures/IsoviewOfPantsModel.png Graphic file (type png)
 
 <use ./figures/IsoviewOfPantsModel.png>
 Package pdftex.def Info: ./figures/IsoviewOfPantsModel.png used on input line 1
 4.
 (pdftex.def)             Requested size: 386.95897pt x 187.60986pt.
-))
+ [14 <./figures/IsoviewOfPantsBW.png> <./figures/IsoviewOfPantsModel.png (PNG c
+opy)>]))
 
-LaTeX Warning: Reference `Somewhere' on page 13 undefined on input line 24.
+LaTeX Warning: Reference `Somewhere' on page 15 undefined on input line 24.
 
 
-LaTeX Warning: Reference `tab:paramsOfOptimizedScheme' on page 13 undefined on 
+LaTeX Warning: Reference `tab:paramsOfOptimizedScheme' on page 15 undefined on 
 input line 25.
 
-[13 <./figures/IsoviewOfPantsModel.png (PNG copy)>]) (./chapters/KessonTask.tex
-[14]
+) (./chapters/KessonTask.tex [15]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 (./sections/creationOfModel.tex
-<./figures/simplifiedCentroplan.png, id=292, 1611.01875pt x 614.295pt>
+<./figures/simplifiedCentroplan.png, id=343, 1611.01875pt x 614.295pt>
 File: ./figures/simplifiedCentroplan.png Graphic file (type png)
 
 <use ./figures/simplifiedCentroplan.png>
@@ -1130,7 +1157,7 @@ Package pdftex.def Info: ./figures/simplifiedCentroplan.png used on input line
 10.
 (pdftex.def)             Requested size: 435.32422pt x 165.99309pt.
 
-<./figures/KessSectionExample.pdf, id=294, 540.60233pt x 227.62204pt>
+<./figures/KessSectionExample.pdf, id=345, 540.60233pt x 227.62204pt>
 File: ./figures/KessSectionExample.pdf Graphic file (type pdf)
 
 <use ./figures/KessSectionExample.pdf>
@@ -1138,7 +1165,7 @@ Package pdftex.def Info: ./figures/KessSectionExample.pdf used on input line 22
 .
 (pdftex.def)             Requested size: 483.69687pt x 203.66315pt.
 ) (./sections/calculationOfModel.tex
-[15
+[16
 
  <./figures/simplifiedCentroplan.png>] (./data.tex) (./data.tex)
 Overfull \hbox (0.85065pt too wide) in paragraph at lines 23--23
@@ -1150,7 +1177,7 @@ Overfull \hbox (0.85065pt too wide) in paragraph at lines 23--23
  []\T2A/cmr/m/n/12 Боковые 
  []
 
-(./data.tex) [16 <./figures/KessSectionExample.pdf>]
+(./data.tex) [17 <./figures/KessSectionExample.pdf>]
 (./data/massSquareTableNormed.tex) (./data/massSquareTableNormed.tex)
 Overfull \hbox (0.85065pt too wide) in paragraph at lines 43--43
  []\T2A/cmr/m/n/12 Боковые 
@@ -1161,16 +1188,16 @@ Overfull \hbox (0.85065pt too wide) in paragraph at lines 43--43
  []\T2A/cmr/m/n/12 Боковые 
  []
 
-(./data/massSquareTableNormed.tex) [17]
-<./figures/3dplot_with_sections.pdf, id=324, 597.50786pt x 845.04686pt>
+(./data/massSquareTableNormed.tex) [18]
+<./figures/3dplot_with_sections.pdf, id=375, 597.50786pt x 845.04686pt>
 File: ./figures/3dplot_with_sections.pdf Graphic file (type pdf)
 
 <use ./figures/3dplot_with_sections.pdf>
 Package pdftex.def Info: ./figures/3dplot_with_sections.pdf used on input line 
 52.
 (pdftex.def)             Requested size: 435.32422pt x 615.66702pt.
- [18])) (./chapters/VariantsTask.tex
-[19 <./figures/3dplot_with_sections.pdf>]
+ [19])) (./chapters/VariantsTask.tex
+[20 <./figures/3dplot_with_sections.pdf>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
 Overfull \hbox (38.39877pt too wide) in paragraph at lines 10--11
@@ -1179,7 +1206,7 @@ Overfull \hbox (38.39877pt too wide) in paragraph at lines 10--11
  []
 
 
-<./figures/RootOfWingWithSelectedPartsBW.png, id=350, 1041.8925pt x 898.35625pt
+<./figures/RootOfWingWithSelectedPartsBW.png, id=400, 1041.8925pt x 898.35625pt
 >
 File: ./figures/RootOfWingWithSelectedPartsBW.png Graphic file (type png)
  <use ./figures/RootOfWingWithSelectedPartsBW.png>
@@ -1200,7 +1227,7 @@ ness-eps-converted-to.pdf ./figures/StressToDiscreteness.eps>
 (epstopdf)             \includegraphics on input line 109.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/StressToDiscreteness-eps-converted-to.pdf, id=352, 426.59375pt x 226
+<./figures/StressToDiscreteness-eps-converted-to.pdf, id=402, 426.59375pt x 226
 .8475pt>
 File: ./figures/StressToDiscreteness-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -1208,24 +1235,24 @@ f)
 Package pdftex.def Info: ./figures/StressToDiscreteness-eps-converted-to.pdf us
 ed on input line 109.
 (pdftex.def)             Requested size: 426.5927pt x 226.84694pt.
-) [20
+) [21
 
- <./figures/RootOfWingWithSelectedPartsBW.png>]) [21 <./figures/StressToDiscret
+ <./figures/RootOfWingWithSelectedPartsBW.png>]) [22 <./figures/StressToDiscret
 eness-eps-converted-to.pdf>] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [22
+ [23
 
 ] (./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- (./main.bbl [23
+ (./main.bbl [24
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
- [24
+ [25
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
@@ -1239,13 +1266,16 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 69.
  ) 
 Here is how much of TeX's memory you used:
- 13435 strings out of 494408
- 190183 string characters out of 6170599
- 391120 words of memory out of 5000000
- 16277 multiletter control sequences out of 15000+600000
+ 13452 strings out of 494408
+ 190812 string characters out of 6170599
+ 390418 words of memory out of 5000000
+ 16286 multiletter control sequences out of 15000+600000
  18408 words of font info for 40 fonts, out of 8000000 for 9000
  498 hyphenation exceptions out of 8191
  42i,18n,46p,1859b,537s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1267,10 +1297,10 @@ sh/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><i:/texlive_onemorefresh
 exmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><i:/texlive_onemorefresh/tex
 mf-dist/fonts/type1/public/cm-super/sfti1200.pfb><i:/texlive_onemorefresh/texmf
 -dist/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on main.pdf (25 pages, 5627091 bytes).
+Output written on main.pdf (26 pages, 5666303 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 394 compressed objects within 4 object streams
- 96 named destinations out of 1000 (max. 500000)
- 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 547 PDF objects out of 1000 (max. 8388607)
+ 429 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 271 words of extra memory for PDF output out of 10000 (max. 10000000)
 
