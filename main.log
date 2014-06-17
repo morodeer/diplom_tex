@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.21)  17 JUN 2014 02:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.16)  17 JUN 2014 08:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 11 languages loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Babel <3.9f> and hyphenation patterns for 15 languages loaded.
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,54 +24,54 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
 )))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
@@ -88,25 +88,25 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \c@subfigure=\count90
 \c@subtable=\count91
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen110
 \Gin@req@width=\dimen111
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -146,27 +146,27 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen112
 \Hy@linkcounter=\count92
 \Hy@pagecounter=\count93
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count94
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4319.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -178,9 +178,9 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count95
 
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen113
@@ -203,19 +203,19 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count100
 \c@bookmark@seq@number=\count101
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
 )
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count102
 \float@exts=\toks15
@@ -223,24 +223,24 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks16
 \@floatcapt=\box27
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen116
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen117
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count103
@@ -281,19 +281,19 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -443,7 +443,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -474,7 +474,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -502,15 +502,15 @@ Now handling font encoding PU ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/base/t2aenc.dfu
 File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -702,37 +702,37 @@ File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )<<t2a.cmap>>)
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2013/12/03 3.9h The Babel package
+(i:/texlive_onemorefresh/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/05/16 v3.9f The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
+(i:/texlive_onemorefresh/texmf-dist/tex/generic/babel-russian/russianb.ldf
 Language: russian 2013/04/13 1.3a Russian support from the babel system
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2013/12/03 3.9h Babel common definitions
+(i:/texlive_onemorefresh/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/05/16 v3.9f Babel common definitions
 \babel@savecnt=\count115
 \U@D=\dimen125
 )
 Package babel Info: Making " an active character on input line 147.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen126
 )
-(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen127
 \extrarowheight=\dimen128
@@ -754,10 +754,10 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box30
 \sift@deathcycles=\count117
@@ -787,7 +787,7 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@vleads=\box34
 \tabu@cellskip=\skip50
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@cnth=\count124
 \Gm@cntv=\count125
@@ -806,14 +806,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 LaTeX Warning: Unused global option(s):
     [emptystyle].
 
-(./main.aux
-
-LaTeX Warning: Label `fig:WingRootPlain' multiply defined.
-
-
-LaTeX Warning: Label `fig:stressToDiscreteness' multiply defined.
-
-)
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -834,7 +827,7 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
- (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+ (i:/texlive_onemorefresh/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count127
 \scratchdimen=\dimen148
@@ -847,17 +840,17 @@ LaTeX Font Info:    ... okay on input line 35.
 \MPnumerator=\count131
 \makeMPintoPDFobject=\count132
 \everyMPtoPDFconversion=\toks30
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (i:/texlive_onemorefresh/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.jpg,.pdf,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -868,10 +861,10 @@ Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box36
 Package hyperref Info: Link coloring OFF on input line 35.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(i:/texlive_onemorefresh/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count133
@@ -921,8 +914,8 @@ LaTeX Info: Redefining \nameref on input line 35.
 
 (./TitleList.tex [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-(./main.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>)
+{i:/texlive_onemorefresh/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./mai
+n.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -935,14 +928,14 @@ l.1 \chapter
             *{Р’РІРµРґРµРЅРёРµ} [1
 
 ]
-<./figures/UAV_Reaper.png, id=105, 256.5585pt x 171.039pt>
+<./figures/UAV_Reaper.png, id=100, 256.5585pt x 171.039pt>
 File: ./figures/UAV_Reaper.png Graphic file (type png)
 
 <use ./figures/UAV_Reaper.png>
 Package pdftex.def Info: ./figures/UAV_Reaper.png used on input line 11.
 (pdftex.def)             Requested size: 227.3381pt x 151.56393pt.
 
-<./figures/UAV_RQ7.png, id=106, 606.265pt x 272.01625pt>
+<./figures/UAV_RQ7.png, id=101, 606.265pt x 272.01625pt>
 File: ./figures/UAV_RQ7.png Graphic file (type png)
 
 <use ./figures/UAV_RQ7.png>
@@ -950,7 +943,7 @@ Package pdftex.def Info: ./figures/UAV_RQ7.png used on input line 17.
 (pdftex.def)             Requested size: 227.3381pt x 102.00168pt.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+(i:/texlive_onemorefresh/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -958,14 +951,14 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
  [2
 
  <./figures/UAV_Reaper.png> <./figures/UAV_RQ7.png>]
-<./figures/UAV_X45.png, id=118, 803.0pt x 350.30875pt>
+<./figures/UAV_X45.png, id=113, 803.0pt x 350.30875pt>
 File: ./figures/UAV_X45.png Graphic file (type png)
 
 <use ./figures/UAV_X45.png>
 Package pdftex.def Info: ./figures/UAV_X45.png used on input line 58.
 (pdftex.def)             Requested size: 227.3381pt x 99.17621pt.
 
-<./figures/UAV_X47.png, id=119, 481.0773pt x 320.6379pt>
+<./figures/UAV_X47.png, id=114, 481.0773pt x 320.6379pt>
 File: ./figures/UAV_X47.png Graphic file (type png)
 
 <use ./figures/UAV_X47.png>
@@ -975,14 +968,14 @@ Package pdftex.def Info: ./figures/UAV_X47.png used on input line 65.
 
 LaTeX Warning: Citation `BPS_Report' on page 3 undefined on input line 75.
 
-<./figures/BPS_Catia.png, id=121, 986.68625pt x 456.70625pt>
+<./figures/BPS_Catia.png, id=116, 986.68625pt x 456.70625pt>
 File: ./figures/BPS_Catia.png Graphic file (type png)
 
 <use ./figures/BPS_Catia.png>
 Package pdftex.def Info: ./figures/BPS_Catia.png used on input line 80.
 (pdftex.def)             Requested size: 386.95897pt x 179.11125pt.
 
-<./figures/OriginalSectionWithEngine.pdf, id=123, 540.60233pt x 199.1693pt>
+<./figures/OriginalSectionWithEngine.pdf, id=118, 540.60233pt x 199.1693pt>
 File: ./figures/OriginalSectionWithEngine.pdf Graphic file (type pdf)
 
 <use ./figures/OriginalSectionWithEngine.pdf>
@@ -997,68 +990,88 @@ LaTeX Warning: Citation `CONVER_Report' on page 4 undefined on input line 122.
 gine.pdf>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 (./sections/requirements.tex
+<./figures/BPS_Catia_Full.png, id=149, 1776.6375pt x 532.99126pt>
+File: ./figures/BPS_Catia_Full.png Graphic file (type png)
+
+<use ./figures/BPS_Catia_Full.png>
+Package pdftex.def Info: ./figures/BPS_Catia_Full.png used on input line 17.
+(pdftex.def)             Requested size: 483.69687pt x 145.10507pt.
+ [5
+
+ <./figures/BPS_Catia_Full.png>])
+(./sections/compoundScheme.tex
+<./figures/BPS_Catia_Top.png, id=160, 1845.89626pt x 563.10374pt>
+File: ./figures/BPS_Catia_Top.png Graphic file (type png)
+
+<use ./figures/BPS_Catia_Top.png>
+Package pdftex.def Info: ./figures/BPS_Catia_Top.png used on input line 21.
+(pdftex.def)             Requested size: 386.95897pt x 118.04047pt.
+
+<./figures/BPS_Catia_Front.png, id=161, 931.48pt x 412.54124pt>
+File: ./figures/BPS_Catia_Front.png Graphic file (type png)
+
+<use ./figures/BPS_Catia_Front.png>
+Package pdftex.def Info: ./figures/BPS_Catia_Front.png used on input line 28.
+(pdftex.def)             Requested size: 386.95897pt x 171.37767pt.
 File: ./figures/BPS_Catia.png Graphic file (type png)
  <use ./figures/BPS_Catia.png>
-Package pdftex.def Info: ./figures/BPS_Catia.png used on input line 17.
-(pdftex.def)             Requested size: 290.22107pt x 134.33691pt.
+Package pdftex.def Info: ./figures/BPS_Catia.png used on input line 35.
+(pdftex.def)             Requested size: 386.95897pt x 179.11125pt.
+ [6 <./figures/BPS_Catia_Top.png> <./figures/BPS_Catia_Front.png>]
+<./figures/BPS_Catia_WithoutSkin.png, id=172, 1025.8325pt x 699.61375pt>
+File: ./figures/BPS_Catia_WithoutSkin.png Graphic file (type png)
 
-Overfull \hbox (3.48647pt too wide) in paragraph at lines 30--32
-\T2A/cmr/m/n/12 и проч-ност-но-го ана-ли-за со-здан-ной мо-де-ли. При по-стро-е
--нии мо-де-ли необ-хо-ди-мо бы-ло учесть
- []
+<use ./figures/BPS_Catia_WithoutSkin.png>
+Package pdftex.def Info: ./figures/BPS_Catia_WithoutSkin.png used on input line
+ 42.
+(pdftex.def)             Requested size: 386.95897pt x 263.90242pt.
+) (./sections/externalLoads.tex
 
-) (./sections/compoundScheme.tex [5
+LaTeX Warning: Citation `BPS' on page 7 undefined on input line 1.
 
-]) (./sections/externalLoads.tex
-
-LaTeX Warning: Citation `BPS' on page 6 undefined on input line 1.
-
-<./figures/HeightGraph.png, id=167, 237.0456pt x 362.7954pt>
+<./figures/HeightGraph.png, id=177, 237.0456pt x 362.7954pt>
 File: ./figures/HeightGraph.png Graphic file (type png)
 
 <use ./figures/HeightGraph.png>
 Package pdftex.def Info: ./figures/HeightGraph.png used on input line 9.
 (pdftex.def)             Requested size: 237.045pt x 362.79451pt.
- (./figures/BendingMoments.pdf_tex
-<./figures/BendingMoments.pdf, id=168, 562.1pt x 301.125pt>
+ [7 <./figures/BPS_Catia_WithoutSkin.png>]
+(./figures/BendingMoments.pdf_tex
+<./figures/BendingMoments.pdf, id=192, 562.1pt x 301.125pt>
 File: ./figures/BendingMoments.pdf Graphic file (type pdf)
 
 <use ./figures/BendingMoments.pdf>
 Package pdftex.def Info: ./figures/BendingMoments.pdf used on input line 52.
 (pdftex.def)             Requested size: 338.58632pt x 181.38397pt.
-) [6 <./figures/HeightGraph.png>]
-(./figures/CuttingForces.pdf_tex
-<./figures/CuttingForces.pdf, id=183, 562.1pt x 301.125pt>
+) (./figures/CuttingForces.pdf_tex
+<./figures/CuttingForces.pdf, id=193, 562.1pt x 301.125pt>
 File: ./figures/CuttingForces.pdf Graphic file (type pdf)
 
 <use ./figures/CuttingForces.pdf>
 Package pdftex.def Info: ./figures/CuttingForces.pdf used on input line 52.
 (pdftex.def)             Requested size: 338.58632pt x 181.38397pt.
-) (./figures/DistributedLoad.pdf_tex
-<./figures/DistributedLoad.pdf, id=184, 562.1pt x 301.125pt>
+) [8 <./figures/HeightGraph.png> <./figures/BendingMoments.pdf>] (./figures/Dis
+tributedLoad.pdf_tex
+<./figures/DistributedLoad.pdf, id=202, 562.1pt x 301.125pt>
 File: ./figures/DistributedLoad.pdf Graphic file (type pdf)
 
 <use ./figures/DistributedLoad.pdf>
 Package pdftex.def Info: ./figures/DistributedLoad.pdf used on input line 52.
 (pdftex.def)             Requested size: 338.58632pt x 181.38397pt.
 )) (./sections/creationOfFullModel.tex
-[7 <./figures/BendingMoments.pdf> <./figures/CuttingForces.pdf
+[9 <./figures/CuttingForces.pdf> <./figures/DistributedLoad.pdf
 
-pdfTeX warning: pdflatex (file ./figures/CuttingForces.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
-> <./figures/DistributedLoad.pdf
-
-pdfTeX warning: pdflatex (file ./figures/DistributedLoad.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./figures/DistributedLoad.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
 >] (./sections/conver.tex
-<./figures/ConverCircle.png, id=195, 284.1525pt x 191.844pt>
+<./figures/ConverCircle.png, id=213, 284.1525pt x 191.844pt>
 File: ./figures/ConverCircle.png Graphic file (type png)
 
 <use ./figures/ConverCircle.png>
 Package pdftex.def Info: ./figures/ConverCircle.png used on input line 14.
 (pdftex.def)             Requested size: 290.22107pt x 195.95929pt.
- [8 <./figures/ConverCircle.png>]
-<./figures/InterProgramScheme.pdf, id=207, 494.91228pt x 187.6551pt>
+ [10 <./figures/ConverCircle.png>]
+<./figures/InterProgramScheme.pdf, id=224, 494.91228pt x 187.6551pt>
 File: ./figures/InterProgramScheme.pdf Graphic file (type pdf)
 
 <use ./figures/InterProgramScheme.pdf>
@@ -1071,46 +1084,45 @@ Overfull \hbox (12.49036pt too wide) in paragraph at lines 3--4
 ное со-сто-я-ние(НДС) БПЛА
  []
 
-[9 <./figures/InterProgramScheme.pdf>]
 
-LaTeX Warning: Reference `chap:Centroplan' on page 10 undefined on input line 9
+LaTeX Warning: Reference `chap:Centroplan' on page 11 undefined on input line 9
 .
 
-(./figures/WingDeformation.pdf_tex
-<./figures/WingDeformation.pdf, id=235, 562.1pt x 301.125pt>
+[11 <./figures/InterProgramScheme.pdf>] (./figures/WingDeformation.pdf_tex
+<./figures/WingDeformation.pdf, id=251, 562.1pt x 301.125pt>
 File: ./figures/WingDeformation.pdf Graphic file (type pdf)
 
 <use ./figures/WingDeformation.pdf>
 Package pdftex.def Info: ./figures/WingDeformation.pdf used on input line 52.
 (pdftex.def)             Requested size: 435.32422pt x 233.20863pt.
 ) (./sections/problemOfPants.tex
-<./figures/IsoviewOfPantsBW.png, id=236, 1255.69125pt x 533.995pt>
+<./figures/IsoviewOfPantsBW.png, id=252, 1255.69125pt x 533.995pt>
 File: ./figures/IsoviewOfPantsBW.png Graphic file (type png)
 
 <use ./figures/IsoviewOfPantsBW.png>
 Package pdftex.def Info: ./figures/IsoviewOfPantsBW.png used on input line 5.
 (pdftex.def)             Requested size: 386.95897pt x 164.55081pt.
- [10 <./figures/WingDeformation.pdf>]
-<./figures/IsoviewOfPantsModel.png, id=249, 498.006pt x 241.4475pt>
+ [12 <./figures/WingDeformation.pdf> <./figures/IsoviewOfPantsBW.png>]
+<./figures/IsoviewOfPantsModel.png, id=269, 498.006pt x 241.4475pt>
 File: ./figures/IsoviewOfPantsModel.png Graphic file (type png)
 
 <use ./figures/IsoviewOfPantsModel.png>
 Package pdftex.def Info: ./figures/IsoviewOfPantsModel.png used on input line 1
 4.
 (pdftex.def)             Requested size: 386.95897pt x 187.60986pt.
- [11 <./figures/IsoviewOfPantsBW.png> <./figures/IsoviewOfPantsModel.png (PNG c
-opy)>]))
+))
 
-LaTeX Warning: Reference `Somewhere' on page 12 undefined on input line 24.
+LaTeX Warning: Reference `Somewhere' on page 13 undefined on input line 24.
 
 
-LaTeX Warning: Reference `tab:paramsOfOptimizedScheme' on page 12 undefined on 
+LaTeX Warning: Reference `tab:paramsOfOptimizedScheme' on page 13 undefined on 
 input line 25.
 
-) (./chapters/KessonTask.tex [12]
+[13 <./figures/IsoviewOfPantsModel.png (PNG copy)>]) (./chapters/KessonTask.tex
+[14]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 (./sections/creationOfModel.tex
-<./figures/simplifiedCentroplan.png, id=276, 1611.01875pt x 614.295pt>
+<./figures/simplifiedCentroplan.png, id=292, 1611.01875pt x 614.295pt>
 File: ./figures/simplifiedCentroplan.png Graphic file (type png)
 
 <use ./figures/simplifiedCentroplan.png>
@@ -1118,7 +1130,7 @@ Package pdftex.def Info: ./figures/simplifiedCentroplan.png used on input line
 10.
 (pdftex.def)             Requested size: 435.32422pt x 165.99309pt.
 
-<./figures/KessSectionExample.pdf, id=278, 540.60233pt x 227.62204pt>
+<./figures/KessSectionExample.pdf, id=294, 540.60233pt x 227.62204pt>
 File: ./figures/KessSectionExample.pdf Graphic file (type pdf)
 
 <use ./figures/KessSectionExample.pdf>
@@ -1126,7 +1138,7 @@ Package pdftex.def Info: ./figures/KessSectionExample.pdf used on input line 22
 .
 (pdftex.def)             Requested size: 483.69687pt x 203.66315pt.
 ) (./sections/calculationOfModel.tex
-[13
+[15
 
  <./figures/simplifiedCentroplan.png>] (./data.tex) (./data.tex)
 Overfull \hbox (0.85065pt too wide) in paragraph at lines 23--23
@@ -1138,7 +1150,7 @@ Overfull \hbox (0.85065pt too wide) in paragraph at lines 23--23
  []\T2A/cmr/m/n/12 Боковые 
  []
 
-(./data.tex) [14 <./figures/KessSectionExample.pdf>]
+(./data.tex) [16 <./figures/KessSectionExample.pdf>]
 (./data/massSquareTableNormed.tex) (./data/massSquareTableNormed.tex)
 Overfull \hbox (0.85065pt too wide) in paragraph at lines 43--43
  []\T2A/cmr/m/n/12 Боковые 
@@ -1149,50 +1161,46 @@ Overfull \hbox (0.85065pt too wide) in paragraph at lines 43--43
  []\T2A/cmr/m/n/12 Боковые 
  []
 
-(./data/massSquareTableNormed.tex) [15]
-<./figures/3dplot_with_sections.pdf, id=308, 597.50786pt x 845.04686pt>
+(./data/massSquareTableNormed.tex) [17]
+<./figures/3dplot_with_sections.pdf, id=324, 597.50786pt x 845.04686pt>
 File: ./figures/3dplot_with_sections.pdf Graphic file (type pdf)
 
 <use ./figures/3dplot_with_sections.pdf>
 Package pdftex.def Info: ./figures/3dplot_with_sections.pdf used on input line 
 52.
 (pdftex.def)             Requested size: 435.32422pt x 615.66702pt.
- [16])) (./chapters/VariantsTask.tex
-[17 <./figures/3dplot_with_sections.pdf>]
+ [18])) (./chapters/VariantsTask.tex
+[19 <./figures/3dplot_with_sections.pdf>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 6.
-
-
-Overfull \hbox (38.39877pt too wide) in paragraph at lines 8--9
+Overfull \hbox (38.39877pt too wide) in paragraph at lines 10--11
 []\T2A/cmr/m/n/12 В це-лях обес-пе-че-ния точ-но-сти рас-че-та бы-ло про-ве-де-
 но ис-сле-до-ва-ние за-ви-си-мо-сти напряженно-
  []
 
 
-<./figures/RootOfWingWithSelectedPartsBW.png, id=333, 1041.8925pt x 898.35625pt
+<./figures/RootOfWingWithSelectedPartsBW.png, id=350, 1041.8925pt x 898.35625pt
 >
 File: ./figures/RootOfWingWithSelectedPartsBW.png Graphic file (type png)
  <use ./figures/RootOfWingWithSelectedPartsBW.png>
 Package pdftex.def Info: ./figures/RootOfWingWithSelectedPartsBW.png used on in
-put line 14.
+put line 16.
 (pdftex.def)             Requested size: 241.84843pt x 208.52296pt.
 
 (./figures/StressToDiscreteness.tex
 Package epstopdf Info: Source file: <./figures/StressToDiscreteness.eps>
-(epstopdf)                    date: 2014-06-15 16:06:23
+(epstopdf)                    date: 2014-06-10 23:48:08
 (epstopdf)                    size: 17465 bytes
 (epstopdf)             Output file: <./figures/StressToDiscreteness-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2014-06-15 16:06:23
+(epstopdf)                    date: 2014-06-10 23:48:08
 (epstopdf)                    size: 3696 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figures/StressToDiscrete
 ness-eps-converted-to.pdf ./figures/StressToDiscreteness.eps>
 (epstopdf)             \includegraphics on input line 109.
 Package epstopdf Info: Output file is already uptodate.
 
-<./figures/StressToDiscreteness-eps-converted-to.pdf, id=335, 426.59375pt x 226
+<./figures/StressToDiscreteness-eps-converted-to.pdf, id=352, 426.59375pt x 226
 .8475pt>
 File: ./figures/StressToDiscreteness-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -1200,24 +1208,24 @@ f)
 Package pdftex.def Info: ./figures/StressToDiscreteness-eps-converted-to.pdf us
 ed on input line 109.
 (pdftex.def)             Requested size: 426.5927pt x 226.84694pt.
-) [18
+) [20
 
- <./figures/RootOfWingWithSelectedPartsBW.png>]) [19 <./figures/StressToDiscret
+ <./figures/RootOfWingWithSelectedPartsBW.png>]) [21 <./figures/StressToDiscret
 eness-eps-converted-to.pdf>] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [20
+ [22
 
 ] (./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- (./main.bbl [21
+ (./main.bbl [23
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
- [22
+ [24
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
@@ -1225,63 +1233,44 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
 (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 69.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 950C4F726D5820F0C020DA780708DCF9;4332.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: D54FD1DCBD4F1709CDBCE10E1B536830;4618
-(rerunfilecheck)             After:  67BA39944FB49C51669DFA7BD3A506C2;4193.
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 69.
  ) 
 Here is how much of TeX's memory you used:
- 13418 strings out of 494474
- 188725 string characters out of 6172703
- 391218 words of memory out of 5000000
- 16264 multiletter control sequences out of 15000+600000
+ 13435 strings out of 494408
+ 190183 string characters out of 6170599
+ 391120 words of memory out of 5000000
+ 16277 multiletter control sequences out of 15000+600000
  18408 words of font info for 40 fonts, out of 8000000 for 9000
- 453 hyphenation exceptions out of 8191
+ 498 hyphenation exceptions out of 8191
  42i,18n,46p,1859b,537s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.caption.31} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.30} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist
-, replaced by a fixed one
-
- </home/morodeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </home/mo
-rodeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/morodeer/.te
-xmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </home/morodeer/.texmf-var/fo
-nts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </home/morodeer/.texmf-var/fonts/pk/ljf
-our/lh/lh-t2a/larm1095.600pk> </home/morodeer/.texmf-var/fonts/pk/ljfour/lh/lh-
-t2a/labx1200.600pk> </home/morodeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx24
-88.600pk> </home/morodeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/laxc1200.600pk> 
-</home/morodeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk> </home/mor
-odeer/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy10.pfb>
-Output written on main.pdf (23 pages, 5347157 bytes).
+{i:/texlive_onemorefresh/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
+}<i:/texlive_onemorefresh/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+<i:/texlive_onemorefresh/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+i:/texlive_onemorefresh/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><i:
+/texlive_onemorefresh/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><i:/t
+exlive_onemorefresh/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><i:/texl
+ive_onemorefresh/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><i:/texlive
+_onemorefresh/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><i:/texlive_
+onemorefresh/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><i:/texlive_on
+emorefresh/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><i:/texlive_onem
+orefresh/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><i:/texlive_onemor
+efresh/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><i:/texlive_onemoref
+resh/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><i:/texlive_onemorefre
+sh/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><i:/texlive_onemorefresh
+/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><i:/texlive_onemorefresh/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><i:/texlive_onemorefresh/tex
+mf-dist/fonts/type1/public/cm-super/sfti1200.pfb><i:/texlive_onemorefresh/texmf
+-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
+Output written on main.pdf (25 pages, 5627091 bytes).
 PDF statistics:
- 895 PDF objects out of 1000 (max. 8388607)
- 397 compressed objects within 4 object streams
- 95 named destinations out of 1000 (max. 500000)
- 249 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 494 PDF objects out of 1000 (max. 8388607)
+ 394 compressed objects within 4 object streams
+ 96 named destinations out of 1000 (max. 500000)
+ 261 words of extra memory for PDF output out of 10000 (max. 10000000)
 
