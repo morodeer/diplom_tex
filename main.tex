@@ -37,38 +37,9 @@
 \tableofcontents
 \input{chapters/Introduction}
 \input{chapters/DevelopmentOfConstruction}
-
+\input{chapters/KessonTask}
+\input{chapters/VariantsTask}
 %в третью главу 
-\chapter{Третья глава}
-\subsection{Подбор оптимальной дискретности модели}
-
-В целях обеспечения точности расчета было проведено исследование зависимости напряженно-деформированного состояния самолета от максимального характерного размера конечных элементов, используемых в модели. 
-
-С помощью программного комплекса ``Conver'' было построено 7 моделей самолета по одинаковой схеме с использованием различных размеров конечного элемента. Путем расчета моделей были определены средние величины напряжений для панелей и стенок в наиболее напряженных отсеках самолета (обозначены белым на  Рис.\ref{fig:WingRootPlain})
-
-\begin{figure}[ht]
-\centering
-\includegraphics[width=0.5\textwidth]{RootOfWingWithSelectedPartsBW}
-\caption{Схематичное изображение вида сверху в месте стыка правого крыла и фюзеляжа}
-\label{fig:WingRootPlain}
-\end{figure}
-
-
-
-
-Исходя из полученных данных, была получена зависимость величины средних напряжений в панелях и стенках этих отсеков от выбора размера конечного элемента (Рис.\ref{fig:stressToDiscreteness})
-
-\begin{figure}[H]
-\centering
-%\includegraphics[width=0.8\textwidth]{StressToDiscretenessPlot}
-\input{figures/StressToDiscreteness}
-\caption{Зависимость средних напряжений в отсеках от величины КЭ}
-\label{fig:stressToDiscreteness}
-\end{figure}
-
-На основании полученных данных и исходя из трудоемкости процесса расчета модели была определена оптимальная величина конечного элемента для дальнейшей работы над моделью, принятая равной $0,11\text{м}$. 
-%Ниже приведены картины НДС в месте стыка крыла с фюзеляжем при различных размерах конечного элемента. 
-
 %\input{chapters/Projecting}
 %\input{chapters/SolvingModel}
 %\input{chapters/PreparingForFuture}
