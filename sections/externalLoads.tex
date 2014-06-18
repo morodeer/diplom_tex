@@ -1,6 +1,6 @@
 В работе исследуется прочность конструкции при случае нагружения A. Перегрузка $n_y = 2,97$, $M = 0,4$, скоростной напор $q = 503 \text{кгс}/\text{м}^2$, высота $H = 8\text{км}$. Нагрузки на конструкцию получены из работы \cite{BPS}, в которой были представлены расчетные нагрузки в диапазоне допускаемых режимов полета (см. Рис.\ref{fig:ModeOfFlight}). 
 %описать режимы
-Эпюры аэродинамических нагрузок представлены на Рис.\ref{fig:BendingMoments},\ref{fig:CuttingForces},\ref{fig:DistributedLoad}.
+Эпюры аэродинамических нагрузок на крыло представлены на Рис.\ref{fig:BendingMoments},\ref{fig:CuttingForces},\ref{fig:DistributedLoad}.
 
 
 
@@ -14,7 +14,7 @@
 
 \begin{figure}[H]
 \centering
-\def\svgwidth{0.7\textwidth}
+\def\svgwidth{0.9\textwidth}
 \input{figures/BendingMoments.pdf_tex}
 \caption{Эпюра изгибающих моментов}
 \label{fig:BendingMoments}
@@ -22,7 +22,7 @@
 
 \begin{figure}[H]
 \centering
-\def\svgwidth{0.7\textwidth}
+\def\svgwidth{0.9\textwidth}
 \input{figures/CuttingForces.pdf_tex}
 \caption{Эпюра перерезывающих сил}
 \label{fig:CuttingForces}
@@ -30,11 +30,20 @@
 
 \begin{figure}[H]
 \centering
-\def\svgwidth{0.7\textwidth}
+\def\svgwidth{0.9\textwidth}
 \input{figures/DistributedLoad.pdf_tex}
 \caption{Эпюра погонной нагрузки}
 \label{fig:DistributedLoad}
 \end{figure}
 
-Как видно из имеющихся данных, влияние кручения на крыло невелико по сравнению с изгибом. В связи с этим в дальнейшем в работе будем пренебрегать кручением крыла, рассматривая только изгибные деформации. Где-то здесь будет график эпюры для кручения.
+\begin{figure}[H]
+\centering
+\def\svgwidth{0.9\textwidth}
+\input{figures/RotatingMoments.pdf_tex}
+\caption{Эпюра крутящих моментов}
+\label{fig:RotatingMoments}
+\end{figure}
+
+
+Как видно из имеющихся данных (Рис.\ref{fig:BendingMoments}--\ref{fig:RotatingMoments}), влияние кручения на крыло невелико по сравнению с изгибом. В связи с этим в дальнейшем в работе будем пренебрегать кручением крыла, рассматривая только изгибные деформации. 
 

@@ -48,27 +48,28 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.53571429)%
+  \begin{picture}(1,0.42857143)%
     \put(0,0){\includegraphics[width=\unitlength]{CuttingForces.pdf}}%
-    \put(0.08885714,0.07585714){\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.08885714,0.13728571){\makebox(0,0)[rb]{\smash{2000}}}%
-    \put(0.08885714,0.19857143){\makebox(0,0)[rb]{\smash{4000}}}%
-    \put(0.08885714,0.26){\makebox(0,0)[rb]{\smash{6000}}}%
-    \put(0.08885714,0.32128571){\makebox(0,0)[rb]{\smash{8000}}}%
-    \put(0.08885714,0.38271429){\makebox(0,0)[rb]{\smash{10000}}}%
-    \put(0.08885714,0.444){\makebox(0,0)[rb]{\smash{12000}}}%
-    \put(0.08885714,0.50542857){\makebox(0,0)[rb]{\smash{14000}}}%
-    \put(0.10071429,0.05014286){\makebox(0,0)[b]{\smash{0}}}%
-    \put(0.19671429,0.05014286){\makebox(0,0)[b]{\smash{2}}}%
-    \put(0.29257143,0.05014286){\makebox(0,0)[b]{\smash{4}}}%
-    \put(0.38857143,0.05014286){\makebox(0,0)[b]{\smash{6}}}%
-    \put(0.48457143,0.05014286){\makebox(0,0)[b]{\smash{8}}}%
-    \put(0.58042857,0.05014286){\makebox(0,0)[b]{\smash{10}}}%
-    \put(0.67642857,0.05014286){\makebox(0,0)[b]{\smash{12}}}%
-    \put(0.77242857,0.05014286){\makebox(0,0)[b]{\smash{14}}}%
-    \put(0.86828571,0.05014286){\makebox(0,0)[b]{\smash{16}}}%
+    \put(0.11457143,0.07585714){\makebox(0,0)[rb]{\smash{0}}}%
+    \put(0.11457143,0.12185714){\makebox(0,0)[rb]{\smash{2000}}}%
+    \put(0.11457143,0.168){\makebox(0,0)[rb]{\smash{4000}}}%
+    \put(0.11457143,0.214){\makebox(0,0)[rb]{\smash{6000}}}%
+    \put(0.11457143,0.26014286){\makebox(0,0)[rb]{\smash{8000}}}%
+    \put(0.11457143,0.30614286){\makebox(0,0)[rb]{\smash{10000}}}%
+    \put(0.11457143,0.35228571){\makebox(0,0)[rb]{\smash{12000}}}%
+    \put(0.11457143,0.39828571){\makebox(0,0)[rb]{\smash{14000}}}%
+    \put(0.12642857,0.05014286){\makebox(0,0)[b]{\smash{0}}}%
+    \put(0.21957143,0.05014286){\makebox(0,0)[b]{\smash{2}}}%
+    \put(0.31257143,0.05014286){\makebox(0,0)[b]{\smash{4}}}%
+    \put(0.40571429,0.05014286){\makebox(0,0)[b]{\smash{6}}}%
+    \put(0.49885714,0.05014286){\makebox(0,0)[b]{\smash{8}}}%
+    \put(0.59185714,0.05014286){\makebox(0,0)[b]{\smash{10}}}%
+    \put(0.685,0.05014286){\makebox(0,0)[b]{\smash{12}}}%
+    \put(0.77814286,0.05014286){\makebox(0,0)[b]{\smash{14}}}%
+    \put(0.87114286,0.05014286){\makebox(0,0)[b]{\smash{16}}}%
     \put(0.96428571,0.05014286){\makebox(0,0)[b]{\smash{18}}}%
-    \put(0.53242857,0.01157143){\makebox(0,0)[b]{\smash{z}}}%
-    \put(0.86842857,0.47971429){\makebox(0,0)[rb]{\smash{$Q_\text{аэр}[\text{кгc}]$}}}%
+    \put(0.02514286,0.24342857){\rotatebox{90}{\makebox(0,0)[b]{\smash{$Q_\text{аэр}[\text{кгс}]$}}}}%
+    \put(0.54528571,0.01157143){\makebox(0,0)[b]{\smash{$Z[\text{м}]$}}}%
+    \put(0.86842857,0.37257143){\makebox(0,0)[rb]{\smash{$Q_\text{аэр}$}}}%
   \end{picture}%
 \endgroup%

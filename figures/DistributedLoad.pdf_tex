@@ -48,19 +48,19 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.53571429)%
+  \begin{picture}(1,0.42857143)%
     \put(0,0){\includegraphics[width=\unitlength]{DistributedLoad.pdf}}%
     \put(0.10271429,0.07585714){\makebox(0,0)[rb]{\smash{-3500}}}%
-    \put(0.10271429,0.11885714){\makebox(0,0)[rb]{\smash{-3000}}}%
-    \put(0.10271429,0.16171429){\makebox(0,0)[rb]{\smash{-2500}}}%
-    \put(0.10271429,0.20471429){\makebox(0,0)[rb]{\smash{-2000}}}%
-    \put(0.10271429,0.24771429){\makebox(0,0)[rb]{\smash{-1500}}}%
-    \put(0.10271429,0.29071429){\makebox(0,0)[rb]{\smash{-1000}}}%
-    \put(0.10271429,0.33357143){\makebox(0,0)[rb]{\smash{-500}}}%
-    \put(0.10271429,0.37657143){\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.10271429,0.41957143){\makebox(0,0)[rb]{\smash{500}}}%
-    \put(0.10271429,0.46242857){\makebox(0,0)[rb]{\smash{1000}}}%
-    \put(0.10271429,0.50542857){\makebox(0,0)[rb]{\smash{1500}}}%
+    \put(0.10271429,0.10814286){\makebox(0,0)[rb]{\smash{-3000}}}%
+    \put(0.10271429,0.14028571){\makebox(0,0)[rb]{\smash{-2500}}}%
+    \put(0.10271429,0.17257143){\makebox(0,0)[rb]{\smash{-2000}}}%
+    \put(0.10271429,0.20485714){\makebox(0,0)[rb]{\smash{-1500}}}%
+    \put(0.10271429,0.23714286){\makebox(0,0)[rb]{\smash{-1000}}}%
+    \put(0.10271429,0.26928571){\makebox(0,0)[rb]{\smash{-500}}}%
+    \put(0.10271429,0.30157143){\makebox(0,0)[rb]{\smash{0}}}%
+    \put(0.10271429,0.33385714){\makebox(0,0)[rb]{\smash{500}}}%
+    \put(0.10271429,0.366){\makebox(0,0)[rb]{\smash{1000}}}%
+    \put(0.10271429,0.39828571){\makebox(0,0)[rb]{\smash{1500}}}%
     \put(0.11457143,0.05014286){\makebox(0,0)[b]{\smash{0}}}%
     \put(0.209,0.05014286){\makebox(0,0)[b]{\smash{2}}}%
     \put(0.30342857,0.05014286){\makebox(0,0)[b]{\smash{4}}}%
@@ -71,8 +71,8 @@
     \put(0.77542857,0.05014286){\makebox(0,0)[b]{\smash{14}}}%
     \put(0.86985714,0.05014286){\makebox(0,0)[b]{\smash{16}}}%
     \put(0.96428571,0.05014286){\makebox(0,0)[b]{\smash{18}}}%
-    \put(0.02514286,0.297){\rotatebox{90}{\makebox(0,0)[b]{\smash{погонная нагрузка $q[\text{кгс}/\text{м}]$}}}}%
-    \put(0.53942857,0.01157143){\makebox(0,0)[b]{\smash{z}}}%
-    \put(0.86842857,0.47971429){\makebox(0,0)[rb]{\smash{$q[\text{кгс}/\text{м}]$}}}%
+    \put(0.02514286,0.24342857){\rotatebox{90}{\makebox(0,0)[b]{\smash{$q[\text{кгс}/\text{м}]$}}}}%
+    \put(0.53942857,0.01157143){\makebox(0,0)[b]{\smash{$Z[\text{м}]$}}}%
+    \put(0.86842857,0.37257143){\makebox(0,0)[rb]{\smash{$q$}}}%
   \end{picture}%
 \endgroup%

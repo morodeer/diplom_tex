@@ -15,7 +15,7 @@
    id="svg5470"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="BPS_Catia_Top_PartRoles.pdf">
+   sodipodi:docname="BPS_Catia_Top_PartRoles.svg">
   <defs
      id="defs5472">
     <pattern
@@ -321,11 +321,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="126.92932"
-     inkscape:cy="127.06513"
+     inkscape:zoom="5.6"
+     inkscape:cx="262.15492"
+     inkscape:cy="100.35501"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6165"
      showgrid="false"
      units="cm"
      fit-margin-top="0"
@@ -336,7 +336,11 @@
      inkscape:window-height="1018"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3057" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5475">
     <rdf:RDF>
@@ -345,7 +349,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -356,7 +360,7 @@
      transform="translate(4.1374238,-17.457013)">
     <g
        id="g6165"
-       transform="translate(-167.68532,-337.39095)">
+       transform="translate(-167.78791,-337.37517)">
       <g
          transform="matrix(0.42230327,0,0,0.42230327,199.10486,350.76865)"
          id="g2987">
@@ -406,7 +410,8 @@
          x="0" />
       <g
          style="fill:#afafaf;fill-opacity:1"
-         id="g6112">
+         id="g6112"
+         transform="translate(-0.11048543,0)">
         <path
            style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 404.56609,554.86205 83.33759,0.25254 -0.25254,24.74874 -17.67767,-0.25254 -35.35534,18.18275 -30.05204,-0.50508 z"
@@ -415,14 +420,14 @@
         <path
            sodipodi:nodetypes="cccc"
            style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 374.64285,406.29075 12.50001,0 0.35714,73.92857 -12.67857,0"
+           d="m 374.51658,406.29075 12.62628,0 0.35714,73.92857 -12.89954,0"
            id="path6110"
            inkscape:connector-curvature="0" />
       </g>
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-1,0,0,1,749.68939,0.46174758)"
+         transform="matrix(-1,0,0,1,749.07476,-0.00294035)"
          id="use6116"
          xlink:href="#g6112"
          y="0"
