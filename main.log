@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.16)  18 JUN 2014 13:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.16)  18 JUN 2014 14:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -986,12 +986,10 @@ File: ./figures/OriginalSectionWithEngine.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figures/OriginalSectionWithEngine.pdf used on input 
 line 95.
 (pdftex.def)             Requested size: 483.69687pt x 178.20525pt.
- [3 <./figures/UAV_X45.png> <./figures/UAV_X47.png> <./figures/BPS_Catia.png>]
+ [3 <./figures/UAV_X45.png> <./figures/UAV_X47.png> <./figures/BPS_Catia.png>])
 
-LaTeX Warning: Citation `CONVER_Report' on page 4 undefined on input line 122.
-
-) (./chapters/DevelopmentOfConstruction.tex [4 <./figures/OriginalSectionWithEn
-gine.pdf>]
+(./chapters/DevelopmentOfConstruction.tex [4 <./figures/OriginalSectionWithEngi
+ne.pdf>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 (./sections/requirements.tex
 <./figures/BPS_Catia_Full.png, id=154, 1776.6375pt x 532.99126pt>
@@ -1385,10 +1383,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 69.
  ) 
 Here is how much of TeX's memory you used:
- 13545 strings out of 494408
- 193120 string characters out of 6170599
+ 13544 strings out of 494408
+ 193105 string characters out of 6170599
  392207 words of memory out of 5000000
- 16339 multiletter control sequences out of 15000+600000
+ 16338 multiletter control sequences out of 15000+600000
  18408 words of font info for 40 fonts, out of 8000000 for 9000
  498 hyphenation exceptions out of 8191
  42i,18n,46p,1859b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1410,7 +1408,7 @@ sh/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><i:/texlive_onemorefresh
 exmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><i:/texlive_onemorefresh/tex
 mf-dist/fonts/type1/public/cm-super/sfti1200.pfb><i:/texlive_onemorefresh/texmf
 -dist/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on main.pdf (30 pages, 6685687 bytes).
+Output written on main.pdf (30 pages, 6685853 bytes).
 PDF statistics:
  650 PDF objects out of 1000 (max. 8388607)
  493 compressed objects within 5 object streams
