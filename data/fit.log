@@ -1,0 +1,116 @@
+
+
+*******************************************************************************
+Thu Jun 19 16:25:44 2014
+
+
+FIT:    data read from 'WingDeformationFront.txt'
+        format = z
+        #datapoints = 436
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fr(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.11036e+014      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 193136
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1
+d               = 1
+e               = 1
+f               = 1
+
+After 10 iterations the fit converged.
+final sum of squares of residuals : 0.00213487
+rel. change during last iteration : -1.13759e-014
+
+degrees of freedom    (FIT_NDF)                        : 430
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00222819
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.96482e-006
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -9.31939e-006    +/- 1.4e-007     (1.502%)
+b               = 0.000389254      +/- 6.894e-006   (1.771%)
+c               = -0.00568668      +/- 0.0001285    (2.259%)
+d               = 0.0581283        +/- 0.001121     (1.929%)
+e               = -0.0799436       +/- 0.004524     (5.659%)
+f               = 0.000112752      +/- 0.006665     (5911%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      f      
+a               1.000 
+b              -0.997  1.000 
+c               0.988 -0.996  1.000 
+d              -0.969  0.984 -0.995  1.000 
+e               0.938 -0.960  0.979 -0.994  1.000 
+f              -0.896  0.923 -0.949  0.973 -0.992  1.000 
+
+
+*******************************************************************************
+Thu Jun 19 16:26:07 2014
+
+
+FIT:    data read from 'WingDeformationRear.txt'
+        format = z
+        #datapoints = 432
+        residuals are weighted equally (unit weight)
+
+function used for fitting: re(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.368739          delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 194028
+
+initial set of free parameter values
+
+a               = -9.31939e-006
+b               = 0.000389254
+c               = -0.00568668
+d               = 0.0581283
+e               = -0.0799436
+f               = 0.000112752
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 0.00171168
+rel. change during last iteration : -1.84605e-007
+
+degrees of freedom    (FIT_NDF)                        : 426
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0020045
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.01802e-006
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -9.56525e-006    +/- 1.268e-007   (1.326%)
+b               = 0.00040337       +/- 6.25e-006    (1.549%)
+c               = -0.00602961      +/- 0.0001166    (1.934%)
+d               = 0.0620603        +/- 0.001019     (1.642%)
+e               = -0.0968412       +/- 0.004123     (4.258%)
+f               = 0.034874         +/- 0.006098     (17.49%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      d      e      f      
+a               1.000 
+b              -0.997  1.000 
+c               0.988 -0.996  1.000 
+d              -0.969  0.984 -0.995  1.000 
+e               0.938 -0.960  0.979 -0.994  1.000 
+f              -0.894  0.922 -0.948  0.973 -0.992  1.000 

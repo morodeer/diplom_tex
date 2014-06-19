@@ -52,6 +52,6 @@
     \put(0,0){\includegraphics[width=\unitlength]{BPS_Catia_Top.pdf}}%
     \put(0.47906546,0.08822684){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.42154597\unitlength}\raggedright 34м\end{minipage}}}%
     \put(0.43768595,0.51069694){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.04719915\unitlength}\raggedright 5.3м\end{minipage}}}%
-    \put(0.5774281,0.48134263){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lt]{\begin{minipage}{0.01838572\unitlength}\raggedright 9.4м\end{minipage}}}}%
+    \put(0.58053274,0.35870949){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lt]{\begin{minipage}{0.01838572\unitlength}\raggedright 9.4м\end{minipage}}}}%
   \end{picture}%
 \endgroup%
