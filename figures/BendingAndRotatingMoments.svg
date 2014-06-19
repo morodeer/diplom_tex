@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="BendingAndRotatingMoments.svg">
+   sodipodi:docname="BendingAndRotatingMoments.pdf">
   <metadata
      id="metadata369">
     <rdf:RDF>
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnuplot</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
