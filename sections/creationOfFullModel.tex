@@ -32,39 +32,56 @@
 
 \subsection{Создание модели}
 \label{sec:creationOfOneModel}
+
+В данном разделе рассматривается построение параметрической МКЭ-модели гипотетического БПЛА с использованием программного комплекса ``Conver''. 
+
 \subsubsection{Создание геометрии}
-Показать скриншоты из List1,2,4,
+В первую очередь, задается геометрическое разбиение БПЛА на отсеки в плоскости XZ. 
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth]{conver/list1}
-\caption{List1}
+\caption{Окно задания координат отсеков}
 \label{fig:conver_list1}
 \end{figure}
+
+
+Следующим шагом является задание базовых сечений крыла.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{conver/list2}
+\caption{Окно задания сечений крыла}
+\label{fig:conver_list2}
+\end{figure} 
+
+Затем неообходимо задать базовые сечения фюзеляжа.
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth]{conver/list4}
-\caption{List4}
+\caption{Окно задания сечения фюзеляжа}
 \label{fig:conver_list4}
 \end{figure}
 
 \subsubsection{Задание нагрузок и свойств отсеков}
-Показать скриншот из ListAdd
+
+Следующим шагом является задание свойств отсеков: толщин стенок, материалов, свойств стрингеров, нагрузки на отсеки, и др. 
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth]{conver/listadd}
-\caption{Listadd}
+\caption{Окно задания свойств отсеков}
 \label{fig:conver_listadd}
 \end{figure}
 
 \subsubsection{Построение МКЭ-модели}
-Показать скриншот из ListA, скрин из патрана. 
+
+Заключительным шагом в построении МКЭ-модели является задание параметров построения модели и само построение модели. Встроенный в программный комплекс алгоритм позволяет собрать воедино данные из предыдущих шагов, и построить по ним МКЭ-модель летательного аппарата в автоматическом режиме. 
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.8\textwidth]{conver/lista}
-\caption{Lista}
+\caption{Окно создания МКЭ-модели}
 \label{fig:conver_lista}
 \end{figure}

@@ -1,0 +1,89 @@
+%\subsection{Проблемы проектирования}
+
+С помощью построенной расчетной модели, используя существующие расчетные средства (MSC.Nastran), было определено напряженно-деформированное состояние(НДС) БПЛА для минимальных технологических толщин (1мм для алюминиевых панелей). Исходя из полученных данных была проведена оптимизация толщин панелей и стенок отсеков для нахождения минимальной по весу конструкции, удовлетворяющей требованиям прочности.
+
+В полученной модели можно выделить следующие особенности НДС:
+
+\begin{enumerate}
+\item Усилия в обшивке фюзеляжа малы за исключением обшивки центроплана. Т.о. большую часть обшивки можно выполнять из более легких, но менее прочных материалов
+\item Наибольшие усилия наблюдаются в фюзеляжной части центроплана и в корне крыла. Так, в корне крыла наблюдаются следующие величины усилий: $Q = 13,7~\text{тс}$, $M_\text{изг} = 80~\text{тс}\cdot\text{м}$. 
+\item Большие усилия приложены на стенки отсека двигателя в местах крепления двигателя (дополнительный анализ этой особенности произведен далее в данном разделе)
+\end{enumerate}  
+
+Общая картина НДС расчетной модели БПЛА представлена на Рис.\ref{fig:patranRearDeformed}--\ref{fig:patranTopIsoWithoutSk}
+
+
+%Обшивка почти не нагружена, можно использовать композиты. Наибольшие напряжения в центроплане - необходим достаточно жесткий короб. Отдельно нужно рассмотреть штаны (на устойчивость рассмотрим сейчас, варианты исполнения в третьей главе) 
+%
+%В корне крыла Q=13,7тс, Мизг=80 тс*м
+%На изломе крыла Q=10,3тс, Мизг=55 тс*м
+
+%В предложенной конструкторами схеме были выявлены некоторые проблемные места, в которых требовался дополнительный анализ. 
+
+
+\begin{figure}[H]
+\centering
+\def\svgwidth{0.9\textwidth}
+\input{figures/WingDeformation3.pdf_tex}
+\caption{Эпюры перемещений лонжеронов}
+\label{fig:WingDeformation3}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{patran/rear_deformed}
+\caption{Вид сзади, деформированное состояние}
+\label{fig:patranRearDeformed}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{patran/bottom}
+\caption{Вид снизу}
+\label{fig:patranBottom}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{patran/bottom_iso}
+\caption{Вид в изометрии снизу}
+\label{fig:patranBottomIso}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{patran/bottom_iso_withoutskin}
+\caption{Вид снизу в изометрии без обшивки}
+\label{fig:patranBottomIsoWithoutSkin}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{patran/bottom_iso_zoom}
+\caption{Вид на стык крыла с фюзеляжем снизу в изометрии}
+\label{fig:patranBottomIsoZoom}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{patran/top}
+\caption{Вид сверху}
+\label{fig:patranTop}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{patran/top_iso}
+\caption{Вид сверху в изометрии}
+\label{fig:patranTopIso}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{patran/top_iso_withoutskin}
+\caption{Вид сверху в изометрии без обшивки}
+\label{fig:patranTopIsoWithoutSk}
+\end{figure}
+\input{sections/problemOfPants}
+%\input{sections/problemOfCentroplan}
