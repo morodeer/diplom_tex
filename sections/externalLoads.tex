@@ -1,4 +1,9 @@
-В работе исследуется прочность конструкции при случае нагружения A. Перегрузка $n_y = 2,97$, $M = 0,4$, скоростной напор $q = 503 \text{кгс}/\text{м}^2$, высота $H = 8\text{км}$. Нагрузки на конструкцию получены из работы \cite{BPS}, в которой были представлены расчетные нагрузки в диапазоне допускаемых режимов полета (см. Рис.\ref{fig:ModeOfFlight}). 
+Внешние расчетные нагрузки на гипотетическую конструкцию БПЛА были сформированы на основе результатов исследований, проведенных в ЦАГИ \cite{BPS_TSAGI} по анализу внешних нагрузок на конструкцию БПЛА-ЦАГИ. Для предварительных расчетов прочности гипотетической конструкции БПЛА в рамках данной работы использовался один расчетный случай нагружения А, который оказался наиболее критичным для основных силовых элементов центроплана и зоны стыка крыла и фюзеляжа. 
+
+Для силовых элементов конструкции носовой и концевой части фюзеляжа были сформированы еще два случая нагружения. 
+
+
+Для основного случая нагружения основные параметры, формирующие внешнее нагружение следующие: перегрузка $n_y = 2,97$, $M = 0,4$, скоростной напор $q = 503 \text{кгс}/\text{м}^2$, высота $H = 8\text{км}$. Нагрузки на гипотетическую конструкцию БПЛА получены на основе пересчета из работы \cite{BPS}(см. Рис.\ref{fig:ModeOfFlight}). 
 %описать режимы
 Эпюры аэродинамических нагрузок на крыло представлены на Рис.\ref{fig:BendingMoments},\ref{fig:CuttingForces},\ref{fig:DistributedLoad}.
 
@@ -11,30 +16,39 @@
 \label{fig:ModeOfFlight}
 \end{figure}
 
+%
+%\begin{figure}[H]
+%\centering
+%\def\svgwidth{0.9\textwidth}
+%\input{figures/BendingMoments.pdf_tex}
+%\caption{Эпюра изгибающих моментов}
+%\label{fig:BendingMoments}
+%\end{figure}
+
 
 \begin{figure}[H]
 \centering
 \def\svgwidth{0.9\textwidth}
-\input{figures/BendingMoments.pdf_tex}
-\caption{Эпюра изгибающих моментов}
-\label{fig:BendingMoments}
+\input{figures/BendingAndRotatingMoments.pdf_tex}
+\caption{Эпюры изгибающих и крутящих моментов}
+\label{fig:BendingAndRotatingMoments}
 \end{figure}
 
-\begin{figure}[H]
-\centering
-\def\svgwidth{0.9\textwidth}
-\input{figures/CuttingForces.pdf_tex}
-\caption{Эпюра перерезывающих сил}
-\label{fig:CuttingForces}
-\end{figure}
+%\begin{figure}[H]
+%\centering
+%\def\svgwidth{0.9\textwidth}
+%\input{figures/CuttingForces.pdf_tex}
+%\caption{Эпюра перерезывающих сил}
+%\label{fig:CuttingForces}
+%\end{figure}
 
-\begin{figure}[H]
-\centering
-\def\svgwidth{0.9\textwidth}
-\input{figures/DistributedLoad.pdf_tex}
-\caption{Эпюра погонной нагрузки}
-\label{fig:DistributedLoad}
-\end{figure}
+%\begin{figure}[H]
+%\centering
+%\def\svgwidth{0.9\textwidth}
+%\input{figures/DistributedLoad.pdf_tex}
+%\caption{Эпюра погонной нагрузки}
+%\label{fig:DistributedLoad}
+%\end{figure}
 
 \begin{figure}[H]
 \centering
@@ -45,5 +59,5 @@
 \end{figure}
 
 
-Как видно из имеющихся данных (Рис.\ref{fig:BendingMoments}--\ref{fig:RotatingMoments}), влияние кручения на крыло невелико по сравнению с изгибом. В связи с этим в дальнейшем в работе будем пренебрегать кручением крыла, рассматривая только изгибные деформации. 
+Как видно из имеющихся данных (Рис.\ref{fig:BendingMoments}--\ref{fig:RotatingMoments}), влияние кручения на крыло невелико по сравнению с изгибом. В связи с этим в дальнейшем в работе при решении некоторых модельных задач будет целесообразно пренебрегать кручением крыла, рассматривая только изгибные деформации. 
 
