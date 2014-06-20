@@ -1,3 +1,4 @@
+\label{sec:ndsResults}
 %\subsection{Проблемы проектирования}
 
 С помощью построенной расчетной модели, используя существующие расчетные средства (MSC.Nastran), было определено напряженно-деформированное состояние(НДС) БПЛА для минимальных технологических толщин (1мм для алюминиевых панелей). Исходя из полученных данных была проведена оптимизация толщин панелей и стенок отсеков для нахождения минимальной по весу конструкции, удовлетворяющей требованиям прочности.
@@ -11,14 +12,6 @@
 \end{enumerate}  
 
 Общая картина НДС расчетной модели БПЛА представлена на Рис.\ref{fig:patranRearDeformed}--\ref{fig:patranTopIsoWithoutSk}
-
-
-%Обшивка почти не нагружена, можно использовать композиты. Наибольшие напряжения в центроплане - необходим достаточно жесткий короб. Отдельно нужно рассмотреть штаны (на устойчивость рассмотрим сейчас, варианты исполнения в третьей главе) 
-%
-%В корне крыла Q=13,7тс, Мизг=80 тс*м
-%На изломе крыла Q=10,3тс, Мизг=55 тс*м
-
-%В предложенной конструкторами схеме были выявлены некоторые проблемные места, в которых требовался дополнительный анализ. 
 
 
 \begin{figure}[H]
@@ -48,10 +41,19 @@
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.8\textwidth]{patran/bottom}
+\includegraphics[width=0.7\textwidth]{patran/bottom}
 \caption{Вид снизу}
 \label{fig:patranBottom}
 \end{figure}
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\textwidth]{patran/top}
+\caption{Вид сверху}
+\label{fig:patranTop}
+\end{figure}
+
 
 \begin{figure}[H]
 \centering
@@ -74,12 +76,6 @@
 \label{fig:patranBottomIsoZoom}
 \end{figure}
 
-\begin{figure}[H]
-\centering
-\includegraphics[width=0.8\textwidth]{patran/top}
-\caption{Вид сверху}
-\label{fig:patranTop}
-\end{figure}
 
 \begin{figure}[H]
 \centering

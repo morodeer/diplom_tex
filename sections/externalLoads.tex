@@ -3,15 +3,22 @@
 Для силовых элементов конструкции носовой и концевой части фюзеляжа были сформированы еще два случая нагружения. 
 
 
-Для основного случая нагружения основные параметры, формирующие внешнее нагружение следующие: перегрузка $n_y = 2,97$, $M = 0,4$, скоростной напор $q = 503 \text{кгс}/\text{м}^2$, высота $H = 8\text{км}$. Нагрузки на гипотетическую конструкцию БПЛА получены на основе пересчета из работы \cite{BPS}(см. Рис.\ref{fig:ModeOfFlight}). 
-%описать режимы
-Эпюры аэродинамических нагрузок на крыло представлены на Рис.\ref{fig:BendingMoments},\ref{fig:CuttingForces},\ref{fig:DistributedLoad}.
+Для основного случая нагружения основные параметры, формирующие внешнее нагружение следующие: перегрузка $n_y = 2,97$, $M = 0,4$, скоростной напор $q = 503 \text{кгс}/\text{м}^2$, высота $H = 8\text{км}$. Нагрузки на гипотетическую конструкцию БПЛА получены на основе пересчета из работы \cite{BPS}.
 
+Эпюры аэродинамических нагрузок на крыло представлены на Рис.\ref{fig:BendingMoments},\ref{fig:RotatingMoments}.
 
+%
+%\begin{figure}[H]
+%\centering
+%\includegraphics{HeightGraph}
+%\caption{Ограничения на режимы полета}
+%\label{fig:ModeOfFlight}
+%\end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics{HeightGraph}
+\def\svgwidth{0.9\textwidth}
+\input{figures/Heights.pdf_tex}
 \caption{Ограничения на режимы полета}
 \label{fig:ModeOfFlight}
 \end{figure}
