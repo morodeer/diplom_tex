@@ -71,7 +71,8 @@
     \put(0.52757143,0.01157143){\makebox(0,0)[b]{\smash{$\text{Число Маха}$}}}%
     \put(0.18671429,0.80114286){\makebox(0,0)[lb]{\smash{$q_\text{maxmax} = 591 \text{кгс}/\text{м}^2$}}}%
     \put(0.18671429,0.77542857){\makebox(0,0)[lb]{\smash{$q_\text{max э} = 434 \text{кгс}/\text{м}^2$}}}%
-    \put(0.18671429,0.74971429){\makebox(0,0)[lb]{\smash{$M=13600\text{кг}\, n_y=2.97\,c_y=c_\text{y max}(\text{м})$}}}%
-    \put(0.18671429,0.724){\makebox(0,0)[lb]{\smash{$M=5400\text{кг}\, n_y=3.80\,c_y=c_\text{y max}(\text{м})$}}}%
+    \put(0.18671429,0.74971429){\makebox(0,0)[lb]{\smash{$M=13600\text{кг}\quad n_y=2.97\quad c_y=c_\text{y max}(M)$}}}%
+    \put(0.18671429,0.724){\makebox(0,0)[lb]{\smash{$M=5400\text{кг}\quad n_y=3.80\quad c_y=c_\text{y max}(M)$}}}%
+    \put(0.6099438,0.27479576){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.61508017\unitlength}\raggedright Основной расчетный случай\end{minipage}}}%
   \end{picture}%
 \endgroup%
