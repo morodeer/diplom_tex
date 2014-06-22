@@ -1,4 +1,4 @@
-%% Creator: Inkscape 0.48.3.1, www.inkscape.org
+%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'BPS_Catia_Top_PartRoles.pdf' (pdf, eps, ps)
 %%
@@ -50,9 +50,9 @@
   \makeatother%
   \begin{picture}(1,0.62146438)%
     \put(0,0){\includegraphics[width=\unitlength]{BPS_Catia_Top_PartRoles.pdf}}%
-    \put(0.75736119,0.59340529){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{топливные баки}}}%
-    \put(0.75640236,0.53893969){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{шассийные отсеки}}}%
-    \put(0.75715499,0.4876598){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{отсек двигателя}}}%
-    \put(0.55917625,0.43305086){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Остальные отсеки - БРЭО}}}%
+    \put(0.75340273,0.59296711){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{топливные баки}}}%
+    \put(0.75210366,0.54117401){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{шассийные отсеки}}}%
+    \put(0.7528563,0.49261828){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{отсек двигателя}}}%
+    \put(0.75284848,0.47382949){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.24257049\unitlength}\raggedright отсеки спец.оборудования\end{minipage}}}%
   \end{picture}%
 \endgroup%

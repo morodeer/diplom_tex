@@ -321,21 +321,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="262.15492"
-     inkscape:cy="100.35501"
+     inkscape:zoom="1.4"
+     inkscape:cx="345.77262"
+     inkscape:cy="182.40688"
      inkscape:document-units="px"
-     inkscape:current-layer="g6165"
+     inkscape:current-layer="g6302"
      showgrid="false"
      units="cm"
      fit-margin-top="0"
      fit-margin-left="1"
      fit-margin-right="1"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -441,71 +441,90 @@
     <g
        id="g6302"
        transform="translate(-2.0203051,5.0507627)">
+      <g
+         id="g4565">
+        <rect
+           style="fill:url(#pattern6278);fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="rect6180"
+           width="94.954338"
+           height="22.223356"
+           x="317.69296"
+           y="12.913906" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="426.05502"
+           y="28.601757"
+           id="text6280"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6282"
+             x="426.05502"
+             y="28.601757">топливные баки</tspan></text>
+      </g>
+      <g
+         id="g4560"
+         transform="translate(0,-1.5246887)">
+        <rect
+           y="43.97607"
+           x="317.69296"
+           height="22.223356"
+           width="94.954338"
+           id="rect6182"
+           style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="425.31674"
+           y="59.561382"
+           id="text6284"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="425.31674"
+             y="59.561382"
+             id="tspan6288">шассийные отсеки</tspan></text>
+      </g>
+      <g
+         id="g4555"
+         transform="translate(0,-3.0494384)">
+        <rect
+           style="fill:url(#pattern6300);fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="rect6186"
+           width="94.954338"
+           height="22.223356"
+           x="317.69296"
+           y="75.038284" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="425.74448"
+           y="88.681213"
+           id="text6292"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6294"
+             x="425.74448"
+             y="88.681213">отсек двигателя</tspan></text>
+      </g>
       <rect
-         y="12.913906"
-         x="317.69296"
-         height="22.223356"
-         width="94.954338"
-         id="rect6180"
-         style="fill:url(#pattern6278);fill-opacity:1;stroke:#000000;stroke-opacity:1" />
-      <rect
-         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-         id="rect6182"
+         style="fill:none;stroke:#000000;stroke-opacity:1"
+         id="rect3058"
          width="94.954338"
          height="22.223356"
          x="317.69296"
-         y="43.97607" />
-      <rect
-         y="75.038284"
-         x="317.69296"
-         height="22.223356"
-         width="94.954338"
-         id="rect6186"
-         style="fill:url(#pattern6300);fill-opacity:1;stroke:#000000;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text6280"
-         y="28.352734"
-         x="428.30469"
+         y="101.52633" />
+      <flowRoot
+         transform="translate(35.025738,-14.022321)"
          style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="28.352734"
-           x="428.30469"
-           id="tspan6282"
-           sodipodi:role="line">топливные баки</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6284"
-         y="59.306499"
-         x="427.75977"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan6288"
-           y="59.306499"
-           x="427.75977"
-           sodipodi:role="line">шассийные отсеки</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6292"
-         y="88.449768"
-         x="428.1875"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="88.449768"
-           x="428.1875"
-           id="tspan6294"
-           sodipodi:role="line">отсек двигателя</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6296"
-         y="119.485"
-         x="315.67267"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="119.485"
-           x="315.67267"
-           id="tspan6298"
-           sodipodi:role="line">Остальные отсеки - БРЭО</tspan></text>
-    </g>
+         id="flowRoot4570"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4572"><rect
+             style="font-size:12px"
+             y="110.3321"
+             x="390.71429"
+             height="134.99998"
+             width="137.85713"
+             id="rect4574" /></flowRegion><flowPara
+           id="flowPara4576">отсеки спец.оборудования</flowPara></flowRoot>    </g>
   </g>
 </svg>

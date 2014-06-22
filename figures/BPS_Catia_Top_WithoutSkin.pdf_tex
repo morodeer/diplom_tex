@@ -1,4 +1,4 @@
-%% Creator: Inkscape 0.48.3.1, www.inkscape.org
+%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'BPS_Catia_Top_WithoutSkin.pdf' (pdf, eps, ps)
 %%
@@ -50,11 +50,9 @@
   \makeatother%
   \begin{picture}(1,0.66276964)%
     \put(0,0){\includegraphics[width=\unitlength]{BPS_Catia_Top_WithoutSkin.pdf}}%
-    \put(0.57852593,0.63629482){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Замок убранного положения}}}%
-    \put(0.57760855,0.57331807){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Крепление основной стойки шасси}}}%
-    \put(0.39173701,0.16119611){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1}}}%
-    \put(0.53402404,0.51989734){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1}}}%
-    \put(0.57938805,0.52182054){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Двигатель}}}%
-    \put(0.57927753,0.47872208){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Узел крепления двигателя}}}%
+    \put(0.57791765,0.63516152){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Замок убранного положения}}}%
+    \put(0.57700026,0.5869298){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Крепление основной стойки шасси}}}%
+    \put(0.57866924,0.53885282){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Узел крепления двигателя}}}%
+    \put(0.5657072,0.15207183){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.637485\unitlength}\raggedright Зона расположения двигателя\end{minipage}}}%
   \end{picture}%
 \endgroup%

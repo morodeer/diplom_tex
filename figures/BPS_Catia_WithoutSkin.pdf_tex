@@ -1,4 +1,4 @@
-%% Creator: Inkscape 0.48.3.1, www.inkscape.org
+%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'BPS_Catia_WithoutSkin.pdf' (pdf, eps, ps)
 %%
@@ -50,8 +50,14 @@
   \makeatother%
   \begin{picture}(1,0.56486263)%
     \put(0,0){\includegraphics[width=\unitlength]{BPS_Catia_WithoutSkin.pdf}}%
-    \put(0.70306674,0.55559543){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.50112069\unitlength}\raggedright Узлы крепления шасси\end{minipage}}}%
-    \put(0.70251462,0.51425731){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.50112069\unitlength}\raggedright Замки убранного положения шасси\end{minipage}}}%
-    \put(0.70306674,0.47222822){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.50112069\unitlength}\raggedright Узлы навески двигателя\end{minipage}}}%
+    \put(0.36704511,0.18631293){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41571299\unitlength}\raggedright 1\end{minipage}}}%
+    \put(0.41286583,0.23505188){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32917624\unitlength}\raggedright 1\end{minipage}}}%
+    \put(0.4441287,0.27815534){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.24263948\unitlength}\raggedright 2\end{minipage}}}%
+    \put(0.47309356,0.35370712){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.24263948\unitlength}\raggedright 2\end{minipage}}}%
+    \put(0.10631471,0.13966332){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32917623\unitlength}\raggedright 2\end{minipage}}}%
+    \put(0.56358687,0.53757001){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41571299\unitlength}\raggedright 1\end{minipage}}}%
+    \put(0.56348853,0.48005007){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.42323257\unitlength}\raggedright 2\end{minipage}}}%
+    \put(0.61142323,0.53932045){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.01707902\unitlength}\raggedright Изогнутые стенки центроплана\end{minipage}}}%
+    \put(0.61156726,0.49174552){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36753542\unitlength}\raggedright Изогнутые стенки носовой и концевой части корпуса\end{minipage}}}%
   \end{picture}%
 \endgroup%
