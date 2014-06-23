@@ -1,0 +1,77 @@
+%% Creator: Inkscape 0.48.3.1, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'StressToDiscreteness.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{560bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.42857143)%
+    \put(0,0){\includegraphics[width=\unitlength]{StressToDiscreteness.pdf}}%
+    \put(0.079,0.09285714){\makebox(0,0)[rb]{\smash{16}}}%
+    \put(0.079,0.12671429){\makebox(0,0)[rb]{\smash{18}}}%
+    \put(0.079,0.16071429){\makebox(0,0)[rb]{\smash{20}}}%
+    \put(0.079,0.19471429){\makebox(0,0)[rb]{\smash{22}}}%
+    \put(0.079,0.22857143){\makebox(0,0)[rb]{\smash{24}}}%
+    \put(0.079,0.26257143){\makebox(0,0)[rb]{\smash{26}}}%
+    \put(0.079,0.29642857){\makebox(0,0)[rb]{\smash{28}}}%
+    \put(0.079,0.33042857){\makebox(0,0)[rb]{\smash{30}}}%
+    \put(0.079,0.36428571){\makebox(0,0)[rb]{\smash{32}}}%
+    \put(0.079,0.39828571){\makebox(0,0)[rb]{\smash{34}}}%
+    \put(0.14542857,0.05014286){\makebox(0,0)[b]{\smash{0.1}}}%
+    \put(0.28185714,0.05014286){\makebox(0,0)[b]{\smash{0.15}}}%
+    \put(0.41842857,0.05014286){\makebox(0,0)[b]{\smash{0.2}}}%
+    \put(0.55485714,0.05014286){\makebox(0,0)[b]{\smash{0.25}}}%
+    \put(0.69128571,0.05014286){\makebox(0,0)[b]{\smash{0.3}}}%
+    \put(0.82785714,0.05014286){\makebox(0,0)[b]{\smash{0.35}}}%
+    \put(0.96428571,0.05014286){\makebox(0,0)[b]{\smash{0.4}}}%
+    \put(0.02514286,0.24342857){\rotatebox{90}{\makebox(0,0)[b]{\smash{Средняя величина напряжения, $\text{кгс}/\text{мм}^2$}}}}%
+    \put(0.52757143,0.01157143){\makebox(0,0)[b]{\smash{Максимальный размер КЭ}}}%
+    \put(0.86842857,0.37257143){\makebox(0,0)[rb]{\smash{$1.3$}}}%
+    \put(0.86842857,0.34685714){\makebox(0,0)[rb]{\smash{$1.36$}}}%
+    \put(0.86842857,0.32114286){\makebox(0,0)[rb]{\smash{$2.33$}}}%
+    \put(0.86842857,0.29542857){\makebox(0,0)[rb]{\smash{$2.34$}}}%
+  \end{picture}%
+\endgroup%

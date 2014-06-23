@@ -71,6 +71,28 @@
 \end{figure}
 
 
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+	\begin{subfigure}[b]{0.8\textwidth}
+	\includegraphics[width=0.98\textwidth]{discreteness/0_4}
+	\caption{$L_\text{КЭ} = 0.4см$}
+	\label{fig:discr:0_4}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.8\textwidth}
+	\includegraphics[width=0.98\textwidth]{discreteness/0_2}
+	\caption{$L_\text{КЭ} = 0.2см$}
+	\label{fig:discr:0_2}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.8\textwidth}
+	\includegraphics[width=0.98\textwidth]{discreteness/0_13}
+	\caption{$L_\text{КЭ} = 0.13см$}
+	\label{fig:discr:0_13}
+	\end{subfigure}
+\label{fig:discreteness}
+\caption{Изображения МКЭ-моделей гипотетического БПЛА, построенных с использованием различных характерных размеров конечного элемента}
+\end{figure}
+
 
 
 На Рис.\ref{fig:stressToDiscreteness} представлена зависимость найденых эквивалентных напряжений (напряжений по Мизесу) в выбранных точках от максимального размера конечного элемента, используемого при построении модели. 
@@ -78,10 +100,14 @@
 \begin{figure}[H]
 \centering
 %\includegraphics[width=0.8\textwidth]{StressToDiscretenessPlot}
-\input{figures/StressToDiscreteness}
+\def\svgwidth{\textwidth}
+\input{figures/StressToDiscreteness.pdf_tex}
 \caption{Зависимость напряжений в выбранных точках от максимальной величины КЭ, используемой в модели}
 \label{fig:stressToDiscreteness}
 \end{figure}
+
+
+	
 
 Исходя из полученных данных и с учетом зависимости трудоемкости процесса от максимального размера КЭ, была определена оптимальная для дальнейших параметрических исследований моделей гипотетического БПЛА величина конечного элемента, равная $0,11\text{м}$. 
 %Ниже приведены картины НДС в месте стыка крыла с фюзеляжем при различных размерах конечного элемента. 
