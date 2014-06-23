@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.21)  23 JUN 2014 20:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.21)  23 JUN 2014 22:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **TitleList.tex
 (./TitleList.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 11 languages loaded.
+Babel <3.9h> and hyphenation patterns for 9 languages loaded.
 
 ! LaTeX Error: Environment comment undefined.
 
@@ -13,8 +13,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \begin{comment}
-                   
+l.50 \begin{comment}
+                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -26,8 +26,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 \begin{titlepage}
-                     
+l.51 \begin{titlepage}
+                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -39,13 +39,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \begin{center}
-                  
+l.54 \begin{center}
+                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 5--5
+Overfull \hbox (20.0pt too wide) in paragraph at lines 54--54
 [] 
  []
 
@@ -245,7 +245,7 @@ Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 13--13
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--62
 [] 
  []
 
@@ -322,7 +322,7 @@ Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 Missing character: There is no � in font nullfont!
 ! Undefined control sequence.
-l.17 \Large
+l.66 \Large
             Дипломная работа на степень бакала...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -411,7 +411,7 @@ Missing character: There is no � in font nullfont!
 Missing character: There is no : in font nullfont!
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 23.
+(Font)              using `OT1/cmr/bx/n' instead on input line 72.
 
 Missing character: There is no � in font cmbx10!
 Missing character: There is no � in font cmbx10!
@@ -554,7 +554,7 @@ Missing character: There is no � in font cmbx10!
 Missing character: There is no � in font cmbx10!
 Missing character: There is no � in font cmbx10!
 
-Overfull \hbox (3.19443pt too wide) in paragraph at lines 23--24
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 72--73
  \OT1/cmr/bx/n/10 . 
  []
 
@@ -810,7 +810,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \end{titlepage}
+l.93 \end{titlepage}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -823,7 +823,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 \end{comment}
+l.94 \end{comment}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -837,11 +837,11 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 16 strings out of 494474
- 255 string characters out of 6172703
+ 19 strings out of 494515
+ 274 string characters out of 6173718
  51073 words of memory out of 5000000
- 3342 multiletter control sequences out of 15000+600000
+ 3338 multiletter control sequences out of 15000+600000
  4249 words of font info for 16 fonts, out of 8000000 for 9000
- 452 hyphenation exceptions out of 8191
+ 430 hyphenation exceptions out of 8191
  16i,1n,11p,202b,210s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

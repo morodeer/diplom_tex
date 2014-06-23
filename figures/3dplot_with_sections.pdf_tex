@@ -1,4 +1,4 @@
-%% Creator: Inkscape 0.48.3.1, www.inkscape.org
+%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file '3dplot_with_sections.pdf' (pdf, eps, ps)
 %%
@@ -50,7 +50,7 @@
   \makeatother%
   \begin{picture}(1,1.4142857)%
     \put(0,0){\includegraphics[width=\unitlength]{3dplot_with_sections.pdf}}%
-    \put(0.67804394,1.38305473){\makebox(0,0)[lb]{\smash{Вес кессона}}}%
+    \put(0.78051564,1.38574259){\makebox(0,0)[rb]{\smash{$\text{Вес кессона}$}}}%
     \put(0.74708245,1.36111352){\makebox(0,0)[lb]{\smash{900}}}%
     \put(0.74708245,1.33990291){\makebox(0,0)[lb]{\smash{850}}}%
     \put(0.74708245,1.31869229){\makebox(0,0)[lb]{\smash{800}}}%
@@ -62,10 +62,10 @@
     \put(0.74708245,1.19142369){\makebox(0,0)[lb]{\smash{500}}}%
     \put(0.74708245,1.17020782){\makebox(0,0)[lb]{\smash{450}}}%
     \put(0.74708245,1.14899743){\makebox(0,0)[lb]{\smash{400}}}%
-    \put(0.1285928,0.75819805){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Вес кессона: 604кг}}}%
-    \put(0.58935479,0.76282165){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Вес кессона: 935кг}}}%
-    \put(0.13402255,0.49705975){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Вес кессона: 457кг}}}%
-    \put(0.58524037,0.50155226){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Вес кессона: 397кг}}}%
+    \put(0.29254455,0.75685417){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{$\text{Вес кессона}: 604\text{кг}$}}}%
+    \put(0.74624197,0.7601338){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{$\text{Вес кессона}: 935\text{кг}$}}}%
+    \put(0.2903099,0.5024354){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{$\text{Вес кессона}: 457\text{кг}$}}}%
+    \put(0.74643857,0.50155214){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{$\text{Вес кессона}: 397\text{кг}$}}}%
     \put(0.79209798,0.94022822){\makebox(0,0)[lb]{\smash{-1.4}}}%
     \put(0.74113936,0.92985181){\makebox(0,0)[lb]{\smash{-1.2}}}%
     \put(0.69448825,0.91951183){\makebox(0,0)[lb]{\smash{-1}}}%
@@ -74,26 +74,23 @@
     \put(0.53722826,0.88841929){\makebox(0,0)[lb]{\smash{-0.4}}}%
     \put(0.48627249,0.87803995){\makebox(0,0)[lb]{\smash{-0.2}}}%
     \put(0.44280254,0.86766367){\makebox(0,0)[lb]{\smash{0}}}%
-    \put(0.14033792,0.95842754){\makebox(0,0)[lb]{\smash{0.2}}}%
-    \put(0.16375875,0.95029587){\makebox(0,0)[lb]{\smash{0.25}}}%
-    \put(0.1928818,0.9421642){\makebox(0,0)[lb]{\smash{0.3}}}%
-    \put(0.21630277,0.93399331){\makebox(0,0)[lb]{\smash{0.35}}}%
-    \put(0.24542901,0.92586164){\makebox(0,0)[lb]{\smash{0.4}}}%
-    \put(0.26881035,0.91772997){\makebox(0,0)[lb]{\smash{0.45}}}%
-    \put(0.29797608,0.90956213){\makebox(0,0)[lb]{\smash{0.5}}}%
-    \put(0.32135742,0.90143046){\makebox(0,0)[lb]{\smash{0.55}}}%
-    \put(0.35048074,0.89329893){\makebox(0,0)[lb]{\smash{0.6}}}%
-    \put(0.37390144,0.8851279){\makebox(0,0)[lb]{\smash{0.65}}}%
-    \put(0.40302768,0.87699623){\makebox(0,0)[lb]{\smash{0.7}}}%
-    \put(0.42640915,0.8688647){\makebox(0,0)[lb]{\smash{0.75}}}%
-    \put(0.12350891,1.07200108){\makebox(0,0)[lb]{\smash{300}}}%
-    \put(0.12350891,1.1038682){\makebox(0,0)[lb]{\smash{400}}}%
-    \put(0.12350891,1.13569888){\makebox(0,0)[lb]{\smash{500}}}%
-    \put(0.12350891,1.16760523){\makebox(0,0)[lb]{\smash{600}}}%
-    \put(0.12350891,1.19947221){\makebox(0,0)[lb]{\smash{700}}}%
-    \put(0.12350891,1.23137869){\makebox(0,0)[lb]{\smash{800}}}%
-    \put(0.12350891,1.26324873){\makebox(0,0)[lb]{\smash{900}}}%
-    \put(0.11776427,1.29511598){\makebox(0,0)[lb]{\smash{1000}}}%
+    \put(0.12845929,0.95462632){\makebox(0,0)[lb]{\smash{0.2}}}%
+    \put(0.18100317,0.93836299){\makebox(0,0)[lb]{\smash{0.3}}}%
+    \put(0.23355038,0.92206042){\makebox(0,0)[lb]{\smash{0.4}}}%
+    \put(0.28609746,0.90576092){\makebox(0,0)[lb]{\smash{0.5}}}%
+    \put(0.33860211,0.88949771){\makebox(0,0)[lb]{\smash{0.6}}}%
+    \put(0.39114905,0.87319502){\makebox(0,0)[lb]{\smash{0.7}}}%
+    \put(0.13980629,1.07200108){\makebox(0,0)[rb]{\smash{300}}}%
+    \put(0.1401088,1.1038682){\makebox(0,0)[rb]{\smash{400}}}%
+    \put(0.13981134,1.13569888){\makebox(0,0)[rb]{\smash{500}}}%
+    \put(0.13985163,1.16760523){\makebox(0,0)[rb]{\smash{600}}}%
+    \put(0.13975084,1.19947221){\makebox(0,0)[rb]{\smash{700}}}%
+    \put(0.13982144,1.23137869){\makebox(0,0)[rb]{\smash{800}}}%
+    \put(0.13981134,1.26324873){\makebox(0,0)[rb]{\smash{900}}}%
+    \put(0.13911202,1.29511598){\makebox(0,0)[rb]{\smash{1000}}}%
+    \put(0.09811761,1.34490024){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.12021191\unitlength}\centering $G\text{[кг]}$\end{minipage}}}%
+    \put(0.05131569,0.91227994){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.22902033\unitlength}\raggedleft $h_\text{стр}[\text{м}]$\end{minipage}}}%
+    \put(0.61103747,0.89802564){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28888869\unitlength}\raggedright $y_\text{отн}[\text{м}]$\end{minipage}}}%
     \put(0.92713563,1.00277859){\makebox(0,0)[lb]{\smash{300}}}%
     \put(0.92713563,1.05869597){\makebox(0,0)[lb]{\smash{400}}}%
     \put(0.92713563,1.11461853){\makebox(0,0)[lb]{\smash{500}}}%

@@ -1,68 +1,77 @@
-На основе полученных в разделе \ref{sec:creationOfOneModel} данных была проведена оптимизация толщин стенок отсеков и панелей для выполнения требований прочности конструкции. 
+На основе полученных в разделе \ref{sec:creationOfOneModel} данных была проведена оптимизация толщин стенок отсеков и панелей для выполнения требований прочности конструкции. Эпюра толщин верхних и нижних панелей центроплана представлены на Рис.\ref{fig:epure:weight}.
 
-\begin{figure}
+\begin{figure}[H]
+\centering
+\captionsetup{justification=centering}
+\footnotesize
+\begin{subfigure}[b]{0.49\textwidth}
+	\centering
+	\def\svgwidth{\textwidth}
+	
+	\input{figures/EpureDistributedLoadN1Top.pdf_tex}
+	\label{fig:epure:loadn1top}
+	\caption{Эпюра погонных усилий $N_y$ в верхних панелях центроплана}
+\end{subfigure}
+\begin{subfigure}[b]{0.49\textwidth}
 	\centering
 	\def\svgwidth{\textwidth}
 	\input{figures/EpureDistributedLoadN1Bottom.pdf_tex}
 	\label{fig:epure:loadn1bottom}
-	\caption{fig:epure:loadn1bottom}
-\end{figure}
-
-\begin{figure}
-	\centering
-	\def\svgwidth{\textwidth}
-	\input{figures/EpureDistributedLoadN1Top.pdf_tex}
-	\label{fig:epure:loadn1top}
-	\caption{fig:epure:loadn1top}
-\end{figure}
-
-\begin{figure}
-	\centering
-	\def\svgwidth{\textwidth}
-	\input{figures/EpureDistributedLoadN2Bottom.pdf_tex}
-	\label{fig:epure:loadn2bottom}
-	\caption{fig:epure:loadn2bottom}
-\end{figure}
-
-\begin{figure}
-	\centering
-	\def\svgwidth{\textwidth}
-	\input{figures/EpureDistributedLoadN2Top.pdf_tex}
-	\label{fig:epure:loadn2top}
-	\caption{fig:epure:loadn2top}
-\end{figure}
-
-\begin{figure}
-	\centering
-	\def\svgwidth{\textwidth}
-	\input{figures/EpureDistributedLoadN12Bottom.pdf_tex}
-	\label{fig:epure:loadn12bottom}
-	\caption{fig:epure:loadn12bottom}
-\end{figure}
-
-\begin{figure}
-	\centering
-	\def\svgwidth{\textwidth}
-	\input{figures/EpureDistributedLoadN12Top.pdf_tex}
-	\label{fig:epure:loadn12top}
-	\caption{fig:epure:loadn12top}
-\end{figure}
-
-\begin{figure}
-	\centering
-	\def\svgwidth{\textwidth}
-	\input{figures/EpureDistributedWeightBottom.pdf_tex}
-	\label{fig:epure:loadweightbottom}
-	\caption{fig:epure:loadweightbottom}
-\end{figure}
-
-\begin{figure}
+	\caption{Эпюра погонных усилий $N_y$ в нижних панелях центроплана}
+\end{subfigure}
+\begin{subfigure}[b]{0.49\textwidth}
 	\centering
 	\def\svgwidth{\textwidth}
 	\input{figures/EpureDistributedWeightTop.pdf_tex}
 	\label{fig:epure:loadweighttop}
-	\caption{fig:epure:loadweighttop}
+	\caption{Эпюра погонного веса верхних панелей центроплана}
+\end{subfigure}
+\begin{subfigure}[b]{0.49\textwidth}
+	\centering
+	\def\svgwidth{\textwidth}		\input{figures/EpureDistributedWeightBottom.pdf_tex}
+	\label{fig:epure:loadweightbottom}
+	\caption{Эпюра погонного веса нижних панелей центроплана}
+\end{subfigure}
+\label{fig:epures}
 \end{figure}
+%
+%
+%\begin{figure}[H]
+%\centering
+%\begin{subfigure}[b]{0.7\textwidth}
+%	\centering
+%	\def\svgwidth{\textwidth}
+%	\input{figures/EpureDistributedLoadN2Top.pdf_tex}
+%	\label{fig:epure:loadn2top}
+%	\caption{Верхние панели}
+%\end{subfigure}
+%\begin{subfigure}[b]{0.7\textwidth}
+%	\centering
+%	\def\svgwidth{\textwidth}	\input{figures/EpureDistributedLoadN2Bottom.pdf_tex}
+%	\label{fig:epure:loadn2bottom}
+%	\caption{Нижние панели}
+%\end{subfigure}
+%\label{fig:epure:loadn2}
+%\caption{Эпюра $N_y$}
+%\end{figure}
+%
+%\begin{figure}
+%	\centering
+%	\def\svgwidth{\textwidth}
+%	\input{figures/EpureDistributedLoadN12Bottom.pdf_tex}
+%	\label{fig:epure:loadn12bottom}
+%	\caption{Эпюра $N_\text{xy}$. Нижние панели}
+%\end{figure}
+%
+%\begin{figure}
+%	\centering
+%	\def\svgwidth{\textwidth}
+%	\input{figures/EpureDistributedLoadN12Top.pdf_tex}
+%	\label{fig:epure:loadn12top}
+%	\caption{Эпюра $N_\text{xy}$. Верхние панели}
+%\end{figure}
+
+
 
 %Параметры оптимизированной модели представлены в таблице \ref{tab:paramsOfOptimizedScheme}
 
@@ -73,10 +82,10 @@
 \begin{table}[H]
 \captionsetup{justification=centering}
 \caption{Таблица рациональных параметров}
-\begin{tabu}to \linewidth{*2{|X[m c]}|*2{|X[m c]}|}
+\begin{tabu}to \linewidth{*2{|X[m c]}|}
 \hline
-Вес фюзеляжа & 618кг & & \\ \hline
-Вес крыльев & 1102кг & & \\ \hline
-Вес конструкции & 1722кг & & \\ \hline
+Вес фюзеляжа & 618кг \\ \hline
+Вес крыльев & 1102кг \\ \hline
+Вес конструкции & 1722кг \\ \hline
 \end{tabu}
 \end{table}

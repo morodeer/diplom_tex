@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="149.62026"
-     inkscape:cy="337.29099"
+     inkscape:cx="190.26487"
+     inkscape:cy="732.08385"
      inkscape:document-units="px"
-     inkscape:current-layer="g9105"
+     inkscape:current-layer="g6191"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="1"
      fit-margin-left="1"
@@ -62,16 +62,16 @@
        id="g7423"
        transform="matrix(1.3919117,0,0,1.3919117,71.377775,-409.48142)">
       <text
-         style="font-size:8.5312109px"
-         y="913.51318"
-         x="-755.33557"
+         style="font-size:8.5312109px;text-align:end;text-anchor:end"
+         y="912.07629"
+         x="-700.55579"
          id="text390">
         <tspan
            id="tspan7895"
-           y="913.51318"
-           x="-755.33557"
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           sodipodi:role="line">Вес кессона</tspan>
+           y="912.07629"
+           x="-700.55579"
+           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+           sodipodi:role="line">$\text{Вес кессона}$</tspan>
       </text>
       <g
          id="g394"
@@ -448,21 +448,21 @@
         <text
            sodipodi:linespacing="125%"
            id="text7899"
-           y="1530.8464"
-           x="-1822.3959"
-           style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           y="1531.5203"
+           x="-1740.1896"
+           style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:middle;text-align:center"
            xml:space="preserve"><tspan
              id="tspan7903"
-             y="1530.8464"
-             x="-1822.3959"
-             sodipodi:role="line">Вес кессона: 604кг</tspan></text>
+             y="1531.5203"
+             x="-1905.2789"
+             sodipodi:role="line">$\text{Вес кессона}: 604\text{кг}$</tspan></text>
       </g>
       <rect
          style="fill:none;stroke:#828282;stroke-width:6.19304085;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.19304077, 18.57912231;stroke-dashoffset:0"
          id="rect5565"
          width="995.3999"
          height="567.14569"
-         x="60.035156"
+         x="62.676125"
          y="-1257.9962"
          transform="scale(1,-1)"
          inkscape:tile-cx="219"
@@ -569,29 +569,29 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           x="-1538.8927"
-           y="1575.7145"
+           style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="-1460.4666"
+           y="1577.0581"
            id="text7907"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
-             x="-1538.8927"
-             y="1575.7145"
-             id="tspan7909">Вес кессона: 935кг</tspan></text>
+             x="-1460.4666"
+             y="1577.0581"
+             id="tspan7909">$\text{Вес кессона}: 935\text{кг}$</tspan></text>
       </g>
       <use
          x="0"
          y="0"
          inkscape:tiled-clone-of="#rect5565"
          xlink:href="#rect5565"
-         transform="translate(1123.7681,-45.487987)"
+         transform="translate(1113.4468,-42.168945)"
          id="use5573"
          width="744.09448"
          height="1052.3622" />
     </g>
     <g
-       id="g5689"
-       transform="matrix(1.4797599,0,0,1.4797599,558.04287,-798.87469)">
+       transform="matrix(1.4797599,0,0,1.4797599,901.04286,-796.87469)"
+       id="g4495">
       <g
          id="g3437"
          transform="matrix(0.20360851,0,0,0.20360851,-1345.8908,1555.0075)">
@@ -628,138 +628,126 @@
            style="fill:none;stroke:#808080;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
            id="path3475" />
       </g>
-      <use
-         x="0"
-         y="0"
-         inkscape:tiled-clone-of="#rect5565"
-         xlink:href="#rect5565"
-         transform="matrix(0.20360851,0,0,-0.20360851,-1347.3244,1805.7894)"
-         id="use5569"
-         width="744.09448"
-         height="1052.3622" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text7911"
-         y="1567.9482"
-         x="-1312.9352"
-         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan7913"
-           y="1567.9482"
-           x="-1312.9352"
-           sodipodi:role="line">Вес кессона: 457кг</tspan></text>
+    </g>
+    <use
+       height="1052.3622"
+       width="744.09448"
+       id="use5569"
+       transform="matrix(0.30129171,0,0,-0.30129171,-1437.3366,1873.2601)"
+       xlink:href="#rect5565"
+       inkscape:tiled-clone-of="#rect5565"
+       y="0"
+       x="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.63567734px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1268.4934"
+       y="1517.3123"
+       id="text7911"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-1268.4934"
+         y="1517.3123"
+         id="tspan7913">$\text{Вес кессона}: 457\text{кг}$</tspan></text>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect5565"
+       xlink:href="#rect5565"
+       transform="matrix(0.30129171,0,0,-0.30129171,-1097.9337,1873.2601)"
+       id="use5571"
+       width="744.09448"
+       height="1052.3622" />
+    <g
+       transform="matrix(0.30072415,0,0,0.30072415,-1129.979,1314.6353)"
+       id="g9183">
+      <path
+         id="path9185"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
+         d="m 170.75,9.352 0,3.949"
+         inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5645"
-       transform="translate(-6.3639875,-0.43694601)">
-      <use
-         height="1052.3622"
-         width="744.09448"
-         id="use5571"
-         transform="matrix(0.30129171,0,0,-0.30129171,-1088.6064,1873.697)"
-         xlink:href="#rect5565"
-         inkscape:tiled-clone-of="#rect5565"
-         y="0"
-         x="0" />
+       transform="matrix(0.30072415,0,0,0.30072415,-1129.979,1314.6353)"
+       id="g9195">
+      <path
+         id="path9197"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
+         d="m 359.449,9.352 0,3.949"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.30072415,0,0,0.30072415,-1129.979,1314.6353)"
+       id="g9207">
+      <path
+         id="path9209"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
+         d="m 548.148,9.352 0,3.949"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.30072415,0,0,0.30072415,-1139.979,1313.6353)"
+       id="g9219">
+      <path
+         id="path9221"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
+         d="m 736.898,9.352 0,3.949"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4505"
+       transform="matrix(0.30072415,0,0,-0.30072415,-1433.979,1659.8524)">
       <g
-         transform="matrix(1.4769724,0,0,1.4769724,898.90087,-1061.0194)"
-         id="g7789">
-        <g
-           transform="matrix(0.20360851,0,0,-0.20360851,-1344.9919,1851.9701)"
-           inkscape:label="7_6.txt"
-           id="g9103">
-          <g
-             id="g9105">
-            <g
-               transform="matrix(1,0,0,-1,0,576)"
-               id="g9183">
-              <path
-                 id="path9185"
-                 style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
-                 d="m 170.75,9.352 0,3.949"
-                 inkscape:connector-curvature="0" />
-            </g>
-            <g
-               transform="matrix(1,0,0,-1,0,576)"
-               id="g9195">
-              <path
-                 id="path9197"
-                 style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
-                 d="m 359.449,9.352 0,3.949"
-                 inkscape:connector-curvature="0" />
-            </g>
-            <g
-               transform="matrix(1,0,0,-1,0,576)"
-               id="g9207">
-              <path
-                 id="path9209"
-                 style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
-                 d="m 548.148,9.352 0,3.949"
-                 inkscape:connector-curvature="0" />
-            </g>
-            <g
-               transform="matrix(1,0,0,-1,0,576)"
-               id="g9219">
-              <path
-                 id="path9221"
-                 style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
-                 d="m 736.898,9.352 0,3.949"
-                 inkscape:connector-curvature="0" />
-            </g>
-            <g
-               transform="matrix(1,0,0,-1,0,576)"
-               id="g9251">
-              <path
-                 id="path9253"
-                 style="fill:none;stroke:#50f050;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
-                 d="m 85.852,292.398 0.898,0 1.398,0.051 2.301,0.051 4.653,0.25 4.597,0.352 9.25,1.25 11.551,2.296 11.551,3.153 23.148,8.648 23.102,11.449 23.097,13.801 23.153,15.801 23.097,17.352 23.102,18.546 23.148,19.352 46.204,39.5 23.148,19.352 23.102,18.546 23.097,17.403 23.153,15.75 23.097,13.801 23.102,11.449 23.148,8.648 23.102,5.5 23.097,1.903 23.153,-1.903 23.097,-5.5 23.153,-8.648 23.097,-11.449 23.102,-13.801 23.148,-15.75 23.102,-17.403 23.102,-18.546 23.148,-19.352 23.102,-19.75 23.097,-19.75 23.153,-19.352 23.097,-18.546 23.102,-17.352 23.148,-15.801 23.102,-13.801 23.097,-11.449 23.153,-8.648 11.551,-3.153 11.546,-2.296 9.25,-1.25 4.602,-0.352 4.648,-0.25 2.301,-0.051 1.403,-0.051 0.898,0"
-                 inkscape:connector-curvature="0" />
-            </g>
-            <g
-               transform="matrix(1,0,0,-1,0,576)"
-               id="g9263">
-              <path
-                 id="path9265"
-                 style="fill:none;stroke:#50f050;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
-                 d="m 85.852,245.5 2.296,0 2.301,0.051 4.653,0.148 4.597,0.25 9.25,0.801 11.551,1.551 11.551,2.097 23.148,5.801 23.102,7.653 23.097,9.25 23.153,10.546 23.097,11.602 23.102,12.449 23.148,12.903 23.102,13.25 23.102,13.199 23.148,12.949 23.102,12.398 23.097,11.602 23.153,10.602 23.097,9.199 23.102,7.648 23.148,5.801 23.102,3.648 23.097,1.301 23.153,-1.301 23.097,-3.648 23.153,-5.801 23.097,-7.648 23.102,-9.199 L 686.898,384 710,372.398 733.102,360 l 23.148,-12.949 23.102,-13.199 23.097,-13.25 23.153,-12.903 23.097,-12.449 23.102,-11.602 23.148,-10.546 23.102,-9.25 23.097,-7.653 23.153,-5.801 11.551,-2.097 11.546,-1.551 9.25,-0.801 4.602,-0.25 4.648,-0.148 2.301,-0.051 2.301,0"
-                 inkscape:connector-curvature="0" />
-            </g>
-            <g
-               transform="matrix(1,0,0,-1,0,576)"
-               id="g9275">
-              <path
-                 id="path9277"
-                 style="fill:none;stroke:#808080;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
-                 d="m 85.852,292.398 4.597,0 4.653,0.25 4.597,0.204 9.25,0.347 11.551,0.551 11.551,0.801 23.148,2.898 23.102,5.449 23.097,8 23.153,10.551 23.097,13.102 23.102,14.75 23.148,14.301 23.102,11.699 23.102,10.597 23.148,9.704 23.102,8.699 23.097,7.347 23.153,5.75 23.097,4.102 23.102,2.551 23.148,1.301 23.102,0.347 46.25,0 23.097,-0.347 23.153,-1.301 23.097,-2.551 23.102,-4.102 23.148,-5.75 23.102,-7.347 23.102,-8.699 23.148,-9.704 23.102,-10.597 23.097,-11.699 23.153,-14.301 23.097,-14.75 23.102,-13.102 23.148,-10.551 23.102,-8 23.097,-5.449 23.153,-2.898 11.551,-0.801 11.546,-0.551 9.25,-0.347 4.602,-0.204 4.648,-0.25 4.602,0"
-                 inkscape:connector-curvature="0" />
-            </g>
-            <g
-               transform="matrix(1,0,0,-1,0,576)"
-               id="g9287">
-              <path
-                 id="path9289"
-                 style="fill:none;stroke:#808080;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
-                 d="m 85.852,245.5 0.199,0 0.699,-0.051 1.398,-0.097 2.301,-0.153 4.653,-0.301 4.597,-0.398 9.25,-1.051 11.551,-1.801 11.551,-2.449 23.148,-7.551 23.102,-10.75 23.097,-11.75 23.153,-10.25 23.097,-8.296 23.102,-6.653 23.148,-5.148 23.102,-3.653 23.102,-2.796 23.148,-1.551 23.102,0.097 23.097,4.352 23.153,11.898 23.097,21.051 23.102,35.25 23.148,32.102 23.102,13.597 23.097,2.153 23.153,-2.153 23.097,-13.597 23.153,-32.102 23.097,-35.25 23.102,-21.051 23.148,-11.898 23.102,-4.352 23.102,-0.097 23.148,1.551 23.102,2.796 23.097,3.653 23.153,5.148 23.097,6.653 23.102,8.296 23.148,10.25 23.102,11.75 23.097,10.75 23.153,7.551 11.551,2.449 11.546,1.801 9.25,1.051 4.602,0.398 4.648,0.301 2.301,0.153 1.403,0.097 0.699,0.051 0.199,0"
-                 inkscape:connector-curvature="0" />
-            </g>
-            <g
-               transform="matrix(1,0,0,-1,0,576)"
-               id="g9291" />
-          </g>
-        </g>
-        <text
-           sodipodi:linespacing="125%"
-           id="text7915"
-           y="1746.4279"
-           x="-1314.5636"
-           style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           xml:space="preserve"><tspan
-             id="tspan7917"
-             y="1746.4279"
-             x="-1314.5636"
-             sodipodi:role="line">Вес кессона: 397кг</tspan></text>
+         id="g9251"
+         transform="matrix(1,0,0,-1,0,576)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 85.852,292.398 0.898,0 1.398,0.051 2.301,0.051 4.653,0.25 4.597,0.352 9.25,1.25 11.551,2.296 11.551,3.153 23.148,8.648 23.102,11.449 23.097,13.801 23.153,15.801 23.097,17.352 23.102,18.546 23.148,19.352 46.204,39.5 23.148,19.352 23.102,18.546 23.097,17.403 23.153,15.75 23.097,13.801 23.102,11.449 23.148,8.648 23.102,5.5 23.097,1.903 23.153,-1.903 23.097,-5.5 23.153,-8.648 23.097,-11.449 23.102,-13.801 23.148,-15.75 23.102,-17.403 23.102,-18.546 23.148,-19.352 23.102,-19.75 23.097,-19.75 23.153,-19.352 23.097,-18.546 23.102,-17.352 23.148,-15.801 23.102,-13.801 23.097,-11.449 23.153,-8.648 11.551,-3.153 11.546,-2.296 9.25,-1.25 4.602,-0.352 4.648,-0.25 2.301,-0.051 1.403,-0.051 0.898,0"
+           style="fill:none;stroke:#50f050;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
+           id="path9253" />
+      </g>
+      <g
+         id="g9263"
+         transform="matrix(1,0,0,-1,0,576)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 85.852,245.5 2.296,0 2.301,0.051 4.653,0.148 4.597,0.25 9.25,0.801 11.551,1.551 11.551,2.097 23.148,5.801 23.102,7.653 23.097,9.25 23.153,10.546 23.097,11.602 23.102,12.449 23.148,12.903 23.102,13.25 23.102,13.199 23.148,12.949 23.102,12.398 23.097,11.602 23.153,10.602 23.097,9.199 23.102,7.648 23.148,5.801 23.102,3.648 23.097,1.301 23.153,-1.301 23.097,-3.648 23.153,-5.801 23.097,-7.648 23.102,-9.199 L 686.898,384 710,372.398 733.102,360 l 23.148,-12.949 23.102,-13.199 23.097,-13.25 23.153,-12.903 23.097,-12.449 23.102,-11.602 23.148,-10.546 23.102,-9.25 23.097,-7.653 23.153,-5.801 11.551,-2.097 11.546,-1.551 9.25,-0.801 4.602,-0.25 4.648,-0.148 2.301,-0.051 2.301,0"
+           style="fill:none;stroke:#50f050;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
+           id="path9265" />
+      </g>
+      <g
+         id="g9275"
+         transform="matrix(1,0,0,-1,0,576)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 85.852,292.398 4.597,0 4.653,0.25 4.597,0.204 9.25,0.347 11.551,0.551 11.551,0.801 23.148,2.898 23.102,5.449 23.097,8 23.153,10.551 23.097,13.102 23.102,14.75 23.148,14.301 23.102,11.699 23.102,10.597 23.148,9.704 23.102,8.699 23.097,7.347 23.153,5.75 23.097,4.102 23.102,2.551 23.148,1.301 23.102,0.347 46.25,0 23.097,-0.347 23.153,-1.301 23.097,-2.551 23.102,-4.102 23.148,-5.75 23.102,-7.347 23.102,-8.699 23.148,-9.704 23.102,-10.597 23.097,-11.699 23.153,-14.301 23.097,-14.75 23.102,-13.102 23.148,-10.551 23.102,-8 23.097,-5.449 23.153,-2.898 11.551,-0.801 11.546,-0.551 9.25,-0.347 4.602,-0.204 4.648,-0.25 4.602,0"
+           style="fill:none;stroke:#808080;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
+           id="path9277" />
+      </g>
+      <g
+         id="g9287"
+         transform="matrix(1,0,0,-1,0,576)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 85.852,245.5 0.199,0 0.699,-0.051 1.398,-0.097 2.301,-0.153 4.653,-0.301 4.597,-0.398 9.25,-1.051 11.551,-1.801 11.551,-2.449 23.148,-7.551 23.102,-10.75 23.097,-11.75 23.153,-10.25 23.097,-8.296 23.102,-6.653 23.148,-5.148 23.102,-3.653 23.102,-2.796 23.148,-1.551 23.102,0.097 23.097,4.352 23.153,11.898 23.097,21.051 23.102,35.25 23.148,32.102 23.102,13.597 23.097,2.153 23.153,-2.153 23.097,-13.597 23.153,-32.102 23.097,-35.25 23.102,-21.051 23.148,-11.898 23.102,-4.352 23.102,-0.097 23.148,1.551 23.102,2.796 23.097,3.653 23.153,5.148 23.097,6.653 23.102,8.296 23.148,10.25 23.102,11.75 23.097,10.75 23.153,7.551 11.551,2.449 11.546,1.801 9.25,1.051 4.602,0.398 4.648,0.301 2.301,0.153 1.403,0.097 0.699,0.051 0.199,0"
+           style="fill:none;stroke:#808080;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
+           id="path9289" />
       </g>
     </g>
+    <g
+       transform="matrix(0.30072415,0,0,0.30072415,-1129.979,1314.6353)"
+       id="g9291" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text7915"
+       y="1517.9695"
+       x="-929.09058"
+       style="font-size:26.58550262px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7917"
+         y="1517.9695"
+         x="-929.09058"
+         sodipodi:role="line">$\text{Вес кессона}: 397\text{кг}$</tspan></text>
     <g
        id="g6191"
        transform="matrix(0.81056342,0,0,0.81056342,-192.99978,80.87138)">
@@ -1040,13 +1028,13 @@
       </g>
       <text
          id="text126"
-         x="-1464.5208"
-         y="1353.5519"
+         x="-1475.4253"
+         y="1357.0414"
          style="font-size:8.53120995px">
         <tspan
            style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1464.5208 -1459.2504 -1456.6246"
-           y="1353.5519"
+           x="-1475.4253 -1470.1549 -1467.5292"
+           y="1357.0414"
            sodipodi:role="line"
            id="tspan128">0.2</tspan>
       </text>
@@ -1068,18 +1056,6 @@
            style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
            id="path136" />
       </g>
-      <text
-         id="text138"
-         x="-1443.0205"
-         y="1361.0167"
-         style="font-size:8.53120995px">
-        <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1443.0205 -1437.7501 -1435.1244 -1429.8541"
-           y="1361.0167"
-           sodipodi:role="line"
-           id="tspan140">0.25</tspan>
-      </text>
       <g
          id="g142"
          transform="matrix(0.71093421,0,0,0.71093421,-1542.972,900.56187)">
@@ -1100,13 +1076,13 @@
       </g>
       <text
          id="text150"
-         x="-1416.2856"
-         y="1368.4816"
+         x="-1427.1902"
+         y="1371.9711"
          style="font-size:8.53120995px">
         <tspan
            style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1416.2856 -1411.0151 -1408.3894"
-           y="1368.4816"
+           x="-1427.1902 -1421.9197 -1419.2939"
+           y="1371.9711"
            sodipodi:role="line"
            id="tspan152">0.3</tspan>
       </text>
@@ -1128,18 +1104,6 @@
            style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
            id="path160" />
       </g>
-      <text
-         id="text162"
-         x="-1394.7853"
-         y="1375.9824"
-         style="font-size:8.53120995px">
-        <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1394.7853 -1389.5149 -1386.8892 -1381.6188"
-           y="1375.9824"
-           sodipodi:role="line"
-           id="tspan164">0.35</tspan>
-      </text>
       <g
          id="g166"
          transform="matrix(0.71093421,0,0,0.71093421,-1542.972,900.56187)">
@@ -1160,13 +1124,13 @@
       </g>
       <text
          id="text174"
-         x="-1368.0475"
-         y="1383.4473"
+         x="-1378.952"
+         y="1386.9368"
          style="font-size:8.53120995px">
         <tspan
            style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1368.0475 -1362.7772 -1360.1515"
-           y="1383.4473"
+           x="-1378.952 -1373.6818 -1371.056"
+           y="1386.9368"
            sodipodi:role="line"
            id="tspan176">0.4</tspan>
       </text>
@@ -1188,18 +1152,6 @@
            style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
            id="path184" />
       </g>
-      <text
-         id="text186"
-         x="-1346.5835"
-         y="1390.9121"
-         style="font-size:8.53120995px">
-        <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1346.5835 -1341.313 -1338.6873 -1333.4169"
-           y="1390.9121"
-           sodipodi:role="line"
-           id="tspan188">0.45</tspan>
-      </text>
       <g
          id="g190"
          transform="matrix(0.71093421,0,0,0.71093421,-1542.972,900.56187)">
@@ -1220,13 +1172,13 @@
       </g>
       <text
          id="text198"
-         x="-1319.8094"
-         y="1398.4102"
+         x="-1330.714"
+         y="1401.8997"
          style="font-size:8.53120995px">
         <tspan
            style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1319.8094 -1314.5393 -1311.9135"
-           y="1398.4102"
+           x="-1330.714 -1325.4438 -1322.818"
+           y="1401.8997"
            sodipodi:role="line"
            id="tspan200">0.5</tspan>
       </text>
@@ -1248,18 +1200,6 @@
            style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
            id="path208" />
       </g>
-      <text
-         id="text210"
-         x="-1298.3455"
-         y="1405.875"
-         style="font-size:8.53120995px">
-        <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1298.3455 -1293.0751 -1290.4493 -1285.179"
-           y="1405.875"
-           sodipodi:role="line"
-           id="tspan212">0.55</tspan>
-      </text>
       <g
          id="g214"
          transform="matrix(0.71093421,0,0,0.71093421,-1542.972,900.56187)">
@@ -1280,13 +1220,13 @@
       </g>
       <text
          id="text222"
-         x="-1271.6104"
-         y="1413.3397"
+         x="-1282.5149"
+         y="1416.8292"
          style="font-size:8.53120995px">
         <tspan
            style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1271.6104 -1266.34 -1263.7144"
-           y="1413.3397"
+           x="-1282.5149 -1277.2445 -1274.6189"
+           y="1416.8292"
            sodipodi:role="line"
            id="tspan224">0.6</tspan>
       </text>
@@ -1308,18 +1248,6 @@
            style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
            id="path232" />
       </g>
-      <text
-         id="text234"
-         x="-1250.1102"
-         y="1420.8407"
-         style="font-size:8.53120995px">
-        <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1250.1102 -1244.8398 -1242.2141 -1236.9437"
-           y="1420.8407"
-           sodipodi:role="line"
-           id="tspan236">0.65</tspan>
-      </text>
       <g
          id="g238"
          transform="matrix(0.71093421,0,0,0.71093421,-1542.972,900.56187)">
@@ -1340,13 +1268,13 @@
       </g>
       <text
          id="text246"
-         x="-1223.3724"
-         y="1428.3055"
+         x="-1234.277"
+         y="1431.795"
          style="font-size:8.53120995px">
         <tspan
            style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1223.3724 -1218.1021 -1215.4763"
-           y="1428.3055"
+           x="-1234.277 -1229.0066 -1226.3809"
+           y="1431.795"
            sodipodi:role="line"
            id="tspan248">0.7</tspan>
       </text>
@@ -1368,18 +1296,6 @@
            style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
            id="path256" />
       </g>
-      <text
-         id="text258"
-         x="-1201.9083"
-         y="1435.7703"
-         style="font-size:8.53120995px">
-        <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
-           x="-1201.9083 -1196.6379 -1194.0123 -1188.7418"
-           y="1435.7703"
-           sodipodi:role="line"
-           id="tspan260">0.75</tspan>
-      </text>
       <g
          id="g262"
          transform="matrix(0.71093421,0,0,0.71093421,-1542.972,900.56187)">
@@ -1400,11 +1316,11 @@
       </g>
       <text
          id="text270"
-         x="-1479.9697"
+         x="-1465.0088"
          y="1249.2917"
-         style="font-size:8.53120995px">
+         style="font-size:8.53120994999999915px;text-anchor:end;text-align:end">
         <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+           style="font-size:9.47912215999999930px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT;text-anchor:end;text-align:end"
            x="-1479.9697 -1474.6993 -1469.429"
            y="1249.2917"
            sodipodi:role="line"
@@ -1421,11 +1337,11 @@
       </g>
       <text
          id="text278"
-         x="-1479.9697"
+         x="-1464.7311"
          y="1220.0378"
-         style="font-size:8.53120995px">
+         style="font-size:8.53120994999999915px;text-anchor:end;text-align:end">
         <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+           style="font-size:9.47912215999999930px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT;text-anchor:end;text-align:end"
            x="-1479.9697 -1474.6993 -1469.429"
            y="1220.0378"
            sodipodi:role="line"
@@ -1442,11 +1358,11 @@
       </g>
       <text
          id="text286"
-         x="-1479.9697"
+         x="-1465.0042"
          y="1190.8174"
-         style="font-size:8.53120995px">
+         style="font-size:8.53120994999999915px;text-anchor:end;text-align:end">
         <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+           style="font-size:9.47912215999999930px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT;text-anchor:end;text-align:end"
            x="-1479.9697 -1474.6993 -1469.429"
            y="1190.8174"
            sodipodi:role="line"
@@ -1463,11 +1379,11 @@
       </g>
       <text
          id="text294"
-         x="-1479.9697"
+         x="-1464.9672"
          y="1161.5275"
-         style="font-size:8.53120995px">
+         style="font-size:8.53120994999999915px;text-anchor:end;text-align:end">
         <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+           style="font-size:9.47912215999999930px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT;text-anchor:end;text-align:end"
            x="-1479.9697 -1474.6993 -1469.429"
            y="1161.5275"
            sodipodi:role="line"
@@ -1484,11 +1400,11 @@
       </g>
       <text
          id="text302"
-         x="-1479.9697"
+         x="-1465.0597"
          y="1132.2737"
-         style="font-size:8.53120995px">
+         style="font-size:8.53120994999999915px;text-anchor:end;text-align:end">
         <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+           style="font-size:9.47912215999999930px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT;text-anchor:end;text-align:end"
            x="-1479.9697 -1474.6993 -1469.429"
            y="1132.2737"
            sodipodi:role="line"
@@ -1505,11 +1421,11 @@
       </g>
       <text
          id="text310"
-         x="-1479.9697"
+         x="-1464.9949"
          y="1102.9836"
-         style="font-size:8.53120995px">
+         style="font-size:8.53120994999999915px;text-anchor:end;text-align:end">
         <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+           style="font-size:9.47912215999999930px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT;text-anchor:end;text-align:end"
            x="-1479.9697 -1474.6993 -1469.429"
            y="1102.9836"
            sodipodi:role="line"
@@ -1526,11 +1442,11 @@
       </g>
       <text
          id="text318"
-         x="-1479.9697"
+         x="-1465.0042"
          y="1073.7271"
-         style="font-size:8.53120995px">
+         style="font-size:8.53120994999999915px;text-anchor:end;text-align:end">
         <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+           style="font-size:9.47912215999999930px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT;text-anchor:end;text-align:end"
            x="-1479.9697 -1474.6993 -1469.429"
            y="1073.7271"
            sodipodi:role="line"
@@ -1547,11 +1463,11 @@
       </g>
       <text
          id="text326"
-         x="-1485.2433"
+         x="-1465.6461"
          y="1044.473"
-         style="font-size:8.53120995px">
+         style="font-size:8.53120994999999915px;text-anchor:end;text-align:end">
         <tspan
-           style="font-size:9.47912216px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT"
+           style="font-size:9.47912215999999930px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:ArialMT;text-anchor:end;text-align:end"
            x="-1485.2433 -1479.973 -1474.7026 -1469.4323"
            y="1044.473"
            sodipodi:role="line"
@@ -6144,7 +6060,43 @@
            style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.79999995;stroke-opacity:1;stroke-dasharray:none"
            id="path2456" />
       </g>
-    </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4648"
+         style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="matrix(1.2337098,0,0,1.2337098,-1602.9465,943.36309)"><flowRegion
+           id="flowRegion4650"><rect
+             id="rect4652"
+             width="89.449005"
+             height="16.086681"
+             x="80.786949"
+             y="44.911823"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara4654">$G\text{[кг]}$</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4656"
+         style="font-size:12px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="matrix(1.2337098,0,0,1.2337098,-1569.7967,1012.7161)"><flowRegion
+           id="flowRegion4658"><rect
+             id="rect4660"
+             width="170.41275"
+             height="17.677685"
+             x="19.091883"
+             y="310.60718"
+             style="text-align:end;text-anchor:end" /></flowRegion><flowPara
+           id="flowPara4662">$h_\text{стр}[\text{м}]$</flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.2337098,0,0,1.2337098,-1055.974,1025.8015)"
+         style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot4664"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4666"><rect
+             style="text-align:start;text-anchor:start"
+             y="310.60718"
+             x="19.091883"
+             height="24.041645"
+             width="214.96046"
+             id="rect4668" /></flowRegion><flowPara
+           id="flowPara4670">$y_\text{отн}[\text{м}]$</flowPara></flowRoot>    </g>
     <g
        transform="matrix(0.98955766,0,0,-0.98955766,-1796.877,1508.4015)"
        id="g5839">
