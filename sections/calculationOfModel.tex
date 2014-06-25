@@ -2,6 +2,17 @@
 \label{sec:calculationOfModel}
 Для проведения параметрического расчета были выбраны 42 пары значений параметров. Для каждой пары значений была проведена оптимизация толщин панелей модели с целью удовлетворения требованиям прочности конструкции. Оптимизация была проведена путем многократных нахождения запаса прочности для каждой панели (стенки отсека) с последующим делением толщины панели на полученное значение (так называемый алгоритм $\sigma/\sigma$). Итоговые результаты вычислений приведены в таблицах \ref{tab:KessTableNormedComparison}, \ref{tab:KessOptimBigTableNormed} и на Рис.\ref{fig:Optimization3dplot} (серым цветом на изображениях сечений показано оригинальное сечение кессона в гипотетической модели БПЛА-ЦАГИ, зеленым - сечение в параметрической модели)  
 
+
+Как показывают полученные данные, оптимальная из рассмотренных форма сечения определяется следующими значениями параметров: $y_\text{отн} = 0\text{м},\quad h_\text{стр}=1.4\text{м}$. Вид данного сечения представлен на Рис.\ref{fig:optimalSection}. Значение веса кессона центроплана для данного сечения равно 397кг. 
+
+\begin{figure}
+\centering
+\def\svgwidth{0.9\textwidth}
+\input{figures/optimalSection.pdf_tex}
+\caption{Оптимальное из рассмотренных сечение центроплана}
+\label{fig:optimalSection}
+\end{figure}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -71,13 +82,46 @@
 
 %\begin{landscape}
 \begin{figure}[ht]
+\tiny
 \captionsetup{justification=centering}
-\caption{Зависимость веса кессона от параметров центроплана (данные надо пересчитывать)}
+
 %\includegraphics[width=0.9\textwidth]{3dplot_with_sections}
-\def\svgwidth{\textwidth}
-\input{figures/3dplot_with_sections.pdf_tex}
+\def\svgwidth{0.9\textwidth}
+\input{figures/3dplotNormed.pdf_tex}
+\caption{Зависимость веса кессона от параметров центроплана}
 \label{fig:Optimization3dplot}
 \end{figure}
 %\end{landscape}
 
-Как показывают полученные данные, оптимальная из рассмотренных форма сечения определяется следующими значениями параметров: $y_\text{отн} = 0\text{м},\quad h_\text{стр}=1.4\text{м}$. Вид данного сечения представлен на Рис.\ref{fig:optimalSection}. Значение веса кессона центроплана для данного сечения равно 397кг. 
+\begin{figure}[ht]
+\centering
+	\begin{subfigure}[b]{0.47\textwidth}
+		\def\svgwidth{\textwidth}
+		\input{figures/sections/1_1.pdf_tex}
+		\caption{$y_\text{отн} = 0\m,\quad h_\text{стр} = 0.249\m$}	
+		\label{fig:sec1_1}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.47\textwidth}
+		\def\svgwidth{\textwidth}
+		\input{figures/sections/1_6.pdf_tex}
+		\caption{$y_\text{отн} = 0\m,\quad h_\text{стр} = 0.712\m$}	
+		\label{fig:sec1_6}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.47\textwidth}
+		\def\svgwidth{\textwidth}
+		\input{figures/sections/7_1.pdf_tex}
+		\caption{$y_\text{отн} = -1.4\m,\quad h_\text{стр} = 0.249\m$}	
+		\label{fig:sec7_1}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.47\textwidth}
+		\def\svgwidth{\textwidth}
+		\input{figures/sections/7_6.pdf_tex}
+		\caption{$y_\text{отн} = -1.4\m,\quad h_\text{стр} = 0.712\m$}	
+		\label{fig:sec7_6}
+	\end{subfigure}
+	\label{fig:sections}
+	\caption{Изображения поперечных сечений, формируемых указанными параметрами}
+\end{figure}
+
+
+

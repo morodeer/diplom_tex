@@ -1,0 +1,74 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 13.04.2 ] */
+
+/* [wxMaxima: input   start ] */
+str_h_max: 1.0013-0.289;
+str_h_min:-0.0462+0.2949;
+str_h_steps: 4$
+str_h_step:(str_h_max-str_h_min)/(str_h_steps-1)$
+str_h_arr:[]$
+for i:0 while i<str_h_steps
+     do str_h_arr:append(str_h_arr,[str_h_min+i*str_h_step])$
+str_h_arr;
+str_h_arr: [str_h_arr[1],str_h_arr[2],(str_h_arr[2]+str_h_arr[3])/2,str_h_arr[3],(str_h_arr[3]+str_h_arr[4])/2,str_h_arr[4]];
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+y_max: -1.4;
+y_min: -0.8;
+y_steps: 4$
+y_step: (y_max-y_min)/(y_steps-1)$
+y_arr:[]$
+for i:0 while i <y_steps 
+    do y_arr:append(y_arr,[y_min+i*y_step])$
+y_arr;
+y_arr: [0,y_arr[1],y_arr[2],(y_arr[2]+y_arr[3])/2,y_arr[3],(y_arr[3]+y_arr[4])/2,y_arr[4]];
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+max_z:2.45;
+z_points_one:[0,0.05,0.1,0.15,0.2,0.25,0.3,0.35,0.4,0.45,0.5,
+    0.55,0.6,0.65,0.7,0.75,0.8,0.85,0.9,0.925,0.95,0.97,0.98,0.99,0.995,0.998,0.9995,1];
+f(x):= x * max_z;
+z_points: map(f,z_points_one);
+length(z_points);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+numer:false;
+load(interpol);
+for y_k from 1 thru length(y_arr) do (
+    for h_k from 1 thru length(str_h_arr) do (
+        y:y_arr[y_k],
+        str_h:str_h_arr[h_k],
+        bot_startpoints: [[-2.45,0],[0,y],[2.45,0]],
+        top_startpoints: [[-2.45,str_h_min],[0,y+str_h],[2.45,str_h_min]],
+        
+        botspline: cspline(bot_startpoints,d1=0,dn=0),
+        botspline: ev(botspline),        
+        bot(y):=ev(botspline,x=y),
+
+        topspline: cspline(top_startpoints,d1=0,dn=0),
+        topspline: ev(topspline),        
+        top(y):=ev(topspline,x=y),
+     
+        bot_points: map(bot,z_points),
+        top_points: map(top,z_points),
+        filename: concat(y_k,"_",h_k,"/Level1/List4/BPS2_.d04"),
+        s: openw(filename),
+        printf(s,"#04~%28~%1~%0~%0~%3.96~% ~% ~% ~% ~% ~%2.45~% ~% ~% ~% ~% ~%100~% ~% ~% ~% ~% ~%0~% ~% ~% ~% ~% ~%  n~% Zn / L~%  Y1a~%  Y1b~%  Y1c~%  Y1d~%"),
+        
+        for i:1 thru length(z_points) do
+            (printf (s,"  ~d~%~a~%~,3f~%~,3f~%~,3f~%~,3f~%",i,z_points_one[i],bot_points[i]/max_z,bot_points[i]/max_z,top_points[i]/max_z,top_points[i]/max_z)),
+        close(s),
+        info_filename: concat(y_k,"_",h_k,"/section_params.txt"),
+        s:openw(info_filename),
+        printf(s,"y~8,8Tstr_h~%~,3f~8,8T~,3f",y,str_h),
+        close(s),
+        plot_filename: concat(y_k,"_",h_k,"/plot.png")
+)
+);
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$

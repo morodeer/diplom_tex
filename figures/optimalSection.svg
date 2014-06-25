@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="374.67343"
+   height="121.37569"
+   viewBox="0 0 374.67344 121.37569"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="optimalSection.pdf">
+  <metadata
+     id="metadata69">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnuplot</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs67">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3836"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3097"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3099"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3839"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3836-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3839-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <defs
+       id="defs11">
+      <circle
+         style="stroke-width:0.5"
+         sodipodi:ry="0.5"
+         sodipodi:rx="0.5"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         cy="0"
+         cx="0"
+         r="0.5"
+         id="gpDot" />
+      <path
+         style="stroke:currentColor;stroke-width:0.222"
+         inkscape:connector-curvature="0"
+         d="M -1,0 H 1 M 0,-1 v 2"
+         id="gpPt0" />
+      <path
+         style="stroke:currentColor;stroke-width:0.222"
+         inkscape:connector-curvature="0"
+         d="M -1,-1 1,1 M 1,-1 -1,1"
+         id="gpPt1" />
+      <path
+         style="stroke:currentColor;stroke-width:0.222"
+         inkscape:connector-curvature="0"
+         d="M -1,0 1,0 M 0,-1 0,1 m -1,-2 2,2 m -2,0 2,-2"
+         id="gpPt2" />
+      <rect
+         style="stroke:currentColor;stroke-width:0.222"
+         height="2"
+         width="2"
+         y="-1"
+         x="-1"
+         id="gpPt3" />
+      <rect
+         style="fill:currentColor;stroke:currentColor;stroke-width:0.222"
+         height="2"
+         width="2"
+         y="-1"
+         x="-1"
+         id="gpPt4" />
+      <circle
+         style="stroke:currentColor;stroke-width:0.222"
+         sodipodi:ry="1"
+         sodipodi:rx="1"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         r="1"
+         cy="0"
+         cx="0"
+         id="gpPt5" />
+      <use
+         height="300"
+         width="400"
+         y="0"
+         x="0"
+         style="fill:currentColor;stroke:none"
+         id="gpPt6"
+         xlink:href="#gpPt5" />
+      <path
+         style="stroke:currentColor;stroke-width:0.222"
+         inkscape:connector-curvature="0"
+         d="m 0,-1.33 -1.33,2 2.66,0 z"
+         id="gpPt7" />
+      <use
+         height="300"
+         width="400"
+         y="0"
+         x="0"
+         style="fill:currentColor;stroke:none"
+         id="gpPt8"
+         xlink:href="#gpPt7" />
+      <use
+         height="300"
+         width="400"
+         y="0"
+         x="0"
+         style="stroke:currentColor"
+         transform="scale(-1,-1)"
+         id="gpPt9"
+         xlink:href="#gpPt7" />
+      <use
+         height="300"
+         width="400"
+         y="0"
+         x="0"
+         style="fill:currentColor;stroke:none"
+         id="gpPt10"
+         xlink:href="#gpPt9" />
+      <use
+         height="300"
+         width="400"
+         y="0"
+         x="0"
+         style="stroke:currentColor"
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         id="gpPt11"
+         xlink:href="#gpPt3" />
+      <use
+         height="300"
+         width="400"
+         y="0"
+         x="0"
+         style="fill:currentColor;stroke:none"
+         id="gpPt12"
+         xlink:href="#gpPt11" />
+    </defs>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="960"
+     inkscape:window-height="1028"
+     id="namedview65"
+     showgrid="false"
+     units="cm"
+     fit-margin-top="0.2"
+     fit-margin-left="0.3"
+     fit-margin-right="0.3"
+     fit-margin-bottom="0.3"
+     inkscape:zoom="2.18496"
+     inkscape:cx="193.84263"
+     inkscape:cy="-13.824975"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">Gnuplot</title>
+  <desc
+     id="desc6">Produced by GNUPLOT 4.6 patchlevel 4 </desc>
+  <g
+     id="g27"
+     style="color:#ffffff;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     transform="matrix(1.0686511,0,0,1.0686511,-21.512246,-178.0896)" />
+  <g
+     id="g29"
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     transform="matrix(1.0686511,0,0,1.0686511,-21.512246,-178.0896)" />
+  <g
+     id="gnuplot_plot_1"
+     transform="matrix(1.0686511,0,0,1.0686511,-24.101242,-100.41969)">
+    <title
+       id="title32">gnuplot_plot_1</title>
+    <g
+       id="g34"
+       style="color:#ffffff;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter" />
+    <g
+       id="g36"
+       style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter">
+      <path
+         style="stroke:#000000"
+         inkscape:connector-curvature="0"
+         id="path38"
+         d="m 34.5,150 0.1,0 0.3,0 0.4,0 0.9,0 1.6,0 1.6,0 3.3,0 4.1,0 4.1,0 8.1,0 8.2,0 8.2,0 8.1,0 8.2,0 8.2,0 8.1,0 8.2,0 8.2,0 8.1,0 8.2,0 8.2,0 8.1,0 8.2,0 8.2,0 8.1,0 8.2,0 8.2,0 8.1,0 8.2,0 8.1,0 8.2,0 8.2,0 8.1,0 8.2,0 8.2,0 8.1,0 8.2,0 8.2,0 8.1,0 8.2,0 8.2,0 8.1,0 8.2,0 8.2,0 8.1,0 4.1,0 4.1,0 3.3,0 1.6,0 1.6,0 0.9,0 0.4,0 0.3,0 0.1,0 h 0.01" />
+    </g>
+  </g>
+  <g
+     id="gnuplot_plot_2"
+     transform="matrix(1.0686511,0,0,1.0686511,-24.101242,-100.41969)">
+    <title
+       id="title41">gnuplot_plot_2</title>
+    <g
+       id="g43"
+       style="color:#008000;fill:none;stroke:currentColor;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter">
+      <path
+         style="stroke:#000000"
+         inkscape:connector-curvature="0"
+         id="path45"
+         d="m 34.5,133.5 0.1,0 0.3,0 0.4,0 0.9,0 1.6,-0.1 1.6,0 3.3,-0.2 4.1,-0.2 4.1,-0.4 8.1,-1 8.2,-1.3 8.2,-1.7 8.1,-1.8 8.2,-2 8.2,-2.2 8.1,-2.3 8.2,-2.3 8.2,-2.3 8.1,-2.3 8.2,-2.1 8.2,-2.1 8.1,-1.8 8.2,-1.6 8.2,-1.4 8.1,-1 8.2,-0.6 8.2,-0.2 8.1,0.2 8.2,0.6 8.1,1 8.2,1.4 8.2,1.6 8.1,1.8 8.2,2.1 8.2,2.1 8.1,2.3 8.2,2.3 8.2,2.3 8.1,2.3 8.2,2.2 8.2,2 8.1,1.8 8.2,1.7 8.2,1.3 8.1,1 4.1,0.4 4.1,0.2 3.3,0.2 1.6,0 1.6,0.1 0.9,0 0.4,0 0.3,0 0.1,0 h 0.01" />
+    </g>
+  </g>
+  <g
+     id="gnuplot_plot_3"
+     transform="matrix(1.0686511,0,0,1.0686511,-24.101242,-100.41969)">
+    <title
+       id="title48">gnuplot_plot_3</title>
+    <g
+       id="g50"
+       style="color:#ffffff;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+    <g
+       id="g52"
+       style="color:#0000ff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+      <path
+         style="stroke:#ff9494"
+         inkscape:connector-curvature="0"
+         id="path54"
+         d="m 34.5,150 0.1,0 0.3,0 0.4,0 0.9,0 1.6,0.1 1.6,0.1 3.3,0.1 4.1,0.2 4.1,0.3 8.1,1 8.2,2 8.2,2.8 8.1,3.7 8.2,4.6 8.2,5.2 8.1,5.1 8.2,4.1 8.2,3.8 8.1,3.4 8.2,3.1 8.2,2.6 8.1,2 8.2,1.5 8.2,0.9 8.1,0.4 8.2,0.1 8.2,0 8.1,0 8.2,-0.1 8.1,-0.4 8.2,-0.9 8.2,-1.5 8.1,-2 8.2,-2.6 8.2,-3.1 8.1,-3.4 8.2,-3.8 8.2,-4.1 8.1,-5.1 8.2,-5.2 8.2,-4.6 8.1,-3.7 8.2,-2.8 8.2,-2 8.1,-1 4.1,-0.3 4.1,-0.2 3.3,-0.1 1.6,-0.1 1.6,-0.1 0.9,0 0.4,0 0.3,0 0.1,0 h 0.01" />
+    </g>
+  </g>
+  <g
+     id="gnuplot_plot_4"
+     transform="matrix(1.0686511,0,0,1.0686511,-24.101242,-100.41969)">
+    <title
+       id="title57">gnuplot_plot_4</title>
+    <g
+       id="g59"
+       style="color:#00ffff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+      <path
+         style="stroke:#ff9494"
+         inkscape:connector-curvature="0"
+         id="path61"
+         d="m 34.5,133.5 0.1,0 0.3,0 0.4,-0.1 0.9,0 1.6,-0.1 1.6,-0.2 3.3,-0.4 4.1,-0.6 4.1,-0.9 8.1,-2.6 8.2,-3.8 8.2,-4.2 8.1,-3.6 8.2,-2.9 8.2,-2.4 8.1,-1.8 8.2,-1.3 8.2,-1 8.1,-0.5 8.2,0 8.2,1.6 8.1,4.2 8.2,7.4 8.2,12.4 8.1,11.4 8.2,4.8 8.2,0.8 8.1,-0.8 8.2,-4.8 8.1,-11.4 8.2,-12.4 8.2,-7.4 8.1,-4.2 8.2,-1.6 8.2,0 8.1,0.5 8.2,1 8.2,1.3 8.1,1.8 8.2,2.4 8.2,2.9 8.1,3.6 8.2,4.2 8.2,3.8 8.1,2.6 4.1,0.9 4.1,0.6 3.3,0.4 1.6,0.2 1.6,0.1 0.9,0 0.4,0.1 0.3,0 0.1,0 h 0.01" />
+    </g>
+  </g>
+  <g
+     id="g63"
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     transform="matrix(1.0686511,0,0,1.0686511,-21.512246,-178.0896)" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.49329501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.49329502, 5.9195402;stroke-dashoffset:4.93295017"
+     d="m 32.229699,59.754199 311.400041,0"
+     id="path4836"
+     inkscape:connector-curvature="0" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4846"
+     style="font-size:12px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     transform="matrix(0.49329502,0,0,0.49329502,-121.32291,-18.348342)"><flowRegion
+       id="flowRegion4848"><rect
+         id="rect4850"
+         width="192.57126"
+         height="20.37719"
+         x="372.702"
+         y="134.98463"
+         style="font-size:12px;text-align:end;text-anchor:end" /></flowRegion><flowPara
+       id="flowPara4852">$y_\text{отн} = 0\text{м}$</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4854"
+     style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     transform="matrix(0.49329502,0,0,0.49329502,93.506207,-61.229767)"><flowRegion
+       id="flowRegion4856"><rect
+         id="rect4858"
+         width="228.82343"
+         height="31.129812"
+         x="193.46442"
+         y="185.45956"
+         style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+       id="flowPara4860">$h_\text{стр} = 1.4\text{м}$</flowPara></flowRoot>  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+     d="m 187.95465,56.059079 0,-42.841018"
+     id="path3056"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+</svg>
