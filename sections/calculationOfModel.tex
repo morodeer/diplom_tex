@@ -1,42 +1,61 @@
 \section{Расчет параметрической модели}
 \label{sec:calculationOfModel}
-Для проведения параметрического расчета были выбраны 42 пары значений параметров. Для каждой пары значений была проведена оптимизация толщин панелей модели с целью удовлетворения требованиям прочности конструкции. Оптимизация была проведена путем многократных нахождения запаса прочности для каждой панели (стенки отсека) с последующим делением толщины панели на полученное значение (так называемый алгоритм $\sigma/\sigma$). Итоговые результаты вычислений приведены в таблицах \ref{tab:KessOptimBigTable}, \ref{tab:KessOptimBigTableNormed} и на Рис.\ref{fig:Optimization3dplot} (серым цветом на изображениях сечений показано оригинальное сечение кессона в гипотетической модели БПЛА-ЦАГИ, зеленым - сечение в параметрической модели)  
+Для проведения параметрического расчета были выбраны 42 пары значений параметров. Для каждой пары значений была проведена оптимизация толщин панелей модели с целью удовлетворения требованиям прочности конструкции. Оптимизация была проведена путем многократных нахождения запаса прочности для каждой панели (стенки отсека) с последующим делением толщины панели на полученное значение (так называемый алгоритм $\sigma/\sigma$). Итоговые результаты вычислений приведены в таблицах \ref{tab:KessTableNormedComparison}, \ref{tab:KessOptimBigTableNormed} и на Рис.\ref{fig:Optimization3dplot} (серым цветом на изображениях сечений показано оригинальное сечение кессона в гипотетической модели БПЛА-ЦАГИ, зеленым - сечение в параметрической модели)  
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \tabulinesep = 1mm
 \definecolor{lightgray}{gray}{0.9}
-\begin{table}[H]
-
-
-    \fontsize{12pt}{14pt}\selectfont
+\begin{table}[ht]
+    \fontsize{11pt}{12pt}\selectfont
 \captionsetup{justification=centering}
-\caption{Зависимость площади панелей центроплана и веса кессона от параметров центроплана (данные надо пересчитывать)}
+\caption{Зависимость веса кессона от параметров центроплана относительно варианта с прямым кессоном}
 %\rowcolors{2}{}{lightgray}
-\begin{tabu}to \linewidth{|c|*4{X[m c]|}*4{X[m c]|}}
+\begin{tabu}to \linewidth{|>{\columncolor{lightgray}}c|*8{X[m c]|}}
 \hline
-\multirow{2}{*}[-1.1ex]{N} & \multicolumn{4}{c|}{Вес кессона~[кг]} & \multicolumn{4}{c|}{Площадь панелей центроплана~[$\text{м}^2$]} \\ \cline{2-9}
-& Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ & Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ \\
-\hline
-\taburowcolors {lightgray .. white}
-\input{data}
+%\taburowcolors {lightgray .. white}
+\rowcolor{lightgray}
+\input{data/massTableComparison}
 \end{tabu}
 
-\label{tab:KessOptimBigTable}
+\label{tab:KessTableNormedComparison}
 \end{table}
 
+%\tabulinesep = 1mm
+%\definecolor{lightgray}{gray}{0.9}
+%\begin{table}[H]
+%
+%
+%    \fontsize{12pt}{14pt}\selectfont
+%\captionsetup{justification=centering}
+%\caption{Зависимость площади панелей центроплана и веса кессона от параметров центроплана (данные надо пересчитывать)}
+%%\rowcolors{2}{}{lightgray}
+%\begin{tabu}to \linewidth{|c|*4{X[m c]|}*4{X[m c]|}}
+%\hline
+%\multirow{2}{*}[-1.1ex]{N} & \multicolumn{4}{c|}{Вес кессона~[кг]} & \multicolumn{4}{c|}{Площадь панелей центроплана~[$\text{м}^2$]} \\ \cline{2-9}
+%& Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ & Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ \\
+%\hline
+%\taburowcolors {lightgray .. white}
+%\input{data}
+%\end{tabu}
+%
+%\label{tab:KessOptimBigTable}
+%\end{table}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \tabulinesep = 1mm
 \definecolor{lightgray}{gray}{0.9}
-\begin{table}[H]
-    \fontsize{12pt}{14pt}\selectfont
+\begin{table}[ht]
+    \fontsize{11pt}{12pt}\selectfont
 \captionsetup{justification=centering}
-\caption{Зависимость площади панелей центроплана и веса кессона от параметров центроплана относительно варианта с прямым кессоном (данные надо пересчитывать)}
+\caption{Зависимость площади панелей центроплана и веса кессона от параметров центроплана относительно варианта с прямым кессоном}
 %\rowcolors{2}{}{lightgray}
-\begin{tabu}to \linewidth{|c|*4{X[m c]|}*4{X[m c]|}}
+\begin{tabu}to \linewidth{|c|c|*4{X[m c]|}*4{X[m c]|}}
 \hline
-\multirow{2}{*}[-1.1ex]{N} & \multicolumn{4}{c|}{Вес кессона} & \multicolumn{4}{c|}{Площадь панелей центроплана} \\ \cline{2-9}
-& Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ & Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ \\
+\multirow{2}{*}[-1.1ex]{$y_\text{отн}$} & \multirow{2}{*}[-1.1ex]{$h_\text{стр}$} & \multicolumn{4}{c|}{Вес кессона} & \multicolumn{4}{c|}{Площадь панелей центроплана} \\ \cline{3-9}
+& & Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ & Верхние панели & Нижние панели & Боковые стенки & $\Sigma$ \\
 \hline
 \taburowcolors {lightgray .. white}
 \input{data/massSquareTableNormed}
@@ -45,8 +64,13 @@
 \label{tab:KessOptimBigTableNormed}
 \end{table}
 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %\begin{landscape}
-\begin{figure}[H]
+\begin{figure}[ht]
 \captionsetup{justification=centering}
 \caption{Зависимость веса кессона от параметров центроплана (данные надо пересчитывать)}
 %\includegraphics[width=0.9\textwidth]{3dplot_with_sections}
@@ -56,4 +80,4 @@
 \end{figure}
 %\end{landscape}
 
-Как показывают полученные данные, оптимальная из рассмотренных форма сечения определяется следующими значениями параметров: $y_\text{отн} = 0\text{м},\quad h_\text{стр}=1.4\text{м}$. Вид данного сечения представлен на Рис.\ref{fig:optimalSeciton}. Значение веса кессона центроплана для данного сечения равно 397кг. 
+Как показывают полученные данные, оптимальная из рассмотренных форма сечения определяется следующими значениями параметров: $y_\text{отн} = 0\text{м},\quad h_\text{стр}=1.4\text{м}$. Вид данного сечения представлен на Рис.\ref{fig:optimalSection}. Значение веса кессона центроплана для данного сечения равно 397кг. 
