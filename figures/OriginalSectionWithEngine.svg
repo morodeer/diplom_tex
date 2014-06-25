@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="OriginalSectionWithEngine.pdf">
+   sodipodi:docname="OriginalSectionWithEngine.svg">
   <metadata
      id="metadata209">
     <rdf:RDF>
@@ -150,13 +150,13 @@
      inkscape:window-height="1018"
      id="namedview205"
      showgrid="true"
-     inkscape:zoom="1.0717752"
-     inkscape:cx="227.97203"
-     inkscape:cy="48.998021"
+     inkscape:zoom="2.1435504"
+     inkscape:cx="370.22404"
+     inkscape:cy="91.72169"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g3950"
      inkscape:snap-global="false"
      units="cm"
      fit-margin-top="1"
@@ -243,18 +243,18 @@
            id="rect3970" /></flowRegion><flowPara
          style="text-align:center;text-anchor:middle"
          id="flowPara3972">Зона силовой установки</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.84056573,0,0,0.84056573,-197.81206,-67.868458)"
-       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.84056573,0,0,0.84056573,-206.20934,-91.660761)"
+       style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3878"
        xml:space="preserve"><flowRegion
          id="flowRegion3880"><rect
-           style="font-size:28px"
+           style="font-size:28px;text-align:center;text-anchor:middle"
            y="272.50595"
            x="494.50668"
-           height="97.494049"
-           width="405.49332"
+           height="89.169014"
+           width="302.81793"
            id="rect3882" /></flowRegion><flowPara
-         id="flowPara3884">Силовая конструкция</flowPara></flowRoot>    <path
+         id="flowPara3884">Зона силовой конструкции</flowPara></flowRoot>    <path
        sodipodi:nodetypes="csc"
        inkscape:connector-curvature="0"
        id="path3886"
@@ -269,7 +269,7 @@
        y="0"
        x="0" />
     <flowRoot
-       transform="matrix(0.899934,0,0,0.899934,-207.18392,-57.641254)"
+       transform="matrix(0.899934,0,0,0.899934,-207.65044,-54.375644)"
        style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot4113"
        xml:space="preserve"><flowRegion
@@ -280,10 +280,10 @@
            height="67.178268"
            width="182.87416"
            id="rect4117" /></flowRegion><flowPara
-         id="flowPara4119">отсеки оборудования</flowPara></flowRoot>    <use
+         id="flowPara4119">зона отсеков оборудования</flowPara></flowRoot>    <use
        height="600"
        width="1300"
-       transform="translate(282.98474,0.115933)"
+       transform="translate(282.98474,0.11593304)"
        id="use3038"
        xlink:href="#flowRoot4113"
        y="0"

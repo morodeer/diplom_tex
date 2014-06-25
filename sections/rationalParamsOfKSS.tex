@@ -1,38 +1,39 @@
-На основе полученных в разделе \ref{sec:creationOfOneModel} данных была проведена оптимизация толщин стенок отсеков и панелей для выполнения требований прочности конструкции. Эпюра толщин верхних и нижних панелей центроплана представлены на Рис.\ref{fig:epure:weight}.
+На основе полученных в разделе \ref{sec:creationOfOneModel} данных была проведена оптимизация толщин стенок отсеков и панелей для выполнения требований прочности конструкции. Эпюра толщин верхних и нижних панелей центроплана представлены на Рис. \ref{fig:epures}
 
 \begin{figure}[H]
 \centering
 \captionsetup{justification=centering}
-\footnotesize
+%\footnotesize
 \begin{subfigure}[b]{0.49\textwidth}
 	\centering
 	\def\svgwidth{\textwidth}
 	
 	\input{figures/EpureDistributedLoadN1Top.pdf_tex}
-	\label{fig:epure:loadn1top}
+	%\label{fig:epureloadn1top}
 	\caption{Эпюра погонных усилий $N_y$ в верхних панелях центроплана}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 	\centering
 	\def\svgwidth{\textwidth}
 	\input{figures/EpureDistributedLoadN1Bottom.pdf_tex}
-	\label{fig:epure:loadn1bottom}
+	%\label{fig:epureloadn1bottom}
 	\caption{Эпюра погонных усилий $N_y$ в нижних панелях центроплана}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 	\centering
 	\def\svgwidth{\textwidth}
 	\input{figures/EpureDistributedWeightTop.pdf_tex}
-	\label{fig:epure:loadweighttop}
+	%\label{fig:epureweighttop}
 	\caption{Эпюра погонного веса верхних панелей центроплана}
 \end{subfigure}
 \begin{subfigure}[b]{0.49\textwidth}
 	\centering
 	\def\svgwidth{\textwidth}		\input{figures/EpureDistributedWeightBottom.pdf_tex}
-	\label{fig:epure:loadweightbottom}
+	%\label{fig:epureweightbottom}
 	\caption{Эпюра погонного веса нижних панелей центроплана}
 \end{subfigure}
-\label{fig:epures}
+	\label{fig:epures}
+	\caption{Эпюры погонных усилий $N_y$ и погонного веса для верхних и нижних панелей центроплана}
 \end{figure}
 %
 %
@@ -77,15 +78,3 @@
 
 %Остальные две главы будут как приложение к этой мощной главе: исследование влияния искривления кессона центроплана на его вес, выбор рациональной КСС.
 
-\tabulinesep = 1mm
-\definecolor{lightgray}{gray}{0.9}
-\begin{table}[H]
-\captionsetup{justification=centering}
-\caption{Таблица рациональных параметров}
-\begin{tabu}to \linewidth{*2{|X[m c]}|}
-\hline
-Вес фюзеляжа & 618кг \\ \hline
-Вес крыльев & 1102кг \\ \hline
-Вес конструкции & 1722кг \\ \hline
-\end{tabu}
-\end{table}

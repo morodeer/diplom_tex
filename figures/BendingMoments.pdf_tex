@@ -1,4 +1,4 @@
-%% Creator: Inkscape 0.48.3.1, www.inkscape.org
+%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'BendingMoments.pdf' (pdf, eps, ps)
 %%
@@ -50,25 +50,28 @@
   \makeatother%
   \begin{picture}(1,0.42857143)%
     \put(0,0){\includegraphics[width=\unitlength]{BendingMoments.pdf}}%
-    \put(0.12642857,0.07585714){\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.12642857,0.12957143){\makebox(0,0)[rb]{\smash{20000}}}%
-    \put(0.12642857,0.18328571){\makebox(0,0)[rb]{\smash{40000}}}%
-    \put(0.12642857,0.237){\makebox(0,0)[rb]{\smash{60000}}}%
-    \put(0.12642857,0.29085714){\makebox(0,0)[rb]{\smash{80000}}}%
-    \put(0.12642857,0.34457143){\makebox(0,0)[rb]{\smash{100000}}}%
-    \put(0.12642857,0.39828571){\makebox(0,0)[rb]{\smash{120000}}}%
-    \put(0.13828571,0.05014286){\makebox(0,0)[b]{\smash{0}}}%
-    \put(0.23,0.05014286){\makebox(0,0)[b]{\smash{2}}}%
-    \put(0.32185714,0.05014286){\makebox(0,0)[b]{\smash{4}}}%
-    \put(0.41357143,0.05014286){\makebox(0,0)[b]{\smash{6}}}%
-    \put(0.50542857,0.05014286){\makebox(0,0)[b]{\smash{8}}}%
-    \put(0.59714286,0.05014286){\makebox(0,0)[b]{\smash{10}}}%
-    \put(0.689,0.05014286){\makebox(0,0)[b]{\smash{12}}}%
-    \put(0.78071429,0.05014286){\makebox(0,0)[b]{\smash{14}}}%
-    \put(0.87257143,0.05014286){\makebox(0,0)[b]{\smash{16}}}%
+    \put(0.079,0.07585714){\makebox(0,0)[rb]{\smash{0}}}%
+    \put(0.079,0.11171429){\makebox(0,0)[rb]{\smash{10}}}%
+    \put(0.079,0.14757143){\makebox(0,0)[rb]{\smash{20}}}%
+    \put(0.079,0.18328571){\makebox(0,0)[rb]{\smash{30}}}%
+    \put(0.079,0.21914286){\makebox(0,0)[rb]{\smash{40}}}%
+    \put(0.079,0.255){\makebox(0,0)[rb]{\smash{50}}}%
+    \put(0.079,0.29085714){\makebox(0,0)[rb]{\smash{60}}}%
+    \put(0.079,0.32657143){\makebox(0,0)[rb]{\smash{70}}}%
+    \put(0.079,0.36242857){\makebox(0,0)[rb]{\smash{80}}}%
+    \put(0.079,0.39828571){\makebox(0,0)[rb]{\smash{90}}}%
+    \put(0.09085714,0.05014286){\makebox(0,0)[b]{\smash{0}}}%
+    \put(0.18785714,0.05014286){\makebox(0,0)[b]{\smash{2}}}%
+    \put(0.285,0.05014286){\makebox(0,0)[b]{\smash{4}}}%
+    \put(0.382,0.05014286){\makebox(0,0)[b]{\smash{6}}}%
+    \put(0.479,0.05014286){\makebox(0,0)[b]{\smash{8}}}%
+    \put(0.57614286,0.05014286){\makebox(0,0)[b]{\smash{10}}}%
+    \put(0.67314286,0.05014286){\makebox(0,0)[b]{\smash{12}}}%
+    \put(0.77014286,0.05014286){\makebox(0,0)[b]{\smash{14}}}%
+    \put(0.86728571,0.05014286){\makebox(0,0)[b]{\smash{16}}}%
     \put(0.96428571,0.05014286){\makebox(0,0)[b]{\smash{18}}}%
-    \put(0.02514286,0.24342857){\rotatebox{90}{\makebox(0,0)[b]{\smash{$M_\text{изг}[\text{кгс}\cdot\text{м}]$}}}}%
-    \put(0.55128571,0.01157143){\makebox(0,0)[b]{\smash{$Z[\text{м}]$}}}%
+    \put(0.02514286,0.24342857){\rotatebox{90}{\makebox(0,0)[b]{\smash{$M_\text{изг}[\text{тс}\cdot\text{м}]$}}}}%
+    \put(0.52757143,0.01157143){\makebox(0,0)[b]{\smash{$Z[\text{м}]$}}}%
     \put(0.86842857,0.37257143){\makebox(0,0)[rb]{\smash{$M_\text{изг}$}}}%
   \end{picture}%
 \endgroup%

@@ -15,7 +15,7 @@
    id="svg5470"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="BPS_Catia_Top_PartRoles.svg">
+   sodipodi:docname="BPS_Catia_Top_PartRoles.pdf">
   <defs
      id="defs5472">
     <pattern
@@ -325,17 +325,17 @@
      inkscape:cx="345.77262"
      inkscape:cy="182.40688"
      inkscape:document-units="px"
-     inkscape:current-layer="g6302"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="cm"
      fit-margin-top="0"
      fit-margin-left="1"
      fit-margin-right="1"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -349,7 +349,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -514,7 +514,7 @@
          x="317.69296"
          y="101.52633" />
       <flowRoot
-         transform="translate(35.025738,-14.022321)"
+         transform="translate(34.311452,-4.022321)"
          style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          id="flowRoot4570"
          xml:space="preserve"><flowRegion
@@ -522,8 +522,8 @@
              style="font-size:12px"
              y="110.3321"
              x="390.71429"
-             height="134.99998"
-             width="137.85713"
+             height="53.571415"
+             width="229.99998"
              id="rect4574" /></flowRegion><flowPara
            id="flowPara4576">отсеки спец.оборудования</flowPara></flowRoot>    </g>
   </g>
