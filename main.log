@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.16)  27 JUN 2014 16:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.16)  27 JUN 2014 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -917,23 +917,30 @@ LaTeX Info: Redefining \nameref on input line 42.
 (./TitleList.tex) [1
 
 
-{h:/texlive_onemorefresh/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main
-.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>)
+{h:/texlive_onemorefresh/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
 \tf@toc=\write4
 \openout4 = `main.toc'.
-
 
 (./chapters/Introduction.tex [2
 
 ]
-<./figures/UAV_Reaper.png, id=107, 256.5585pt x 171.039pt>
+
+LaTeX Warning: Citation `UAVBook' on page 3 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:UAVs' on page 3 undefined on input line 6.
+
+<./figures/UAV_Reaper.png, id=19, 256.5585pt x 171.039pt>
 File: ./figures/UAV_Reaper.png Graphic file (type png)
 
 <use ./figures/UAV_Reaper.png>
 Package pdftex.def Info: ./figures/UAV_Reaper.png used on input line 11.
 (pdftex.def)             Requested size: 227.3381pt x 151.56393pt.
 
-<./figures/UAV_RQ7.png, id=108, 606.265pt x 272.01625pt>
+<./figures/UAV_RQ7.png, id=20, 606.265pt x 272.01625pt>
 File: ./figures/UAV_RQ7.png Graphic file (type png)
 
 <use ./figures/UAV_RQ7.png>
@@ -946,17 +953,22 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
- [3
+<<oms.cmap>>
+
+LaTeX Warning: Reference `fig:UAVs_stealth' on page 3 undefined on input line 5
+3.
+
+[3
 
  <./figures/UAV_Reaper.png> <./figures/UAV_RQ7.png>]
-<./figures/UAV_X45.png, id=120, 803.0pt x 350.30875pt>
+<./figures/UAV_X45.png, id=32, 803.0pt x 350.30875pt>
 File: ./figures/UAV_X45.png Graphic file (type png)
 
 <use ./figures/UAV_X45.png>
 Package pdftex.def Info: ./figures/UAV_X45.png used on input line 58.
 (pdftex.def)             Requested size: 227.3381pt x 99.17621pt.
 
-<./figures/UAV_X47.png, id=121, 481.0773pt x 320.6379pt>
+<./figures/UAV_X47.png, id=33, 481.0773pt x 320.6379pt>
 File: ./figures/UAV_X47.png Graphic file (type png)
 
 <use ./figures/UAV_X47.png>
@@ -964,26 +976,33 @@ Package pdftex.def Info: ./figures/UAV_X47.png used on input line 65.
 (pdftex.def)             Requested size: 227.3381pt x 151.52176pt.
 
 
+LaTeX Warning: Reference `fig:BPS' on page 4 undefined on input line 77.
+
+
 LaTeX Warning: Citation `BPS_Report' on page 4 undefined on input line 77.
 
-<./figures/BPS_Catia.png, id=123, 986.68625pt x 456.70625pt>
+<./figures/BPS_Catia.png, id=34, 986.68625pt x 456.70625pt>
 File: ./figures/BPS_Catia.png Graphic file (type png)
 
 <use ./figures/BPS_Catia.png>
 Package pdftex.def Info: ./figures/BPS_Catia.png used on input line 82.
 (pdftex.def)             Requested size: 386.95897pt x 179.11125pt.
  (./figures/OriginalSectionWithEngine.pdf_tex
-<./figures/OriginalSectionWithEngine.pdf, id=125, 540.60233pt x 199.1693pt>
+<./figures/OriginalSectionWithEngine.pdf, id=36, 540.60233pt x 199.1693pt>
 File: ./figures/OriginalSectionWithEngine.pdf Graphic file (type pdf)
 
 <use ./figures/OriginalSectionWithEngine.pdf>
 Package pdftex.def Info: ./figures/OriginalSectionWithEngine.pdf used on input 
 line 52.
 (pdftex.def)             Requested size: 540.60236pt x 199.18094pt.
-)
+<<ot1.cmap>><<oml.cmap>><<omx.cmap>>)
 Overfull \hbox (56.90549pt too wide) in paragraph at lines 57--99
  [][] 
  []
+
+
+LaTeX Warning: Reference `fig:OriginalSectionWithEngine' on page 4 undefined on
+ input line 105.
 
 
 LaTeX Warning: Citation `BPS' on page 4 undefined on input line 107.
@@ -999,17 +1018,33 @@ Overfull \hbox (1.3625pt too wide) in paragraph at lines 3--4
  []
 
 (./sections/requirements.tex
-<./figures/BPS_Catia_Full.png, id=145, 1776.6375pt x 532.99126pt>
+
+LaTeX Warning: Reference `fig:BPLA_TSAGI' on page 7 undefined on input line 8.
+
+<./figures/BPS_Catia_Full.png, id=57, 1776.6375pt x 532.99126pt>
 File: ./figures/BPS_Catia_Full.png Graphic file (type png)
 
 <use ./figures/BPS_Catia_Full.png>
 Package pdftex.def Info: ./figures/BPS_Catia_Full.png used on input line 19.
 (pdftex.def)             Requested size: 483.69687pt x 145.10507pt.
- [7
 
- <./figures/BPS_Catia_Full.png>])
-(./sections/compoundScheme.tex (./figures/BPS_Catia_Top.pdf_tex
-<./figures/BPS_Catia_Top.pdf, id=157, 517.29086pt x 279.2761pt>
+
+LaTeX Warning: Reference `fig:OriginalSectionWithEngine' on page 7 undefined on
+ input line 26.
+
+[7
+
+ <./figures/BPS_Catia_Full.png>]) (./sections/compoundScheme.tex
+
+LaTeX Warning: Reference `fig:BPS_Catia_Top' on page 8 undefined on input line 
+2.
+
+
+LaTeX Warning: Reference `fig:BPS_Catia_Front' on page 8 undefined on input lin
+e 2.
+
+(./figures/BPS_Catia_Top.pdf_tex
+<./figures/BPS_Catia_Top.pdf, id=68, 517.29086pt x 279.2761pt>
 File: ./figures/BPS_Catia_Top.pdf Graphic file (type pdf)
 
 <use ./figures/BPS_Catia_Top.pdf>
@@ -1025,8 +1060,17 @@ Overfull \hbox (14.8374pt too wide) in paragraph at lines 55--55
 []\T2A/cmr/m/n/12 9.4м  
  []
 
-) (./figures/BPS_Catia_Front.pdf_tex
-<./figures/BPS_Catia_Front.pdf, id=160, 436.2358pt x 166.44862pt>
+)
+
+LaTeX Warning: Reference `fig:BPS_Catia_Front' on page 8 undefined on input lin
+e 13.
+
+
+LaTeX Warning: Reference `fig:BPS_Catia_WithoutSkin' on page 8 undefined on inp
+ut line 13.
+
+(./figures/BPS_Catia_Front.pdf_tex
+<./figures/BPS_Catia_Front.pdf, id=69, 436.2358pt x 166.44862pt>
 File: ./figures/BPS_Catia_Front.pdf Graphic file (type pdf)
 
 <use ./figures/BPS_Catia_Front.pdf>
@@ -1034,7 +1078,7 @@ Package pdftex.def Info: ./figures/BPS_Catia_Front.pdf used on input line 52.
 (pdftex.def)             Requested size: 436.23576pt x 166.45328pt.
 ) [8 <./figures/BPS_Catia_Top.pdf>]
 (./figures/BPS_Catia_WithoutSkin.pdf_tex
-<./figures/BPS_Catia_WithoutSkin.pdf, id=177, 579.48637pt x 327.33017pt>
+<./figures/BPS_Catia_WithoutSkin.pdf, id=84, 579.48637pt x 327.33017pt>
 File: ./figures/BPS_Catia_WithoutSkin.pdf Graphic file (type pdf)
 
 <use ./figures/BPS_Catia_WithoutSkin.pdf>
@@ -1043,6 +1087,10 @@ Package pdftex.def Info: ./figures/BPS_Catia_WithoutSkin.pdf used on input line
 (pdftex.def)             Requested size: 435.32422pt x 245.90158pt.
 )
 
+LaTeX Warning: Reference `fig:BPS_Catia_Top_WithoutSkin' on page 9 undefined on
+ input line 38.
+
+
 LaTeX Warning: Citation `BPS' on page 9 undefined on input line 40.
 
 [9 <./figures/BPS_Catia_Front.pdf> <./figures/BPS_Catia_WithoutSkin.pdf
@@ -1050,7 +1098,7 @@ LaTeX Warning: Citation `BPS' on page 9 undefined on input line 40.
 pdfTeX warning: pdflatex.exe (file ./figures/BPS_Catia_WithoutSkin.pdf): PDF in
 clusion: multiple pdfs with page group included in a single page
 >] (./figures/BPS_Catia_Top_WithoutSkin.pdf_tex
-<./figures/BPS_Catia_Top_WithoutSkin.pdf, id=195, 425.68956pt x 282.1341pt>
+<./figures/BPS_Catia_Top_WithoutSkin.pdf, id=102, 425.68956pt x 282.1341pt>
 File: ./figures/BPS_Catia_Top_WithoutSkin.pdf Graphic file (type pdf)
 
 <use ./figures/BPS_Catia_Top_WithoutSkin.pdf>
@@ -1058,8 +1106,12 @@ Package pdftex.def Info: ./figures/BPS_Catia_Top_WithoutSkin.pdf used on input
 line 52.
 (pdftex.def)             Requested size: 435.32422pt x 288.51773pt.
 )
+
+LaTeX Warning: Reference `fig:BPS_Catia_Top_PartRoles' on page 10 undefined on 
+input line 59.
+
 (./figures/BPS_Catia_Top_PartRoles.pdf_tex
-<./figures/BPS_Catia_Top_PartRoles.pdf, id=197, 456.35916pt x 283.61096pt>
+<./figures/BPS_Catia_Top_PartRoles.pdf, id=103, 456.35916pt x 283.61096pt>
 File: ./figures/BPS_Catia_Top_PartRoles.pdf Graphic file (type pdf)
 
 <use ./figures/BPS_Catia_Top_PartRoles.pdf>
@@ -1071,40 +1123,16 @@ ne 52.
 
 LaTeX Warning: Citation `BPS_TSAGI' on page 11 undefined on input line 1.
 
-(./figures/Heights.pdf_tex <./figures/Heights.pdf, id=208, 562.1pt x 481.8pt>
-File: ./figures/Heights.pdf Graphic file (type pdf)
 
-<use ./figures/Heights.pdf>
-Package pdftex.def Info: ./figures/Heights.pdf used on input line 52.
-(pdftex.def)             Requested size: 435.32422pt x 373.13382pt.
-) [11 <./figures/BPS_Catia_Top_PartRoles.pdf>]
-(./figures/BendingMoments.pdf_tex
-<./figures/BendingMoments.pdf, id=255, 562.1pt x 240.9pt>
-File: ./figures/BendingMoments.pdf Graphic file (type pdf)
+LaTeX Warning: Reference `fig:ModeOfFlight' on page 11 undefined on input line 
+6.
 
-<use ./figures/BendingMoments.pdf>
-Package pdftex.def Info: ./figures/BendingMoments.pdf used on input line 52.
-(pdftex.def)             Requested size: 435.32422pt x 186.5669pt.
-) (./figures/RotatingMoments.pdf_tex
-<./figures/RotatingMoments.pdf, id=256, 562.1pt x 240.9pt>
-File: ./figures/RotatingMoments.pdf Graphic file (type pdf)
 
-<use ./figures/RotatingMoments.pdf>
-Package pdftex.def Info: ./figures/RotatingMoments.pdf used on input line 52.
-(pdftex.def)             Requested size: 435.32422pt x 186.5669pt.
-) [12 <./figures/Heights.pdf> <./figures/BendingMoments.pdf
+LaTeX Warning: Reference `fig:BendingMoments' on page 11 undefined on input lin
+e 9.
 
-pdfTeX warning: pdflatex.exe (file ./figures/BendingMoments.pdf): PDF inclusion
-: multiple pdfs with page group included in a single page
->]) (./sections/creationOfFullModel.tex
 
-LaTeX Warning: Citation `Conver' on page 13 undefined on input line 3.
-
-(./sections/conver.tex [13 <./figures/RotatingMoments.pdf>]
-<./figures/ConverCircle.png, id=297, 284.1525pt x 191.844pt>
-File: ./figures/ConverCircle.png Graphic file (type png)
-
-<use ./figures/ConverCircle.png>
+LaTeX Warning: Reference `fig:Rota
 Package pdftex.def Info: ./figures/ConverCircle.png used on input line 15.
 (pdftex.def)             Requested size: 290.22107pt x 195.95929pt.
  [14 <./figures/ConverCircle.png>]
@@ -1113,7 +1141,7 @@ Overfull \hbox (21.43031pt too wide) in paragraph at lines 36--37
 -ги-ми про-грам-ма-ми (см.–ис.[]1.11[]) 
  []
 
-<./figures/InterProgramScheme.pdf, id=304, 494.91228pt x 187.6551pt>
+<./figures/InterProgramScheme.pdf, id=307, 494.91228pt x 187.6551pt>
 File: ./figures/InterProgramScheme.pdf Graphic file (type pdf)
 
 <use ./figures/InterProgramScheme.pdf>
@@ -1121,42 +1149,42 @@ Package pdftex.def Info: ./figures/InterProgramScheme.pdf used on input line 45
 .
 (pdftex.def)             Requested size: 386.95897pt x 146.72258pt.
 )
-<./figures/conver/list1.png, id=306, 1042.89626pt x 586.19pt>
+<./figures/conver/list1.png, id=309, 1042.89626pt x 586.19pt>
 File: ./figures/conver/list1.png Graphic file (type png)
 
 <use ./figures/conver/list1.png>
 Package pdftex.def Info: ./figures/conver/list1.png used on input line 52.
 (pdftex.def)             Requested size: 386.95897pt x 217.50407pt.
  [15 <./figures/InterProgramScheme.pdf>]
-<./figures/conver/list2.png, id=331, 1198.4775pt x 717.68124pt>
+<./figures/conver/list2.png, id=334, 1198.4775pt x 717.68124pt>
 File: ./figures/conver/list2.png Graphic file (type png)
 
 <use ./figures/conver/list2.png>
 Package pdftex.def Info: ./figures/conver/list2.png used on input line 63.
 (pdftex.def)             Requested size: 386.95897pt x 231.72145pt.
 
-<./figures/conver/list4.png, id=333, 997.7275pt x 780.9175pt>
+<./figures/conver/list4.png, id=336, 997.7275pt x 780.9175pt>
 File: ./figures/conver/list4.png Graphic file (type png)
 
 <use ./figures/conver/list4.png>
 Package pdftex.def Info: ./figures/conver/list4.png used on input line 73.
 (pdftex.def)             Requested size: 386.95897pt x 302.86455pt.
  [16 <./figures/conver/list1.png> <./figures/conver/list2.png>]
-<./figures/conver/listadd.png, id=343, 1056.94875pt x 584.1825pt>
+<./figures/conver/listadd.png, id=346, 1056.94875pt x 584.1825pt>
 File: ./figures/conver/listadd.png Graphic file (type png)
 
 <use ./figures/conver/listadd.png>
 Package pdftex.def Info: ./figures/conver/listadd.png used on input line 87.
 (pdftex.def)             Requested size: 386.95897pt x 213.8711pt.
  [17 <./figures/conver/list4.png>]
-<./figures/conver/lista.png, id=352, 1017.8025pt x 668.4975pt>
+<./figures/conver/lista.png, id=355, 1017.8025pt x 668.4975pt>
 File: ./figures/conver/lista.png Graphic file (type png)
 
 <use ./figures/conver/lista.png>
 Package pdftex.def Info: ./figures/conver/lista.png used on input line 104.
 (pdftex.def)             Requested size: 386.95897pt x 254.15408pt.
  [18 <./figures/conver/listadd.png>]
-<./figures/discreteness/0_13.png, id=361, 1900.09875pt x 777.90625pt>
+<./figures/discreteness/0_13.png, id=364, 1900.09875pt x 777.90625pt>
 File: ./figures/discreteness/0_13.png Graphic file (type png)
 
 <use ./figures/discreteness/0_13.png>
@@ -1166,21 +1194,21 @@ Package pdftex.def Info: ./figures/discreteness/0_13.png used on input line 115
 ) (./sections/ndsResults.tex [19 <./figures/conver/lista.png> <./figures/discre
 teness/0_13.png (PNG copy)>]
 (./figures/WingDeformation3.pdf_tex
-<./figures/WingDeformation3.pdf, id=373, 562.1pt x 240.9pt>
+<./figures/WingDeformation3.pdf, id=376, 562.1pt x 240.9pt>
 File: ./figures/WingDeformation3.pdf Graphic file (type pdf)
 
 <use ./figures/WingDeformation3.pdf>
 Package pdftex.def Info: ./figures/WingDeformation3.pdf used on input line 52.
 (pdftex.def)             Requested size: 435.32422pt x 186.5669pt.
 ) (./figures/WingRotating.pdf_tex
-<./figures/WingRotating.pdf, id=374, 562.1pt x 240.9pt>
+<./figures/WingRotating.pdf, id=377, 562.1pt x 240.9pt>
 File: ./figures/WingRotating.pdf Graphic file (type pdf)
 
 <use ./figures/WingRotating.pdf>
 Package pdftex.def Info: ./figures/WingRotating.pdf used on input line 52.
 (pdftex.def)             Requested size: 435.32422pt x 186.5669pt.
 )
-<./figures/patran/rear_deformed.jpg, id=375, 1611.01875pt x 816.04875pt>
+<./figures/patran/rear_deformed.jpg, id=378, 1611.01875pt x 816.04875pt>
 File: ./figures/patran/rear_deformed.jpg Graphic file (type jpg)
 
 <use ./figures/patran/rear_deformed.jpg>
@@ -1191,7 +1219,81 @@ Package pdftex.def Info: ./figures/patran/rear_deformed.jpg used on input line
 
 pdfTeX warning: pdflatex.exe (file ./figures/WingRotating.pdf): PDF inclusion: 
 multiple pdfs with page group included in a single page
->] <./figures/patran/bottom_iso.png, id=391, 1628.0825pt x 832.10875pt>
+>] <./figures/patran/bottom_iso.png, id=394, 1628.0825pt x 832.10875pt>
+File: ./figures/patran/bott6.94875pt x 584.1825pt>
+File: ./figures/conver/listadd.png Graphic file (type png)
+
+<use ./figures/conver/listadd.png>
+Package pdftex.def Info: ./figures/conver/listadd.png used on input line 87.
+(pdftex.def)             Requested size: 386.95897pt x 213.8711pt.
+ [17 <./figures/conver/list4.png>]
+
+LaTeX Warning: Reference `fig:conver_lista' on page 18 undefined on input line 
+95.
+
+<./figures/conver/lista.png, id=250, 1017.8025pt x 668.4975pt>
+File: ./figures/conver/lista.png Graphic file (type png)
+
+<use ./figures/conver/lista.png>
+Package pdftex.def Info: ./figures/conver/lista.png used on input line 104.
+(pdftex.def)             Requested size: 386.95897pt x 254.15408pt.
+ [18 <./figures/conver/listadd.png>]
+
+LaTeX Warning: Reference `fig:converReadyModel' on page 19 undefined on input l
+ine 110.
+
+<./figures/discreteness/0_13.png, id=258, 1900.09875pt x 777.90625pt>
+File: ./figures/discreteness/0_13.png Graphic file (type png)
+
+<use ./figures/discreteness/0_13.png>
+Package pdftex.def Info: ./figures/discreteness/0_13.png used on input line 115
+.
+(pdftex.def)             Requested size: 386.95897pt x 158.41539pt.
+) (./sections/ndsResults.tex [19 <./figures/conver/lista.png> <./figures/discre
+teness/0_13.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:WingDeformation3' on page 20 undefined on input l
+ine 13.
+
+
+LaTeX Warning: Reference `fig:WingRotating' on page 20 undefined on input line 
+13.
+
+
+LaTeX Warning: Reference `fig:patranRearDeformed' on page 20 undefined on input
+ line 16.
+
+
+LaTeX Warning: Reference `fig:patranTopIsoWithoutSk' on page 20 undefined on in
+put line 16.
+
+(./figures/WingDeformation3.pdf_tex
+<./figures/WingDeformation3.pdf, id=268, 562.1pt x 240.9pt>
+File: ./figures/WingDeformation3.pdf Graphic file (type pdf)
+
+<use ./figures/WingDeformation3.pdf>
+Package pdftex.def Info: ./figures/WingDeformation3.pdf used on input line 52.
+(pdftex.def)             Requested size: 435.32422pt x 186.5669pt.
+) (./figures/WingRotating.pdf_tex
+<./figures/WingRotating.pdf, id=269, 562.1pt x 240.9pt>
+File: ./figures/WingRotating.pdf Graphic file (type pdf)
+
+<use ./figures/WingRotating.pdf>
+Package pdftex.def Info: ./figures/WingRotating.pdf used on input line 52.
+(pdftex.def)             Requested size: 435.32422pt x 186.5669pt.
+)
+<./figures/patran/rear_deformed.jpg, id=270, 1611.01875pt x 816.04875pt>
+File: ./figures/patran/rear_deformed.jpg Graphic file (type jpg)
+
+<use ./figures/patran/rear_deformed.jpg>
+Package pdftex.def Info: ./figures/patran/rear_deformed.jpg used on input line 
+40.
+(pdftex.def)             Requested size: 386.95897pt x 196.00513pt.
+ [20 <./figures/WingDeformation3.pdf> <./figures/WingRotating.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/WingRotating.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+>] <./figures/patran/bottom_iso.png, id=284, 1628.0825pt x 832.10875pt>
 File: ./figures/patran/bottom_iso.png Graphic file (type png)
 
 <use ./figures/patran/bottom_iso.png>
@@ -1199,7 +1301,7 @@ Package pdftex.def Info: ./figures/patran/bottom_iso.png used on input line 64.
 
 (pdftex.def)             Requested size: 386.95897pt x 197.76755pt.
 
-<./figures/patran/bottom_iso_noskin.png, id=392, 1628.0825pt x 832.10875pt>
+<./figures/patran/bottom_iso_noskin.png, id=285, 1628.0825pt x 832.10875pt>
 File: ./figures/patran/bottom_iso_noskin.png Graphic file (type png)
 
 <use ./figures/patran/bottom_iso_noskin.png>
@@ -1207,7 +1309,7 @@ Package pdftex.def Info: ./figures/patran/bottom_iso_noskin.png used on input l
 ine 71.
 (pdftex.def)             Requested size: 386.95897pt x 197.76755pt.
 
-<./figures/patran/bottom_zoom.png, id=393, 1611.01875pt x 816.04875pt>
+<./figures/patran/bottom_zoom.png, id=286, 1611.01875pt x 816.04875pt>
 File: ./figures/patran/bottom_zoom.png Graphic file (type png)
 
 <use ./figures/patran/bottom_zoom.png>
@@ -1216,14 +1318,14 @@ Package pdftex.def Info: ./figures/patran/bottom_zoom.png used on input line 78
 (pdftex.def)             Requested size: 386.95897pt x 196.00513pt.
  [21 <./figures/patran/rear_deformed.jpg> <./figures/patran/bottom_iso.png> <./
 figures/patran/bottom_iso_noskin.png>]
-<./figures/patran/top_iso.png, id=402, 1628.0825pt x 832.10875pt>
+<./figures/patran/top_iso.png, id=296, 1628.0825pt x 832.10875pt>
 File: ./figures/patran/top_iso.png Graphic file (type png)
 
 <use ./figures/patran/top_iso.png>
 Package pdftex.def Info: ./figures/patran/top_iso.png used on input line 86.
 (pdftex.def)             Requested size: 386.95897pt x 197.76755pt.
 
-<./figures/patran/top_iso_noskin.png, id=403, 1628.0825pt x 832.10875pt>
+<./figures/patran/top_iso_noskin.png, id=297, 1628.0825pt x 832.10875pt>
 File: ./figures/patran/top_iso_noskin.png Graphic file (type png)
 
 <use ./figures/patran/top_iso_noskin.png>
@@ -1232,7 +1334,7 @@ Package pdftex.def Info: ./figures/patran/top_iso_noskin.png used on input line
 (pdftex.def)             Requested size: 386.95897pt x 197.76755pt.
  (./sections/problemOfPants.tex
 (./figures/IsoviewOfPants.pdf_tex
-<./figures/IsoviewOfPants.pdf, id=404, 515.2743pt x 263.35535pt>
+<./figures/IsoviewOfPants.pdf, id=298, 515.2743pt x 263.35535pt>
 File: ./figures/IsoviewOfPants.pdf Graphic file (type pdf)
 
 <use ./figures/IsoviewOfPants.pdf>
@@ -1245,8 +1347,16 @@ Overfull \hbox (9.77344pt too wide) in paragraph at lines 54--54
 
 ) [22 <./figures/patran/bottom_zoom.png (PNG copy)> <./figures/patran/top_iso.p
 ng> <./figures/patran/top_iso_noskin.png>]
+
+LaTeX Warning: Reference `fig:IsoviewOfPants' on page 23 undefined on input lin
+e 13.
+
+
+LaTeX Warning: Reference `fig:IsoviewOfPantsModel' on page 23 undefined on inpu
+t line 13.
+
 (./figures/IsoviewOfPantsModel.pdf_tex
-<./figures/IsoviewOfPantsModel.pdf, id=415, 192.7163pt x 202.61603pt>
+<./figures/IsoviewOfPantsModel.pdf, id=308, 192.7163pt x 202.61603pt>
 File: ./figures/IsoviewOfPantsModel.pdf Graphic file (type pdf)
 
 <use ./figures/IsoviewOfPantsModel.pdf>
@@ -1272,9 +1382,23 @@ Overfull \hbox (1.15552pt too wide) in paragraph at lines 55--55
 
 pdfTeX warning: pdflatex.exe (file ./figures/IsoviewOfPantsModel.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
->])) (./sections/rationalParamsOfKSS.tex
+>]
+
+LaTeX Warning: Citation `Volmir' on page 24 undefined on input line 37.
+
+
+LaTeX Warning: Reference `eq:pants_n4' on page 24 undefined on input line 74.
+
+)) (./sections/rationalParamsOfKSS.tex
+
+LaTeX Warning: Reference `sec:creationOfOneModel' on page 24 undefined on input
+ line 1.
+
+
+LaTeX Warning: Reference `fig:epures' on page 24 undefined on input line 1.
+
 (./figures/EpureDistributedLoadN1Top.pdf_tex
-<./figures/EpureDistributedLoadN1Top.pdf, id=432, 562.1pt x 240.9pt>
+<./figures/EpureDistributedLoadN1Top.pdf, id=321, 562.1pt x 240.9pt>
 File: ./figures/EpureDistributedLoadN1Top.pdf Graphic file (type pdf)
 
 <use ./figures/EpureDistributedLoadN1Top.pdf>
@@ -1371,7 +1495,7 @@ Missing character: There is no л in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no х in font cmr12!
 ) (./figures/EpureDistributedLoadN1Bottom.pdf_tex
-<./figures/EpureDistributedLoadN1Bottom.pdf, id=433, 562.1pt x 240.9pt>
+<./figures/EpureDistributedLoadN1Bottom.pdf, id=322, 562.1pt x 240.9pt>
 File: ./figures/EpureDistributedLoadN1Bottom.pdf Graphic file (type pdf)
 
 <use ./figures/EpureDistributedLoadN1Bottom.pdf>
@@ -1468,7 +1592,7 @@ Missing character: There is no л in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no х in font cmr12!
 ) (./figures/EpureDistributedWeightTop.pdf_tex
-<./figures/EpureDistributedWeightTop.pdf, id=434, 562.1pt x 240.9pt>
+<./figures/EpureDistributedWeightTop.pdf, id=323, 562.1pt x 240.9pt>
 File: ./figures/EpureDistributedWeightTop.pdf Graphic file (type pdf)
 
 <use ./figures/EpureDistributedWeightTop.pdf>
@@ -1521,7 +1645,7 @@ Missing character: There is no в in font cmr12!
 Missing character: There is no е in font cmr12!
 Missing character: There is no с in font cmr12!
 ) (./figures/EpureDistributedWeightBottom.pdf_tex
-<./figures/EpureDistributedWeightBottom.pdf, id=435, 562.1pt x 240.9pt>
+<./figures/EpureDistributedWeightBottom.pdf, id=324, 562.1pt x 240.9pt>
 File: ./figures/EpureDistributedWeightBottom.pdf Graphic file (type pdf)
 
 <use ./figures/EpureDistributedWeightBottom.pdf>
@@ -1589,21 +1713,32 @@ pdfTeX warning: pdflatex.exe (file ./figures/EpureDistributedWeightBottom.pdf):
 >]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 (./sections/creationOfModel.tex
-<./figures/BPLAfullModel.png, id=467, 1611.01875pt x 614.295pt>
+
+LaTeX Warning: Reference `fig:fullMKE' on page 26 undefined on input line 4.
+
+
+LaTeX Warning: Reference `fig:centroplanMKE' on page 26 undefined on input line
+ 4.
+
+
+LaTeX Warning: Reference `fig:simplifiedCentroplanMKE' on page 26 undefined on 
+input line 4.
+
+<./figures/BPLAfullModel.png, id=353, 1611.01875pt x 614.295pt>
 File: ./figures/BPLAfullModel.png Graphic file (type png)
 
 <use ./figures/BPLAfullModel.png>
 Package pdftex.def Info: ./figures/BPLAfullModel.png used on input line 9.
 (pdftex.def)             Requested size: 435.32422pt x 165.99309pt.
 
-<./figures/centroplan.png, id=468, 1611.01875pt x 614.295pt>
+<./figures/centroplan.png, id=354, 1611.01875pt x 614.295pt>
 File: ./figures/centroplan.png Graphic file (type png)
 
 <use ./figures/centroplan.png>
 Package pdftex.def Info: ./figures/centroplan.png used on input line 16.
 (pdftex.def)             Requested size: 435.32422pt x 165.99309pt.
 
-<./figures/simplifiedCentroplan.png, id=469, 1611.01875pt x 614.295pt>
+<./figures/simplifiedCentroplan.png, id=355, 1611.01875pt x 614.295pt>
 File: ./figures/simplifiedCentroplan.png Graphic file (type png)
 
 <use ./figures/simplifiedCentroplan.png>
@@ -1613,8 +1748,12 @@ Package pdftex.def Info: ./figures/simplifiedCentroplan.png used on input line
  [26
 
  <./figures/BPLAfullModel.png>]
+
+LaTeX Warning: Reference `fig:KessSectionExample' on page 27 undefined on input
+ line 30.
+
 (./figures/KessSectionExample.pdf_tex
-<./figures/KessSectionExample.pdf, id=479, 551.57521pt x 228.9926pt>
+<./figures/KessSectionExample.pdf, id=364, 551.57521pt x 228.9926pt>
 File: ./figures/KessSectionExample.pdf Graphic file (type pdf)
 
 <use ./figures/KessSectionExample.pdf>
@@ -1631,9 +1770,26 @@ Overfull \hbox (9.10834pt too wide) in paragraph at lines 72--72
  []$\OML/cmm/m/it/12 y\OT1/cmr/m/n/12 [[]]$ 
  []
 
-)) (./sections/calculationOfModel.tex [27 <./figures/centroplan.png> <./figures
-/simplifiedCentroplan.png>] (./figures/optimalSection.pdf_tex
-<./figures/optimalSection.pdf, id=492, 300.86276pt x 97.46468pt>
+)) (./sections/calculationOfModel.tex
+
+LaTeX Warning: Reference `tab:KessTableNormedComparison' on page 27 undefined o
+n input line 3.
+
+
+LaTeX Warning: Reference `tab:KessOptimBigTableNormed' on page 27 undefined on 
+input line 3.
+
+
+LaTeX Warning: Reference `fig:Optimization3dplot' on page 27 undefined on input
+ line 3.
+
+
+LaTeX Warning: Reference `fig:optimalSection' on page 27 undefined on input lin
+e 6.
+
+[27 <./figures/centroplan.png> <./figures/simplifiedCentroplan.png>]
+(./figures/optimalSection.pdf_tex
+<./figures/optimalSection.pdf, id=372, 300.86276pt x 97.46468pt>
 File: ./figures/optimalSection.pdf Graphic file (type pdf)
 
 <use ./figures/optimalSection.pdf>
@@ -1691,35 +1847,48 @@ Overfull \hbox (4.23056pt too wide) in paragraph at lines 73--73
  []
 
 (./data/massSquareTableNormed.tex) (./figures/3dplotNormed.pdf_tex
-<./figures/3dplotNormed.pdf, id=493, 558.819pt x 341.22942pt>
+<./figures/3dplotNormed.pdf, id=373, 558.819pt x 341.22942pt>
 File: ./figures/3dplotNormed.pdf Graphic file (type pdf)
 
 <use ./figures/3dplotNormed.pdf>
 Package pdftex.def Info: ./figures/3dplotNormed.pdf used on input line 52.
 (pdftex.def)             Requested size: 435.32422pt x 265.81943pt.
+
+
+LaTeX Warning: Reference `fig:sec1_1' on page 28 undefined on input line 100.
+
+
+LaTeX Warning: Reference `fig:sec7_1' on page 28 undefined on input line 101.
+
+
+LaTeX Warning: Reference `fig:sec7_6' on page 28 undefined on input line 102.
+
+
+LaTeX Warning: Reference `fig:sec1_6' on page 28 undefined on input line 103.
+
 ) (./figures/sections/1_1.pdf_tex
-<./figures/sections/1_1.pdf, id=498, 321.2pt x 240.9pt>
+<./figures/sections/1_1.pdf, id=374, 321.2pt x 240.9pt>
 File: ./figures/sections/1_1.pdf Graphic file (type pdf)
 
 <use ./figures/sections/1_1.pdf>
 Package pdftex.def Info: ./figures/sections/1_1.pdf used on input line 52.
 (pdftex.def)             Requested size: 227.3381pt x 170.50719pt.
 ) (./figures/sections/1_6.pdf_tex
-<./figures/sections/1_6.pdf, id=499, 321.2pt x 240.9pt>
+<./figures/sections/1_6.pdf, id=375, 321.2pt x 240.9pt>
 File: ./figures/sections/1_6.pdf Graphic file (type pdf)
 
 <use ./figures/sections/1_6.pdf>
 Package pdftex.def Info: ./figures/sections/1_6.pdf used on input line 52.
 (pdftex.def)             Requested size: 227.3381pt x 170.50719pt.
 ) (./figures/sections/7_1.pdf_tex
-<./figures/sections/7_1.pdf, id=500, 321.2pt x 240.9pt>
+<./figures/sections/7_1.pdf, id=376, 321.2pt x 240.9pt>
 File: ./figures/sections/7_1.pdf Graphic file (type pdf)
 
 <use ./figures/sections/7_1.pdf>
 Package pdftex.def Info: ./figures/sections/7_1.pdf used on input line 52.
 (pdftex.def)             Requested size: 227.3381pt x 170.50719pt.
 ) (./figures/sections/7_6.pdf_tex
-<./figures/sections/7_6.pdf, id=501, 321.2pt x 240.9pt>
+<./figures/sections/7_6.pdf, id=377, 321.2pt x 240.9pt>
 File: ./figures/sections/7_6.pdf Graphic file (type pdf)
 
 <use ./figures/sections/7_6.pdf>
@@ -1748,42 +1917,62 @@ pdfTeX warning: pdflatex.exe (file ./figures/sections/7_6.pdf): PDF inclusion:
 multiple pdfs with page group included in a single page
 >] [30]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-<./figures/variants/1_plain.png, id=532, 143.96184pt x 447.55779pt>
+
+LaTeX Warning: Reference `sec:ndsResults' on page 31 undefined on input line 3.
+
+
+
+LaTeX Warning: Reference `fig:variants_plain' on page 31 undefined on input lin
+e 3.
+
+
+LaTeX Warning: Reference `fig:variants_mke' on page 31 undefined on input line 
+3.
+
+
+LaTeX Warning: Reference `sec:creationOfOneModel' on page 31 undefined on input
+ line 3.
+
+
+LaTeX Warning: Reference `sec:optimalMKESize' on page 31 undefined on input lin
+e 3.
+
+<./figures/variants/1_plain.png, id=407, 143.96184pt x 447.55779pt>
 File: ./figures/variants/1_plain.png Graphic file (type png)
 
 <use ./figures/variants/1_plain.png>
 Package pdftex.def Info: ./figures/variants/1_plain.png used on input line 10.
 (pdftex.def)             Requested size: 46.43642pt x 144.36188pt.
 
-<./figures/variants/2_plain.png, id=533, 143.0946pt x 449.0376pt>
+<./figures/variants/2_plain.png, id=408, 143.0946pt x 449.0376pt>
 File: ./figures/variants/2_plain.png Graphic file (type png)
 
 <use ./figures/variants/2_plain.png>
 Package pdftex.def Info: ./figures/variants/2_plain.png used on input line 16.
 (pdftex.def)             Requested size: 46.43642pt x 145.71622pt.
 
-<./figures/variants/3_plain.png, id=534, 146.949pt x 448.074pt>
+<./figures/variants/3_plain.png, id=409, 146.949pt x 448.074pt>
 File: ./figures/variants/3_plain.png Graphic file (type png)
 
 <use ./figures/variants/3_plain.png>
 Package pdftex.def Info: ./figures/variants/3_plain.png used on input line 22.
 (pdftex.def)             Requested size: 46.43642pt x 141.59529pt.
 
-<./figures/variants/1_mke.png, id=535, 297.2706pt x 233.1912pt>
+<./figures/variants/1_mke.png, id=410, 297.2706pt x 233.1912pt>
 File: ./figures/variants/1_mke.png Graphic file (type png)
 
 <use ./figures/variants/1_mke.png>
 Package pdftex.def Info: ./figures/variants/1_mke.png used on input line 34.
 (pdftex.def)             Requested size: 154.78653pt x 121.42023pt.
 
-<./figures/variants/2_mke.png, id=536, 262.0992pt x 172.4844pt>
+<./figures/variants/2_mke.png, id=411, 262.0992pt x 172.4844pt>
 File: ./figures/variants/2_mke.png Graphic file (type png)
 
 <use ./figures/variants/2_mke.png>
 Package pdftex.def Info: ./figures/variants/2_mke.png used on input line 39.
 (pdftex.def)             Requested size: 154.78653pt x 101.86491pt.
 
-<./figures/variants/3_mke.png, id=537, 248.6088pt x 187.4202pt>
+<./figures/variants/3_mke.png, id=412, 248.6088pt x 187.4202pt>
 File: ./figures/variants/3_mke.png Graphic file (type png)
 
 <use ./figures/variants/3_mke.png>
@@ -1793,7 +1982,23 @@ Package pdftex.def Info: ./figures/variants/3_mke.png used on input line 45.
 
  <./figures/variants/1_plain.png> <./figures/variants/2_plain.png> <./figures/v
 ariants/3_plain.png>]
-<./figures/discreteness/0_4.png, id=552, 1900.09875pt x 777.90625pt>
+
+LaTeX Warning: Reference `sec:creationOfOneModel' on page 32 undefined on input
+ line 60.
+
+
+LaTeX Warning: Reference `fig:discreteness' on page 32 undefined on input line 
+65.
+
+
+LaTeX Warning: Reference `sec:ndsResults' on page 32 undefined on input line 65
+.
+
+
+LaTeX Warning: Reference `fig:criticalPointsBoth' on page 32 undefined on input
+ line 65.
+
+<./figures/discreteness/0_4.png, id=423, 1900.09875pt x 777.90625pt>
 File: ./figures/discreteness/0_4.png Graphic file (type png)
 
 <use ./figures/discreteness/0_4.png>
@@ -1816,7 +2021,7 @@ LaTeX Warning: Command \cyrm invalid in math mode on input line 73.
 
 Missing character: There is no с in font cmr10!
 Missing character: There is no м in font cmr10!
-<./figures/discreteness/0_2.png, id=553, 1900.09875pt x 777.90625pt>
+<./figures/discreteness/0_2.png, id=424, 1900.09875pt x 777.90625pt>
 File: ./figures/discreteness/0_2.png Graphic file (type png)
 
 <use ./figures/discreteness/0_2.png>
@@ -1862,7 +2067,7 @@ LaTeX Warning: Command \cyrm invalid in math mode on input line 83.
 Missing character: There is no с in font cmr10!
 Missing character: There is no м in font cmr10!
 
-<./figures/RootOfWingWithSelectedPartsBW.png, id=554, 1041.8925pt x 898.35625pt
+<./figures/RootOfWingWithSelectedPartsBW.png, id=425, 1041.8925pt x 898.35625pt
 >
 File: ./figures/RootOfWingWithSelectedPartsBW.png Graphic file (type png)
  <use ./figures/RootOfWingWithSelectedPartsBW.png>
@@ -1871,14 +2076,19 @@ put line 96.
 (pdftex.def)             Requested size: 227.3381pt x 196.02145pt.
 
 (./figures/criticalPoints.pdf_tex
-<./figures/criticalPoints.pdf, id=555, 337.7813pt x 285.37978pt>
+<./figures/criticalPoints.pdf, id=426, 337.7813pt x 285.37978pt>
 File: ./figures/criticalPoints.pdf Graphic file (type pdf)
 
 <use ./figures/criticalPoints.pdf>
 Package pdftex.def Info: ./figures/criticalPoints.pdf used on input line 52.
 (pdftex.def)             Requested size: 227.3381pt x 192.07434pt.
-) (./figures/StressToDiscreteness.pdf_tex
-<./figures/StressToDiscreteness.pdf, id=557, 562.1pt x 240.9pt>
+)
+
+LaTeX Warning: Reference `fig:stressToDiscreteness' on page 32 undefined on inp
+ut line 122.
+
+(./figures/StressToDiscreteness.pdf_tex
+<./figures/StressToDiscreteness.pdf, id=427, 562.1pt x 240.9pt>
 File: ./figures/StressToDiscreteness.pdf Graphic file (type pdf)
 
 <use ./figures/StressToDiscreteness.pdf>
@@ -1890,41 +2100,86 @@ Overfull \hbox (22.14047pt too wide) in paragraph at lines 76--76
  []$[]$ 
  []
 
-) [32 <./figures/variants/1_mke.png> <./figures/variants/2_mke.png (PNG copy)> 
-<./figures/variants/3_mke.png (PNG copy)>]) (./chapters/Conclusion.tex [33]
-[34 <./figures/discreteness/0_4.png (PNG copy)> <./figures/discreteness/0_2.png
- (PNG copy)>] [35 <./figures/RootOfWingWithSelectedPartsBW.png> <./figures/crit
-icalPoints.pdf> <./figures/StressToDiscreteness.pdf
+)
+
+LaTeX Warning: Reference `fig:variants_mke:1' on page 32 undefined on input lin
+e 142.
+
+
+LaTeX Warning: Reference `sec:pants' on page 32 undefined on input line 142.
+
+
+LaTeX Warning: Reference `fig:variants_mke:2' on page 32 undefined on input lin
+e 142.
+
+
+LaTeX Warning: Reference `fig:variants_mke:3' on page 32 undefined on input lin
+e 142.
+
+[32 <./figures/variants/1_mke.png> <./figures/variants/2_mke.png (PNG copy)> <.
+/figures/variants/3_mke.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:variants_plain' on page 33 undefined on input lin
+e 144.
+
+
+LaTeX Warning: Reference `fig:variants_mke' on page 33 undefined on input line 
+144.
+
+) (./chapters/Conclusion.tex [33] [34 <./figures/discreteness/0_4.png (PNG copy
+)> <./figures/discreteness/0_2.png (PNG copy)>] [35 <./figures/RootOfWingWithSe
+lectedPartsBW.png> <./figures/criticalPoints.pdf> <./figures/StressToDiscretene
+ss.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures/StressToDiscreteness.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
->] [36
+>]
 
-]) [37] (./main.lot)
+LaTeX Warning: Reference `sec:modelsComparison' on page 36 undefined on input l
+ine 24.
+
+
+LaTeX Warning: Reference `fig:variants_mke:3' on page 36 undefined on input lin
+e 24.
+
+[36
+
+]) [37]
+
+Package hyperref Warning: old lot file detected, not used; run LaTeX again.
+
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [38
+[38
 
-] (./main.lof [39
+]
 
-])
+Package hyperref Warning: old lof file detected, not used; run LaTeX again.
+
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- (./main.bbl [40])
+(./main.bbl [39
+
+])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
- [41
+ [40
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
-
-(./main.aux)
+ (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BF33B9B77829220E3D3C5C62B5511278;5485.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  BF33B9B77829220E3D3C5C62B5511278;5485.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -1932,13 +2187,16 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 13815 strings out of 494408
- 199712 string characters out of 6170599
- 356420 words of memory out of 5000000
- 16512 multiletter control sequences out of 15000+600000
+ 13791 strings out of 494408
+ 199423 string characters out of 6170599
+ 346120 words of memory out of 5000000
+ 16495 multiletter control sequences out of 15000+600000
  19456 words of font info for 46 fonts, out of 8000000 for 9000
  499 hyphenation exceptions out of 8191
  42i,18n,46p,2344b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1963,10 +2221,10 @@ f-dist/fonts/type1/public/cm-super/sfrm1200.pfb><h:/texlive_onemorefresh/texmf-
 dist/fonts/type1/public/cm-super/sfrm1440.pfb><h:/texlive_onemorefresh/texmf-di
 st/fonts/type1/public/cm-super/sfrm1728.pfb><h:/texlive_onemorefresh/texmf-dist
 /fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (41 pages, 7162987 bytes).
+Output written on main.pdf (40 pages, 7151163 bytes).
 PDF statistics:
- 780 PDF objects out of 1000 (max. 8388607)
- 599 compressed objects within 6 object streams
+ 583 PDF objects out of 1000 (max. 8388607)
+ 404 compressed objects within 5 object streams
  133 named destinations out of 1000 (max. 500000)
- 439 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 311 words of extra memory for PDF output out of 10000 (max. 10000000)
 
