@@ -1,4 +1,4 @@
-%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
+%% Creator: Inkscape 0.48.3.1, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'KessSectionExample.pdf' (pdf, eps, ps)
 %%
@@ -36,7 +36,7 @@
   }%
   \providecommand\rotatebox[2]{#2}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{538.58266602bp}%
+    \setlength{\unitlength}{549.51455078bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -48,26 +48,28 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.42105264)%
+  \begin{picture}(1,0.41516114)%
     \put(0,0){\includegraphics[width=\unitlength]{KessSectionExample.pdf}}%
-    \put(0.02541565,0.03323457){\makebox(0,0)[rb]{\smash{-1.4}}}%
-    \put(0.02541565,0.07145669){\makebox(0,0)[rb]{\smash{-1.2}}}%
-    \put(0.02541565,0.10972322){\makebox(0,0)[rb]{\smash{-1}}}%
-    \put(0.02541565,0.14794535){\makebox(0,0)[rb]{\smash{-0.8}}}%
-    \put(0.02541565,0.18616748){\makebox(0,0)[rb]{\smash{-0.6}}}%
-    \put(0.02541565,0.2243859){\makebox(0,0)[rb]{\smash{-0.4}}}%
-    \put(0.02541565,0.26265613){\makebox(0,0)[rb]{\smash{-0.2}}}%
-    \put(0.02511103,0.30087456){\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.02511103,0.33909669){\makebox(0,0)[rb]{\smash{0.2}}}%
-    \put(0.02511103,0.37731511){\makebox(0,0)[rb]{\smash{0.4}}}%
-    \put(0.12260637,0.01812702){\makebox(0,0)[lb]{\smash{-2}}}%
-    \put(0.31380211,0.01812702){\makebox(0,0)[lb]{\smash{-1}}}%
-    \put(0.50509527,0.01812702){\makebox(0,0)[lb]{\smash{0}}}%
-    \put(0.70004723,0.01812702){\makebox(0,0)[lb]{\smash{1}}}%
-    \put(0.89124296,0.01812702){\makebox(0,0)[lb]{\smash{2}}}%
-    \put(0.21363557,0.33085156){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.27671284\unitlength}\raggedright $\text{Базовая горизонталь БПЛА}$\end{minipage}}}%
-    \put(0.39919888,0.18178072){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17303559\unitlength}\raggedleft $y_\text{отн}$\end{minipage}}}%
-    \put(0.36089452,0.09811679){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14557469\unitlength}\raggedleft $h_\text{стр}$\end{minipage}}}%
-    \put(0.52110927,0.38699893){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.35959704\unitlength}\raggedright $\text{Плоскость симметрии БПЛА}$\end{minipage}}}%
+    \put(0.05584757,0.04296468){\makebox(0,0)[rb]{\smash{-1.4}}}%
+    \put(0.05584758,0.08042643){\makebox(0,0)[rb]{\smash{-1.2}}}%
+    \put(0.05584757,0.1179317){\makebox(0,0)[rb]{\smash{-1}}}%
+    \put(0.05584758,0.15539344){\makebox(0,0)[rb]{\smash{-0.8}}}%
+    \put(0.05584757,0.19285519){\makebox(0,0)[rb]{\smash{-0.6}}}%
+    \put(0.05584757,0.23031331){\makebox(0,0)[rb]{\smash{-0.4}}}%
+    \put(0.05584758,0.2678222){\makebox(0,0)[rb]{\smash{-0.2}}}%
+    \put(0.05554902,0.30528032){\makebox(0,0)[rb]{\smash{0}}}%
+    \put(0.05554902,0.34274207){\makebox(0,0)[rb]{\smash{0.2}}}%
+    \put(0.05554901,0.38020019){\makebox(0,0)[rb]{\smash{0.4}}}%
+    \put(0.15110482,0.02815768){\makebox(0,0)[lb]{\smash{-2}}}%
+    \put(0.33849696,0.02815768){\makebox(0,0)[lb]{\smash{-1}}}%
+    \put(0.52598459,0.02815768){\makebox(0,0)[lb]{\smash{0}}}%
+    \put(0.71705823,0.02815768){\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0.90445037,0.02815768){\makebox(0,0)[lb]{\smash{2}}}%
+    \put(0.24032311,0.33466097){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.271208\unitlength}\raggedright $\text{Базовая горизонталь БПЛА}$\end{minipage}}}%
+    \put(0.42219487,0.1885557){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.16959327\unitlength}\raggedleft $y_\text{отн}$\end{minipage}}}%
+    \put(0.38465253,0.10655616){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14267866\unitlength}\raggedleft $h_\text{стр}$\end{minipage}}}%
+    \put(0.54168001,0.38969136){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.35244332\unitlength}\raggedright $\text{Плоскость симметрии БПЛА}$\end{minipage}}}%
+    \put(-0.01533202,0.21044143){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lt]{\begin{minipage}{0.02358446\unitlength}\centering $y[\text{м}]$\end{minipage}}}}%
+    \put(0.45807818,0.01825279){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14674769\unitlength}\centering $z[\text{м}]$\end{minipage}}}%
   \end{picture}%
 \endgroup%

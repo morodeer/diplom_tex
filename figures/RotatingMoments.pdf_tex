@@ -50,28 +50,28 @@
   \makeatother%
   \begin{picture}(1,0.42857143)%
     \put(0,0){\includegraphics[width=\unitlength]{RotatingMoments.pdf}}%
-    \put(0.09085714,0.07585714){\makebox(0,0)[rb]{\smash{-0.8}}}%
-    \put(0.09085714,0.11171429){\makebox(0,0)[rb]{\smash{-0.6}}}%
-    \put(0.09085714,0.14757143){\makebox(0,0)[rb]{\smash{-0.4}}}%
-    \put(0.09085714,0.18328571){\makebox(0,0)[rb]{\smash{-0.2}}}%
-    \put(0.09085714,0.21914286){\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.09085714,0.255){\makebox(0,0)[rb]{\smash{0.2}}}%
-    \put(0.09085714,0.29085714){\makebox(0,0)[rb]{\smash{0.4}}}%
-    \put(0.09085714,0.32657143){\makebox(0,0)[rb]{\smash{0.6}}}%
-    \put(0.09085714,0.36242857){\makebox(0,0)[rb]{\smash{0.8}}}%
-    \put(0.09085714,0.39828571){\makebox(0,0)[rb]{\smash{1}}}%
-    \put(0.10271429,0.05014286){\makebox(0,0)[b]{\smash{0}}}%
-    \put(0.19842857,0.05014286){\makebox(0,0)[b]{\smash{2}}}%
-    \put(0.29414286,0.05014286){\makebox(0,0)[b]{\smash{4}}}%
-    \put(0.38985714,0.05014286){\makebox(0,0)[b]{\smash{6}}}%
-    \put(0.48557143,0.05014286){\makebox(0,0)[b]{\smash{8}}}%
-    \put(0.58142857,0.05014286){\makebox(0,0)[b]{\smash{10}}}%
-    \put(0.67714286,0.05014286){\makebox(0,0)[b]{\smash{12}}}%
-    \put(0.77285714,0.05014286){\makebox(0,0)[b]{\smash{14}}}%
-    \put(0.86857143,0.05014286){\makebox(0,0)[b]{\smash{16}}}%
+    \put(0.10271429,0.07585714){\makebox(0,0)[rb]{\smash{-800}}}%
+    \put(0.10271429,0.11171429){\makebox(0,0)[rb]{\smash{-600}}}%
+    \put(0.10271429,0.14757143){\makebox(0,0)[rb]{\smash{-400}}}%
+    \put(0.10271429,0.18328571){\makebox(0,0)[rb]{\smash{-200}}}%
+    \put(0.10271429,0.21914286){\makebox(0,0)[rb]{\smash{0}}}%
+    \put(0.10271429,0.255){\makebox(0,0)[rb]{\smash{200}}}%
+    \put(0.10271429,0.29085714){\makebox(0,0)[rb]{\smash{400}}}%
+    \put(0.10271429,0.32657143){\makebox(0,0)[rb]{\smash{600}}}%
+    \put(0.10271429,0.36242857){\makebox(0,0)[rb]{\smash{800}}}%
+    \put(0.10271429,0.39828571){\makebox(0,0)[rb]{\smash{1000}}}%
+    \put(0.11457143,0.05014286){\makebox(0,0)[b]{\smash{0}}}%
+    \put(0.209,0.05014286){\makebox(0,0)[b]{\smash{2}}}%
+    \put(0.30342857,0.05014286){\makebox(0,0)[b]{\smash{4}}}%
+    \put(0.39785714,0.05014286){\makebox(0,0)[b]{\smash{6}}}%
+    \put(0.49228571,0.05014286){\makebox(0,0)[b]{\smash{8}}}%
+    \put(0.58657143,0.05014286){\makebox(0,0)[b]{\smash{10}}}%
+    \put(0.681,0.05014286){\makebox(0,0)[b]{\smash{12}}}%
+    \put(0.77542857,0.05014286){\makebox(0,0)[b]{\smash{14}}}%
+    \put(0.86985714,0.05014286){\makebox(0,0)[b]{\smash{16}}}%
     \put(0.96428571,0.05014286){\makebox(0,0)[b]{\smash{18}}}%
-    \put(0.02514286,0.24342857){\rotatebox{90}{\makebox(0,0)[b]{\smash{$M_\text{кр}[\text{тс}\cdot\text{м}]$}}}}%
-    \put(0.53342857,0.01157143){\makebox(0,0)[b]{\smash{$Z[\text{м}]$}}}%
+    \put(0.02514286,0.24342857){\rotatebox{90}{\makebox(0,0)[b]{\smash{$M_\text{кр}[\text{кгс}\cdot\text{м}]$}}}}%
+    \put(0.53942857,0.01157143){\makebox(0,0)[b]{\smash{$Z[\text{м}]$}}}%
     \put(0.86842857,0.37257143){\makebox(0,0)[rb]{\smash{$M_\text{кр}$}}}%
   \end{picture}%
 \endgroup%

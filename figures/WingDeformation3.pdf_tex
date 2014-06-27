@@ -69,7 +69,5 @@
     \put(0.96428571,0.05014286){\makebox(0,0)[b]{\smash{18}}}%
     \put(0.02514286,0.24342857){\rotatebox{90}{\makebox(0,0)[b]{\smash{$\Delta Y[\text{м}]$}}}}%
     \put(0.52157143,0.01157143){\makebox(0,0)[b]{\smash{$Z[\text{м}]$}}}%
-    \put(0.17485714,0.37257143){\makebox(0,0)[lb]{\smash{$\text{Балочная модель}$}}}%
-    \put(0.17485714,0.34685714){\makebox(0,0)[lb]{\smash{$\text{МКЭ-модель}$}}}%
   \end{picture}%
 \endgroup%

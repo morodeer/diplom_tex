@@ -1,4 +1,4 @@
-%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
+%% Creator: Inkscape 0.48.3.1, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'StressToDiscreteness.pdf' (pdf, eps, ps)
 %%
@@ -73,5 +73,6 @@
     \put(0.86842857,0.34685714){\makebox(0,0)[rb]{\smash{$1.36$}}}%
     \put(0.86842857,0.32114286){\makebox(0,0)[rb]{\smash{$2.33$}}}%
     \put(0.86842857,0.29542857){\makebox(0,0)[rb]{\smash{$2.34$}}}%
+    \put(0.01414213,0.45726238){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.52797307\unitlength}\centering $\text{Допускаемые значения максимального размера КЭ}$\end{minipage}}}%
   \end{picture}%
 \endgroup%
