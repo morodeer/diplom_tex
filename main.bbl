@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+\ProvideTextCommandDefault{\cyrdash}{\hbox to.8em{--\hss--}}
+\providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em\fi
+\cyrdash\hskip.2em\ignorespaces}
+
+\bibitem{UAVBook}
+\selectlanguageifdefined{russian}
+\BibEmph{О.С.Титков}. Современное состояние и
+  перспективы развития беспилотных
+  авиационных систем XXI века. \BibDash
+\newblock ФГУП ``ГосНИИАС'', 2012.
+
+\bibitem{BPS}
+\selectlanguageifdefined{russian}
+\BibEmph{Кажан В.Г., Шаныгин А.Н. {\cyr\cyri~\cyrd\cyrr.}}
+  Анализ проблем создания и особенностей
+  производства композитной конструкции
+  планера БПС с крылом сверхбольшого
+  удлинения. Формирование и анализ КСС. \BibDash
+\newblock НТО ЦАГИ, 2012.
+
+\bibitem{ConverICAS}
+\selectlanguageifdefined{english}
+\BibEmph{Dubovikov~E.} Novel approach and algorithm for searching rational
+  nonconventional airframe concepts of new generation aircrafts~// 28th
+  Congress of the International Council of the Aeronautical Sciences (ICAS
+  2012). \BibDash
+\newblock 2012.
+
+\bibitem{ConverNice}
+\selectlanguageifdefined{english}
+\BibEmph{Shanygin~A., Fomin~V., Zamula~G.} Multilevel approach for strength and
+  weight analyses of composite airframe structures~// Proceedings of the 27th
+  International Congress of the Aeronautical Sciences. \BibDash
+\newblock Nice, September, 2010.
+
+\bibitem{Volmir}
+\selectlanguageifdefined{russian}
+\BibEmph{А.С.Вольмир}. Устойчивость
+  деформируемых систем. \BibDash
+\newblock Наука, 1967.
+
+\end{thebibliography}

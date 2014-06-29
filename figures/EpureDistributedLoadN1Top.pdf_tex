@@ -1,4 +1,4 @@
-%% Creator: Inkscape 0.48.3.1, www.inkscape.org
+%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'EpureDistributedLoadN1Top.pdf' (pdf, eps, ps)
 %%
@@ -36,7 +36,7 @@
   }%
   \providecommand\rotatebox[2]{#2}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{560bp}%
+    \setlength{\unitlength}{280bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -48,31 +48,31 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.42857143)%
+  \begin{picture}(1,0.71428571)%
     \put(0,0){\includegraphics[width=\unitlength]{EpureDistributedLoadN1Top.pdf}}%
-    \put(0.09085714,0.07585714){\makebox(0,0)[rb]{\smash{-200}}}%
-    \put(0.09085714,0.10514286){\makebox(0,0)[rb]{\smash{-180}}}%
-    \put(0.09085714,0.13442857){\makebox(0,0)[rb]{\smash{-160}}}%
-    \put(0.09085714,0.16385714){\makebox(0,0)[rb]{\smash{-140}}}%
-    \put(0.09085714,0.19314286){\makebox(0,0)[rb]{\smash{-120}}}%
-    \put(0.09085714,0.22242857){\makebox(0,0)[rb]{\smash{-100}}}%
-    \put(0.09085714,0.25171429){\makebox(0,0)[rb]{\smash{-80}}}%
-    \put(0.09085714,0.281){\makebox(0,0)[rb]{\smash{-60}}}%
-    \put(0.09085714,0.31028571){\makebox(0,0)[rb]{\smash{-40}}}%
-    \put(0.09085714,0.33971429){\makebox(0,0)[rb]{\smash{-20}}}%
-    \put(0.09085714,0.369){\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.09085714,0.39828571){\makebox(0,0)[rb]{\smash{20}}}%
-    \put(0.10271429,0.05014286){\makebox(0,0)[b]{\smash{0}}}%
-    \put(0.19842857,0.05014286){\makebox(0,0)[b]{\smash{2}}}%
-    \put(0.29414286,0.05014286){\makebox(0,0)[b]{\smash{4}}}%
-    \put(0.38985714,0.05014286){\makebox(0,0)[b]{\smash{6}}}%
-    \put(0.48557143,0.05014286){\makebox(0,0)[b]{\smash{8}}}%
-    \put(0.58142857,0.05014286){\makebox(0,0)[b]{\smash{10}}}%
-    \put(0.67714286,0.05014286){\makebox(0,0)[b]{\smash{12}}}%
-    \put(0.77285714,0.05014286){\makebox(0,0)[b]{\smash{14}}}%
-    \put(0.86857143,0.05014286){\makebox(0,0)[b]{\smash{16}}}%
-    \put(0.96428571,0.05014286){\makebox(0,0)[b]{\smash{18}}}%
-    \put(0.02514286,0.24342857){\rotatebox{90}{\makebox(0,0)[b]{\smash{$Погонные усилия в панелях N_x[\text{кгс}/\text{мм}]$}}}}%
-    \put(0.53342857,0.01157143){\makebox(0,0)[b]{\smash{$Z[\text{м}]$}}}%
+    \put(0.18171429,0.15171429){\makebox(0,0)[rb]{\smash{-200}}}%
+    \put(0.18171429,0.19742857){\makebox(0,0)[rb]{\smash{-180}}}%
+    \put(0.18171429,0.24285714){\makebox(0,0)[rb]{\smash{-160}}}%
+    \put(0.18171429,0.28857143){\makebox(0,0)[rb]{\smash{-140}}}%
+    \put(0.18171429,0.33428571){\makebox(0,0)[rb]{\smash{-120}}}%
+    \put(0.18171429,0.38){\makebox(0,0)[rb]{\smash{-100}}}%
+    \put(0.18171429,0.42542857){\makebox(0,0)[rb]{\smash{-80}}}%
+    \put(0.18171429,0.47114286){\makebox(0,0)[rb]{\smash{-60}}}%
+    \put(0.18171429,0.51685714){\makebox(0,0)[rb]{\smash{-40}}}%
+    \put(0.18171429,0.56257143){\makebox(0,0)[rb]{\smash{-20}}}%
+    \put(0.18171429,0.608){\makebox(0,0)[rb]{\smash{0}}}%
+    \put(0.18171429,0.65371429){\makebox(0,0)[rb]{\smash{20}}}%
+    \put(0.20542857,0.10028571){\makebox(0,0)[b]{\smash{0}}}%
+    \put(0.28571429,0.10028571){\makebox(0,0)[b]{\smash{2}}}%
+    \put(0.366,0.10028571){\makebox(0,0)[b]{\smash{4}}}%
+    \put(0.44657143,0.10028571){\makebox(0,0)[b]{\smash{6}}}%
+    \put(0.52685714,0.10028571){\makebox(0,0)[b]{\smash{8}}}%
+    \put(0.60714286,0.10028571){\makebox(0,0)[b]{\smash{10}}}%
+    \put(0.68742857,0.10028571){\makebox(0,0)[b]{\smash{12}}}%
+    \put(0.768,0.10028571){\makebox(0,0)[b]{\smash{14}}}%
+    \put(0.84828571,0.10028571){\makebox(0,0)[b]{\smash{16}}}%
+    \put(0.92857143,0.10028571){\makebox(0,0)[b]{\smash{18}}}%
+    \put(0.05028571,0.41542857){\rotatebox{90}{\makebox(0,0)[b]{\smash{$Погонные усилия в панелях N_x[\text{кгс}/\text{мм}]$}}}}%
+    \put(0.56685714,0.02314286){\makebox(0,0)[b]{\smash{$Z[\text{м}]$}}}%
   \end{picture}%
 \endgroup%

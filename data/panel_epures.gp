@@ -1,4 +1,4 @@
-set term svg size 700,300
+set term svg size 350,250
 #set term wxt
 set xzeroaxis ls 7
 set grid
